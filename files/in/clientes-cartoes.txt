@@ -1,0 +1,2000 @@
+cliente^1^Davi Luca^da Fronteira^davi.luca.da.fronteira@gmail.com^ATIVO
+cartao|c4ca4238-a0b9-3382-8dcc-509a6f75849b|1|1228122112211431|discover|11/11/2030
+cliente^2^Enzo Miguel^da Cruz^enzo.miguel.da.cruz@bol.com.br^ATIVO
+cartao|c81e728d-9d4c-3f63-af06-7f89cc14862c|2|1211122112342201|dankort|12/11/2027
+cliente^3^Davi Lucas^Gentil^davi.lucas.gentil@bol.com.br^ATIVO
+cartao|eccbc87e-4b5c-32fe-a830-8fd9f2a7baf3|3|1211122112342201|american_express|11/11/2030
+cliente^4^Melissa^Fontinhas^melissa.fontinhas@bol.com.br^ATIVO
+cartao|a87ff679-a2f3-371d-9181-a67b7542122c|4|1228122112211431|mastercard|12/09/2028
+cliente^5^Felipe^de Oliveira^felipe.de.oliveira@yahoo.com^ATIVO
+cartao|e4da3b7f-bbce-3345-9777-2b0674a318d5|5|1234212112211211|visa|12/10/2026
+cliente^6^Rebeca^Tavares^rebeca.tavares@hotmail.com^ATIVO
+cartao|1679091c-5a88-3faf-afb5-e6087eb1b2dc|6|1212122111211234|visa|12/11/2027
+cliente^7^Giovanna^Matoso^giovanna.matoso@yahoo.com^ATIVO
+cartao|8f14e45f-ceea-367a-9a36-dedd4bea2543|7|1211122112342201|dankort|12/11/2027
+cliente^8^Miguel^Souza^miguel.souza@hotmail.com^ATIVO
+cartao|c9f0f895-fb98-3b91-99f5-1fd0297e236d|8|1211122112342201|diners_club|11/11/2030
+cliente^9^Henry^Gomes^henry.gomes@gmail.com^ATIVO
+cartao|45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26|9|1234212112211211|discover|11/11/2030
+cliente^10^Bianca^Fogaça^bianca.fogaca@yahoo.com^ATIVO
+cartao|d3d94468-02a4-3259-b55d-38e6d163e820|10|1212122111211234|american_express|12/10/2026
+cliente^11^Ryan^Ramalho^ryan.ramalho@yahoo.com^ATIVO
+cartao|6512bd43-d9ca-36e0-ac99-0b0a82652dca|11|1211122112342201|discover|12/10/2026
+cliente^12^Deneval^da Fontoura^deneval.da.fontoura@hotmail.com^ATIVO
+cartao|c20ad4d7-6fe9-3759-aa27-a0c99bff6710|12|1228122112211431|jcb|12/11/2027
+cliente^13^Mirella^Camacho^mirella.camacho@live.com^ATIVO
+cartao|c51ce410-c124-310e-8db5-e4b97fc2af39|13|1228122112211431|laser|12/10/2026
+cliente^14^Noah^Pinto^noah.pinto@live.com^ATIVO
+cartao|aab32389-22bc-325a-af60-6eb525ffdc56|14|1211122112342201|jcb|11/11/2030
+cliente^15^Tertuliano^Guterres^tertuliano.guterres@bol.com.br^ATIVO
+cartao|9bf31c7f-f062-336a-96d3-c8bd1f8f2ff3|15|1228122112211431|visa|12/10/2026
+cliente^16^Isabella^Nascimento^isabella.nascimento@hotmail.com^ATIVO
+cartao|c74d97b0-1eae-357e-84aa-9d5bade97baf|16|1211122112342201|mastercard|12/09/2028
+cliente^17^João Gabriel^Teixeira^joao.gabriel.teixeira@bol.com.br^ATIVO
+cartao|70efdf2e-c9b0-3607-9795-c442636b55fb|17|1211122112342201|jcb|11/11/2030
+cliente^18^Paulo^Velasques^paulo.velasques@hotmail.com^ATIVO
+cartao|6f4922f4-5568-361a-8cdf-4ad2299f6d23|18|1228122112211431|solo|12/11/2027
+cliente^19^Gustavo^Fontes^gustavo.fontes@hotmail.com^ATIVO
+cartao|1f0e3dad-9990-3345-b743-9f8ffabdffc4|19|1212122111211234|laser|11/11/2030
+cliente^20^Caio^Vasques^caio.vasques@gmail.com^ATIVO
+cartao|98f13708-2101-34c4-b568-7be6106a3b84|20|1234212112211211|visa|12/10/2026
+cliente^21^Mathias^Aparício^mathias.aparicio@hotmail.com^ATIVO
+cartao|3c59dc04-8e88-3024-bbe8-079a5c74d079|21|1234212112211211|jcb|12/10/2026
+cliente^22^Ana Beatriz^de Lara^ana.beatriz.de.lara@bol.com.br^ATIVO
+cartao|b6d767d2-f8ed-3d21-a44b-0e5886680cb9|22|1212122111211234|discover|12/10/2026
+cliente^23^Igor^Siqueiro^igor.siqueiro@live.com^ATIVO
+cartao|37693cfc-7480-39e4-9d87-b8c7d8b9aacd|23|1234212112211211|mastercard|12/09/2028
+cliente^24^Enrico^Sais^enrico.sais@yahoo.com^ATIVO
+cartao|1ff1de77-4005-38da-93f4-2943881c655f|24|1211122112342201|dankort|12/09/2028
+cliente^25^Eduarda^Solimões^eduarda.solimoes@yahoo.com^ATIVO
+cartao|8e296a06-7a37-3633-b0de-d05f5a3bf3ec|25|1212122111211234|jcb|12/11/2027
+cliente^26^Cauã^Fontinhas^caua.fontinhas@bol.com.br^ATIVO
+cartao|4e732ced-3463-306d-a0ca-9a15b6153677|26|1228122112211431|laser|12/10/2026
+cliente^27^Carlos^Custódio^carlos.custodio@hotmail.com^ATIVO
+cartao|02e74f10-e032-3ad8-a8d1-38f2b4fdd6f0|27|1212122111211234|jcb|12/10/2026
+cliente^28^Maria Helena^Gabeira^maria.helena.gabeira@gmail.com^ATIVO
+cartao|33e75ff0-9dd6-31bb-a69f-351039152189|28|1212122111211234|mastercard|12/11/2027
+cliente^29^Enzo Gabriel^Filgueira^enzo.gabriel.filgueira@hotmail.com^ATIVO
+cartao|6ea9ab1b-aa0e-3b9e-9909-4440c317e21b|29|1212122111211234|discover|12/09/2028
+cliente^30^Luiz Gustavo^Godinho^luiz.gustavo.godinho@hotmail.com^ATIVO
+cartao|34173cb3-8f07-389d-9beb-c2ac9128303f|30|1211122112342201|jcb|12/09/2028
+cliente^31^Luiz Otávio^Aragão^luiz.otavio.aragao@hotmail.com^ATIVO
+cartao|c16a5320-fa47-3530-9958-3c34fd356ef5|31|1211122112342201|solo|12/09/2028
+cliente^32^Maria Eduarda^da Barranca^maria.eduarda.da.barranca@gmail.com^ATIVO
+cartao|6364d3f0-f495-36ab-9dcf-8d3b5c6e0b01|32|1228122112211431|mastercard|11/11/2030
+cliente^33^Antonia^Gabeira^antonia.gabeira@live.com^ATIVO
+cartao|182be0c5-cdcd-3072-bb18-64cdee4d3d6e|33|1211122112342201|discover|12/11/2027
+cliente^34^Mirella^da Rosa^mirella.da.rosa@hotmail.com^ATIVO
+cartao|e369853d-f766-3a44-a1ed-0ff613f563bd|34|1234212112211211|discover|12/10/2026
+cliente^35^Luana^Caldeira^luana.caldeira@gmail.com^ATIVO
+cartao|1c383cd3-0b7c-398a-b502-93adfecb7b18|35|1228122112211431|diners_club|12/09/2028
+cliente^36^Mathias^Brum^mathias.brum@yahoo.com^ATIVO
+cartao|19ca14e7-ea63-38a4-ae0e-b13d585e4c22|36|1212122111211234|discover|12/09/2028
+cliente^37^Agatha^Custódio^agatha.custodio@yahoo.com^ATIVO
+cartao|a5bfc9e0-7964-38dd-9eb9-5fc584cd965d|37|1228122112211431|laser|12/11/2027
+cliente^38^João Samuel^Barata^joao.samuel.barata@bol.com.br^ATIVO
+cartao|a5771bce-93e2-30c3-af7c-d9dfd0e5deaa|38|1228122112211431|solo|11/11/2030
+cliente^39^Matheus^Raia^matheus.raia@bol.com.br^ATIVO
+cartao|d67d8ab4-f4c1-3bf2-aaa3-53e27879133c|39|1212122111211234|dankort|12/10/2026
+cliente^40^Márcio^Antunes^marcio.antunes@gmail.com^ATIVO
+cartao|d645920e-395f-3dad-bbbb-ed0eca3fe2e0|40|1228122112211431|forbrugsforeningen|12/10/2026
+cliente^41^Esther^Ramos^esther.ramos@hotmail.com^ATIVO
+cartao|3416a75f-4cea-3109-907c-acd8e2f2aefc|41|1212122111211234|discover|12/10/2026
+cliente^42^Ayla^Guedes^ayla.guedes@yahoo.com^ATIVO
+cartao|a1d0c6e8-3f02-3327-9846-1063f4ac58a6|42|1234212112211211|maestro|12/11/2027
+cliente^43^Washington^Silveira^washington.silveira@live.com^ATIVO
+cartao|17e62166-fc85-36df-a4d1-bc0e1742c08b|43|1211122112342201|jcb|12/10/2026
+cliente^44^Cauã^Coutinho^caua.coutinho@yahoo.com^ATIVO
+cartao|f7177163-c833-3ff4-b38f-c8d2872f1ec6|44|1234212112211211|mastercard|12/11/2027
+cliente^45^Bruna^Carvalho^bruna.carvalho@live.com^ATIVO
+cartao|6c8349cc-7260-3e62-a3b1-396831a8398f|45|1212122111211234|jcb|11/11/2030
+cliente^46^Bernardo^Galego^bernardo.galego@yahoo.com^ATIVO
+cartao|d9d4f495-e875-32e0-b5a1-a4a6e1b9770f|46|1212122111211234|mastercard|12/10/2026
+cliente^47^Sophie^Espinheira^sophie.espinheira@bol.com.br^ATIVO
+cartao|67c6a1e7-ce56-33d6-ba74-8ab6d9af3fd7|47|1211122112342201|mastercard|12/10/2026
+cliente^48^Marli^da Terra^marli.da.terra@hotmail.com^ATIVO
+cartao|642e92ef-b794-3173-8881-b53e1e1b18b6|48|1211122112342201|american_express|12/09/2028
+cliente^49^Clarice^Dorneles^clarice.dorneles@live.com^ATIVO
+cartao|f457c545-a9de-388f-98ec-ee47145a72c0|49|1211122112342201|forbrugsforeningen|12/11/2027
+cliente^50^Augusto^Longuinho^augusto.longuinho@live.com^ATIVO
+cartao|c0c7c76d-30bd-3dca-afc9-6f40275bdc0a|50|1234212112211211|jcb|12/09/2028
+cliente^51^Luiz Miguel^Domingues^luiz.miguel.domingues@hotmail.com^ATIVO
+cartao|2838023a-778d-3aec-9c21-2708f721b788|51|1212122111211234|maestro|12/10/2026
+cliente^52^Pedro Miguel^da Silva^pedro.miguel.da.silva@hotmail.com^ATIVO
+cartao|9a115815-4dfa-32ca-9dbd-0694a4e9bdc8|52|1234212112211211|diners_club|12/10/2026
+cliente^53^Maria Eduarda^Esteves^maria.eduarda.esteves@bol.com.br^ATIVO
+cartao|d82c8d16-19ad-3176-9665-453cfb2e55f0|53|1211122112342201|laser|12/11/2027
+cliente^54^Vicente^Castanho^vicente.castanho@hotmail.com^ATIVO
+cartao|a684ecee-e76f-3522-b732-86a895bc8436|54|1211122112342201|diners_club|11/11/2030
+cliente^55^Ana^Bouças^ana.boucas@gmail.com^ATIVO
+cartao|b53b3a3d-6ab9-3ce0-a682-29151c9bde11|55|1211122112342201|american_express|12/10/2026
+cliente^56^Ana Lívia^Pires^ana.livia.pires@hotmail.com^ATIVO
+cartao|9f61408e-3afb-333e-90cd-f1b20de6f466|56|1211122112342201|solo|12/10/2026
+cliente^57^Rafaela^Moreira^rafaela.moreira@hotmail.com^ATIVO
+cartao|72b32a1f-754b-31c0-9b36-95e0cb6cde7f|57|1212122111211234|diners_club|12/10/2026
+cliente^58^Enzo Gabriel^da Cruz^enzo.gabriel.da.cruz@live.com^ATIVO
+cartao|66f041e1-6a60-328b-85a7-e228a89c3799|58|1228122112211431|jcb|12/10/2026
+cliente^59^Sara^Braga^sara.braga@live.com^ATIVO
+cartao|093f65e0-80a2-35f8-876b-1c5722a46aa2|59|1211122112342201|maestro|12/10/2026
+cliente^60^Lorenzo^Araújo^lorenzo.araujo@hotmail.com^ATIVO
+cartao|072b030b-a126-32f4-b237-4f342be9ed44|60|1228122112211431|american_express|12/09/2028
+cliente^61^Ana Lívia^Guterres^ana.livia.guterres@live.com^ATIVO
+cartao|7f39f831-7fbd-3198-8ef4-c628eba02591|61|1228122112211431|laser|11/11/2030
+cliente^62^Davi Lucca^Fontes^davi.lucca.fontes@hotmail.com^ATIVO
+cartao|44f683a8-4163-3352-bafe-57c2e008bc8c|62|1234212112211211|jcb|12/10/2026
+cliente^63^Ígor^Rolim^igor.rolim@live.com^ATIVO
+cartao|03afdbd6-6e79-39b1-a5f8-597834fa83a4|63|1211122112342201|american_express|11/11/2030
+cliente^64^Pietro^Corte^pietro.corte@yahoo.com^ATIVO
+cartao|ea5d2f1c-4608-332e-87d3-aa3d998e5135|64|1212122111211234|visa|12/11/2027
+cliente^65^Mathias^Aparício^mathias.aparicio@yahoo.com^ATIVO
+cartao|fc490ca4-5c00-3124-9bbe-3554a4fdf6fb|65|1234212112211211|visa|12/11/2027
+cliente^66^Clarice^Matoso^clarice.matoso@hotmail.com^ATIVO
+cartao|3295c76a-cbf4-3aae-933c-36b1b5fc2cb1|66|1234212112211211|dankort|12/09/2028
+cliente^67^Fernando^Paiva^fernando.paiva@live.com^ATIVO
+cartao|735b90b4-5681-35ed-ac3f-678819b6e058|67|1228122112211431|jcb|12/11/2027
+cliente^68^Noah^Meireles^noah.meireles@gmail.com^ATIVO
+cartao|a3f390d8-8e4c-31f2-b47b-fa2f1b5f87db|68|1234212112211211|solo|12/09/2028
+cliente^69^Rafaela^de Oliveira^rafaela.de.oliveira@live.com^ATIVO
+cartao|14bfa6bb-1487-3e45-bba0-28a21ed38046|69|1228122112211431|visa|11/11/2030
+cliente^70^Davi Luiz^Almeida^davi.luiz.almeida@yahoo.com^ATIVO
+cartao|7cbbc409-ec99-3f19-878c-75bd1e06f215|70|1211122112342201|diners_club|12/09/2028
+cliente^71^Davi Lucca^Marins^davi.lucca.marins@bol.com.br^ATIVO
+cartao|e2c420d9-28d4-3f8c-a0ff-2ec19b371514|71|1211122112342201|maestro|12/11/2027
+cliente^72^Henry^Bouças^henry.boucas@live.com^ATIVO
+cartao|32bb90e8-976a-3b52-98d5-da10fe66f21d|72|1211122112342201|jcb|12/10/2026
+cliente^73^Benício^Peixoto^benicio.peixoto@yahoo.com^ATIVO
+cartao|d2ddea18-f006-35ce-8623-e36bd4e3c7c5|73|1212122111211234|dankort|12/10/2026
+cliente^74^Bento^Barroso^bento.barroso@gmail.com^ATIVO
+cartao|ad61ab14-3223-3fbc-a4c7-d2583be69251|74|1228122112211431|jcb|12/10/2026
+cliente^75^Enzo Thiago^Amoreira^enzo.thiago.amoreira@live.com^ATIVO
+cartao|d09bf415-44a3-365a-86c9-077ebb5e35c3|75|1228122112211431|switch|12/11/2027
+cliente^76^Noah^Franco^noah.franco@gmail.com^ATIVO
+cartao|fbd7939d-6749-37cd-b469-2d34de8633c4|76|1234212112211211|switch|12/09/2028
+cliente^77^Marina^Novaes^marina.novaes@yahoo.com^ATIVO
+cartao|28dd2c79-55ce-3264-9624-0b2ff0100bde|77|1212122111211234|switch|12/11/2027
+cliente^78^Pedro Henrique^Vieira^pedro.henrique.vieira@hotmail.com^ATIVO
+cartao|35f4a8d4-65e6-31ed-805f-3d8ab658c551|78|1212122111211234|maestro|12/10/2026
+cliente^79^Feliciano^Batista^feliciano.batista@hotmail.com^ATIVO
+cartao|d1fe173d-08e9-3939-badf-34b1d77e88d7|79|1211122112342201|discover|11/11/2030
+cliente^80^Ana Sophia^Silva^ana.sophia.silva@bol.com.br^ATIVO
+cartao|f033ab37-c302-31f7-bf14-2449d037028d|80|1234212112211211|mastercard|11/11/2030
+cliente^81^Olívia^Coutinho^olivia.coutinho@hotmail.com^ATIVO
+cartao|43ec517d-68b6-3dd3-815b-3edc9a11367b|81|1212122111211234|laser|12/10/2026
+cliente^82^Pedro Henrique^Conceição^pedro.henrique.conceicao@bol.com.br^ATIVO
+cartao|9778d5d2-19c5-380b-9a6a-17bef029331c|82|1212122111211234|solo|12/09/2028
+cliente^83^Luna^da Costa^luna.da.costa@yahoo.com^ATIVO
+cartao|fe9fc289-c3ff-3af1-82b6-d3bead98a923|83|1228122112211431|jcb|12/09/2028
+cliente^84^Heitor^da Luz^heitor.da.luz@yahoo.com^ATIVO
+cartao|68d30a95-9472-3bc3-9aa2-4be94b319d21|84|1211122112342201|discover|12/10/2026
+cliente^85^Ladislau^Cabreira^ladislau.cabreira@live.com^ATIVO
+cartao|3ef81541-6f77-3098-be97-7004015c6193|85|1234212112211211|discover|12/09/2028
+cliente^86^André^Fernandes^andre.fernandes@live.com^ATIVO
+cartao|93db85ed-909c-3383-8ff9-5ccfa94cebd9|86|1212122111211234|discover|12/11/2027
+cliente^87^Antonella^da Silva^antonella.da.silva@yahoo.com^ATIVO
+cartao|c7e1249f-fc03-3b9d-ad90-8c236bd1996d|87|1211122112342201|discover|12/11/2027
+cliente^88^Maria Vitória^Nogueira^maria.vitoria.nogueira@hotmail.com^ATIVO
+cartao|2a38a4a9-316c-39e5-a833-517c45d31070|88|1228122112211431|mastercard|12/09/2028
+cliente^89^Pedro^Banheira^pedro.banheira@yahoo.com^ATIVO
+cartao|7647966b-7343-3290-8867-3252e490f736|89|1228122112211431|switch|12/09/2028
+cliente^90^Miguel^Pimenta^miguel.pimenta@bol.com.br^ATIVO
+cartao|8613985e-c49e-38f7-97ae-6439e879bb2a|90|1234212112211211|jcb|11/11/2030
+cliente^91^Louise^Beltrão^louise.beltrao@bol.com.br^ATIVO
+cartao|54229abf-cfa5-349e-b003-b83dd4755294|91|1234212112211211|switch|12/09/2028
+cliente^92^Luana^Caldeira^luana.caldeira@hotmail.com^ATIVO
+cartao|92cc2275-32d1-3e56-a079-02b254dfad10|92|1228122112211431|american_express|12/11/2027
+cliente^93^Heloísa^de Assunção^heloisa.de.assuncao@hotmail.com^ATIVO
+cartao|98dce83d-a57b-3395-a163-467c9dae521b|93|1228122112211431|discover|12/11/2027
+cliente^94^Danilo^da Paz^danilo.da.paz@hotmail.com^ATIVO
+cartao|f4b9ec30-ad9f-38f8-9b29-639786cb62ef|94|1211122112342201|diners_club|12/11/2027
+cliente^95^Cecília^da Aldeia^cecilia.da.aldeia@hotmail.com^ATIVO
+cartao|812b4ba2-87f5-3e0b-89d4-3bbf5bbe87fb|95|1234212112211211|visa|12/11/2027
+cliente^96^Sara^Farias^sara.farias@live.com^ATIVO
+cartao|26657d5f-f902-3d2a-befe-558796b99584|96|1228122112211431|jcb|12/09/2028
+cliente^97^Isabella^Roriz^isabella.roriz@yahoo.com^ATIVO
+cartao|e2ef524f-bf3d-3fe6-91d5-a8e90fefdc9c|97|1234212112211211|diners_club|12/10/2026
+cliente^98^Ricardo^Conceição^ricardo.conceicao@live.com^ATIVO
+cartao|ed3d2c21-991e-3bef-9e06-9713af9fa6ca|98|1228122112211431|switch|12/09/2028
+cliente^99^Marcia^Mangueira^marcia.mangueira@gmail.com^ATIVO
+cartao|ac627ab1-ccbd-362e-896e-702f07f6425b|99|1228122112211431|american_express|11/11/2030
+cliente^100^Giovanna^Ordonhes^giovanna.ordonhes@hotmail.com^ATIVO
+cartao|f899139d-f5e1-3593-9643-1415e770c6dd|100|1212122111211234|mastercard|12/09/2028
+cliente^101^Alice^Pinto^alice.pinto@bol.com.br^ATIVO
+cartao|38b3eff8-baf5-3627-878e-c76a704e9b52|101|1234212112211211|mastercard|12/09/2028
+cliente^102^Ana^Rios^ana.rios@hotmail.com^ATIVO
+cartao|ec895663-7a99-387b-9197-eacd77acce5e|102|1234212112211211|jcb|12/09/2028
+cliente^103^Antonella^Sá^antonella.sa@gmail.com^ATIVO
+cartao|6974ce5a-c660-310b-84d9-b9fed0ff9548|103|1228122112211431|diners_club|12/11/2027
+cliente^104^Hugo^Barroso^hugo.barroso@gmail.com^ATIVO
+cartao|c9e1074f-5b3f-3fc8-aa15-d152add07294|104|1234212112211211|forbrugsforeningen|12/09/2028
+cliente^105^Isabella^Barros^isabella.barros@yahoo.com^ATIVO
+cartao|65b9eea6-e1cc-3bb9-b0cd-2a47751a186f|105|1234212112211211|switch|12/09/2028
+cliente^106^Gabriela^Matoso^gabriela.matoso@hotmail.com^ATIVO
+cartao|f0935e4c-d592-3aa6-87c9-96a5ee53a70f|106|1211122112342201|maestro|12/10/2026
+cliente^107^Maitê^Rêgo^maite.rego@gmail.com^ATIVO
+cartao|a97da629-b098-375c-a94d-ffdc3e463904|107|1211122112342201|american_express|12/10/2026
+cliente^108^Ruan^Reis^ruan.reis@yahoo.com^ATIVO
+cartao|a3c65c29-7427-3fd0-93ee-8a9bf8ae7d0b|108|1234212112211211|maestro|12/09/2028
+cliente^109^Esther^Campos^esther.campos@hotmail.com^ATIVO
+cartao|2723d092-b638-35e0-97c2-60cc007e8b9d|109|1211122112342201|diners_club|12/11/2027
+cliente^110^Fabrício^Soeira^fabricio.soeira@hotmail.com^ATIVO
+cartao|5f93f983-524d-3f3d-8a46-4469d2cf9f3e|110|1211122112342201|mastercard|12/09/2028
+cliente^111^Tiago^Alves^tiago.alves@yahoo.com^ATIVO
+cartao|698d51a1-9d8a-321c-a581-499d7b701668|111|1212122111211234|dankort|12/09/2028
+cliente^112^Ian^Moreno^ian.moreno@bol.com.br^ATIVO
+cartao|7f6ffaa6-bb0b-3080-97b6-2254211691b5|112|1228122112211431|diners_club|12/09/2028
+cliente^113^João Vitor^Jesus^joao.vitor.jesus@bol.com.br^ATIVO
+cartao|73278a4a-8696-3eeb-976a-8fd4c9ec6997|113|1234212112211211|diners_club|12/11/2027
+cliente^114^Maria Laura^da Mata^maria.laura.da.mata@bol.com.br^ATIVO
+cartao|5fd0b37c-d7db-3b00-b97b-a6ce92bf5add|114|1228122112211431|maestro|12/11/2027
+cliente^115^Cecília^Limeira^cecilia.limeira@bol.com.br^ATIVO
+cartao|2b44928a-e11f-3938-8c4c-f38708677c48|115|1234212112211211|american_express|12/10/2026
+cliente^116^Maria Helena^da Paz^maria.helena.da.paz@gmail.com^ATIVO
+cartao|c45147de-e729-311e-b5b5-c3003946c48f|116|1212122111211234|laser|12/10/2026
+cliente^117^Joaquim^da Cruz^joaquim.da.cruz@live.com^ATIVO
+cartao|eb160de1-de89-3905-8fcb-0b968dbbbd68|117|1212122111211234|visa|12/11/2027
+cliente^118^Davi Luca^Caldas^davi.luca.caldas@hotmail.com^ATIVO
+cartao|5ef05993-8ba7-39aa-a845-e1c2e8a762bd|118|1211122112342201|maestro|12/10/2026
+cliente^119^Davi Lucas^Monteira^davi.lucas.monteira@bol.com.br^ATIVO
+cartao|07e1cd7d-ca89-3167-8042-477183b7ac3f|119|1234212112211211|switch|12/11/2027
+cliente^120^Otávio^Junqueira^otavio.junqueira@live.com^ATIVO
+cartao|da4fb5c6-e93e-34d3-9f85-27599fa62642|120|1212122111211234|dankort|11/11/2030
+cliente^121^Stella^Porteira^stella.porteira@live.com^ATIVO
+cartao|4c56ff4c-e4aa-3957-baa5-dff913df997a|121|1212122111211234|forbrugsforeningen|12/11/2027
+cliente^122^Gabriel^Sales^gabriel.sales@hotmail.com^ATIVO
+cartao|a0a080f4-2e6f-33b3-a2df-133f073095dd|122|1212122111211234|visa|12/11/2027
+cliente^123^Talita^Espinhosa^talita.espinhosa@gmail.com^ATIVO
+cartao|202cb962-ac59-375b-964b-07152d234b70|123|1228122112211431|laser|12/11/2027
+cliente^124^Eduarda^Godinho^eduarda.godinho@live.com^ATIVO
+cartao|c8ffe9a5-87b1-36f1-92ed-3d89a146b445|124|1211122112342201|forbrugsforeningen|12/09/2028
+cliente^125^Benício^Garcez^benicio.garcez@bol.com.br^ATIVO
+cartao|3def184a-d8f4-355f-b269-862ea77393dd|125|1212122111211234|laser|12/10/2026
+cliente^126^Ruan^Madeira^ruan.madeira@gmail.com^ATIVO
+cartao|069059b7-ef84-3f0c-b4a8-14ec9237b6ec|126|1234212112211211|dankort|12/11/2027
+cliente^127^Maria Helena^Santana^maria.helena.santana@gmail.com^ATIVO
+cartao|ec5decca-5ed3-36b8-879e-2e7e7bacc9f2|127|1234212112211211|dankort|12/10/2026
+cliente^128^Thomas^Crespo^thomas.crespo@yahoo.com^ATIVO
+cartao|76dc611d-6eba-3fc6-acc0-879c71b5db5c|128|1211122112342201|maestro|12/10/2026
+cliente^129^Lorenzo^da Madureira^lorenzo.da.madureira@live.com^ATIVO
+cartao|d1f491a4-04d6-3548-8094-3e5c3cd9ca25|129|1211122112342201|mastercard|12/10/2026
+cliente^130^Margarida^Sá^margarida.sa@gmail.com^ATIVO
+cartao|9b861925-1a19-357c-bf70-779273e95aa6|130|1234212112211211|forbrugsforeningen|12/10/2026
+cliente^131^Isabelly^Paes^isabelly.paes@hotmail.com^ATIVO
+cartao|1afa34a7-f984-3eab-9bb0-a7d494132ee5|131|1234212112211211|switch|11/11/2030
+cliente^132^Vitor^da Rosa^vitor.da.rosa@gmail.com^ATIVO
+cartao|65ded535-3c5e-348d-8b7d-48c591b8f430|132|1212122111211234|forbrugsforeningen|12/10/2026
+cliente^133^Bárbara^Fernandes^barbara.fernandes@bol.com.br^ATIVO
+cartao|9fc3d715-2ba9-336a-a70e-36d0ed79bc43|133|1234212112211211|switch|12/09/2028
+cliente^134^Gabriela^Gabeira^gabriela.gabeira@yahoo.com^ATIVO
+cartao|02522a2b-2726-3b0a-83bb-19f2d8d9524d|134|1211122112342201|discover|11/11/2030
+cliente^135^Yago^Galego^yago.galego@gmail.com^ATIVO
+cartao|7f1de29e-6da1-3d22-b51c-68001e7e0e54|135|1234212112211211|laser|11/11/2030
+cliente^136^Bruno^Soeira^bruno.soeira@gmail.com^ATIVO
+cartao|42a0e188-f503-3bc6-9bf8-d78622277c4e|136|1234212112211211|mastercard|12/11/2027
+cliente^137^Arthur^da Barranca^arthur.da.barranca@live.com^ATIVO
+cartao|3988c7f8-8ebc-358c-ace9-32b957b6f332|137|1212122111211234|mastercard|12/11/2027
+cliente^138^Eduardo^Cabreira^eduardo.cabreira@yahoo.com^ATIVO
+cartao|013d4071-66ec-3fa5-aeb1-e1f8cbe183b9|138|1228122112211431|switch|12/10/2026
+cliente^139^Márcio^Quaresma^marcio.quaresma@bol.com.br^ATIVO
+cartao|e00da03b-685a-3dd1-8fb6-a08af0923de0|139|1228122112211431|dankort|12/11/2027
+cliente^140^Allana^Carvalheira^allana.carvalheira@bol.com.br^ATIVO
+cartao|1385974e-d590-3a43-8616-ff7bdb3f7439|140|1212122111211234|diners_club|12/11/2027
+cliente^141^Marina^Limeira^marina.limeira@hotmail.com^ATIVO
+cartao|0f28b5d4-9b30-30af-aecd-95b4009adf4c|141|1211122112342201|forbrugsforeningen|12/11/2027
+cliente^142^Félix^da Aldeia^felix.da.aldeia@yahoo.com^ATIVO
+cartao|a8baa565-54f9-3369-ab93-e4f3bb068c22|142|1211122112342201|maestro|12/10/2026
+cliente^143^Mariana^Domingues^mariana.domingues@hotmail.com^ATIVO
+cartao|903ce922-5fca-3e98-8c2a-f215d4e544d3|143|1228122112211431|switch|12/09/2028
+cliente^144^Lorena^Novaes^lorena.novaes@bol.com.br^ATIVO
+cartao|0a09c884-4ba8-3093-ac20-bd791130d6b6|144|1228122112211431|discover|12/11/2027
+cliente^145^Ígor^Arriaga^igor.arriaga@gmail.com^ATIVO
+cartao|2b24d495-052a-3ce6-a358-eb576b8912c8|145|1211122112342201|maestro|12/09/2028
+cliente^146^Isadora^Costa^isadora.costa@hotmail.com^ATIVO
+cartao|a5e00132-373a-3031-800f-d987a3c9f87b|146|1212122111211234|american_express|12/09/2028
+cliente^147^Joana^Barata^joana.barata@yahoo.com^ATIVO
+cartao|8d5e957f-2978-3348-bbd9-8fa830fa6413|147|1212122111211234|jcb|12/09/2028
+cliente^148^João Pedro^Bouças^joao.pedro.boucas@live.com^ATIVO
+cartao|47d1e990-583c-3c67-824d-369f3414728e|148|1234212112211211|dankort|12/09/2028
+cliente^149^Davi Luiz^Galego^davi.luiz.galego@live.com^ATIVO
+cartao|f2217062-e9a3-37a1-9ca4-29e7d70bc6ca|149|1228122112211431|discover|12/10/2026
+cliente^150^Caio^Sanches^caio.sanches@gmail.com^ATIVO
+cartao|7ef605fc-8dba-3425-9696-5fbd4c8fbe1f|150|1234212112211211|american_express|12/10/2026
+cliente^151^Raul^Negrão^raul.negrao@yahoo.com^ATIVO
+cartao|a8f15eda-80c5-3adb-8e71-943adc8015cf|151|1234212112211211|mastercard|12/10/2026
+cliente^152^Malu^Farias^malu.farias@hotmail.com^ATIVO
+cartao|37a749d8-08e4-3495-a8da-1e5352d03cae|152|1228122112211431|forbrugsforeningen|11/11/2030
+cliente^153^Davi Luiz^Caldeira^davi.luiz.caldeira@yahoo.com^ATIVO
+cartao|b3e3e393-c77e-35a4-a3f3-cbd1e429b5dc|153|1212122111211234|forbrugsforeningen|12/10/2026
+cliente^154^Enzo^Godins^enzo.godins@yahoo.com^ATIVO
+cartao|1d7f7abc-18fc-3439-b506-5399b0d1e48e|154|1228122112211431|maestro|12/11/2027
+cliente^155^Oliver^Grotas^oliver.grotas@hotmail.com^ATIVO
+cartao|2a79ea27-c279-3471-b4d1-80b08d62b00a|155|1211122112342201|jcb|12/09/2028
+cliente^156^Rafaela^Bouças^rafaela.boucas@live.com^ATIVO
+cartao|1c9ac015-9c94-38d0-8bed-c973445af2da|156|1228122112211431|mastercard|12/09/2028
+cliente^157^Marli^Saraiva^marli.saraiva@live.com^ATIVO
+cartao|6c4b761a-28b7-34fe-9383-1e3fb400ce87|157|1228122112211431|diners_club|12/09/2028
+cliente^158^João Victor^Lopes^joao.victor.lopes@yahoo.com^ATIVO
+cartao|06409663-226a-32f3-9144-85aa4e0a23b4|158|1228122112211431|american_express|12/11/2027
+cliente^159^Lucas Gabriel^de Quadros^lucas.gabriel.de.quadros@live.com^ATIVO
+cartao|140f6969-d521-3fd0-ace0-3148e62e461e|159|1228122112211431|switch|11/11/2030
+cliente^160^Félix^Dorneles^felix.dorneles@yahoo.com^ATIVO
+cartao|b73ce398-c39f-306a-b761-d2277d853a92|160|1228122112211431|laser|11/11/2030
+cliente^161^Fábio^de Quadros^fabio.de.quadros@live.com^ATIVO
+cartao|bd4c9ab7-30f5-3132-86b9-99ec0d90d1fb|161|1234212112211211|dankort|11/11/2030
+cliente^162^Nicolas^Meira^nicolas.meira@hotmail.com^ATIVO
+cartao|82aa4b0a-f34c-3313-a562-076992e50aa3|162|1211122112342201|visa|12/09/2028
+cliente^163^Alice^Quaresma^alice.quaresma@bol.com.br^ATIVO
+cartao|0777d5c1-7d40-36b8-aab8-6dff8a46af6f|163|1234212112211211|american_express|12/09/2028
+cliente^164^Maria Laura^Coutinho^maria.laura.coutinho@live.com^ATIVO
+cartao|fa7cdfad-1a5a-3f83-b0eb-eda47a1ff1c3|164|1234212112211211|jcb|12/09/2028
+cliente^165^Carolina^Viveiros^carolina.viveiros@hotmail.com^ATIVO
+cartao|9766527f-2b5d-3e95-94a7-33fcfb77bd7e|165|1212122111211234|forbrugsforeningen|12/11/2027
+cliente^166^Mathias^Madeira^mathias.madeira@yahoo.com^ATIVO
+cartao|7e7757b1-e12a-3cb7-b6ab-9a754ffb617a|166|1212122111211234|switch|11/11/2030
+cliente^167^Maria Fernanda^Cachoeira^maria.fernanda.cachoeira@live.com^ATIVO
+cartao|5878a7ab-84fb-3340-a106-c575658472fa|167|1234212112211211|visa|11/11/2030
+cliente^168^Lorraine^Antena^lorraine.antena@live.com^ATIVO
+cartao|006f52e9-102a-3d3b-a2fe-5614f42ba989|168|1234212112211211|switch|12/09/2028
+cliente^169^Eduarda^Simão^eduarda.simao@gmail.com^ATIVO
+cartao|36366388-1777-3e42-b59d-74cff571fbb3|169|1228122112211431|dankort|12/09/2028
+cliente^170^Theo^Quarteira^theo.quarteira@bol.com.br^ATIVO
+cartao|149e9677-a598-3fd3-82ae-44213df68868|170|1212122111211234|laser|12/10/2026
+cliente^171^Francisca^Cerqueira^francisca.cerqueira@hotmail.com^ATIVO
+cartao|a4a042cf-4fd6-3fb4-b701-cbc8a1653ada|171|1212122111211234|maestro|12/11/2027
+cliente^172^Marcela^Peixoto^marcela.peixoto@live.com^ATIVO
+cartao|1ff8a7b5-dc7a-3d1f-8ed6-5aaa29c04b1e|172|1228122112211431|mastercard|12/09/2028
+cliente^173^Larissa^Rios^larissa.rios@gmail.com^ATIVO
+cartao|f7e6c855-04ce-3e82-842c-770f7c8606f0|173|1228122112211431|mastercard|11/11/2030
+cliente^174^Oliver^Bonfim^oliver.bonfim@yahoo.com^ATIVO
+cartao|bf822969-6f7a-3bb4-b00c-fddef19fa23f|174|1212122111211234|mastercard|12/09/2028
+cliente^175^Elisa^Barreira^elisa.barreira@hotmail.com^ATIVO
+cartao|82161242-827b-303e-aacf-9c726942a1e4|175|1211122112342201|visa|12/11/2027
+cliente^176^Antonella^Bernardes^antonella.bernardes@live.com^ATIVO
+cartao|38af8613-4b65-30f1-8fe3-3d30dd76442e|176|1211122112342201|diners_club|11/11/2030
+cliente^177^Eduarda^Grotas^eduarda.grotas@hotmail.com^ATIVO
+cartao|96da2f59-0cd7-346b-bde0-051047b0d6f7|177|1212122111211234|maestro|11/11/2030
+cliente^178^Elisa^da Gama^elisa.da.gama@bol.com.br^ATIVO
+cartao|8f855179-6779-3eee-b66c-225f7883bdcb|178|1228122112211431|discover|12/09/2028
+cliente^179^Meire^Barata^meire.barata@gmail.com^ATIVO
+cartao|8f53295a-7387-3494-a9bc-8dd6c3c7104f|179|1234212112211211|jcb|12/11/2027
+cliente^180^Thomas^Rebouças^thomas.reboucas@gmail.com^ATIVO
+cartao|045117b0-e0a1-3a24-ab97-65e79cbf113f|180|1234212112211211|jcb|12/11/2027
+cliente^181^Antonella^Porteira^antonella.porteira@hotmail.com^ATIVO
+cartao|fc221309-7460-33ac-9545-71fbd180e1c8|181|1212122111211234|solo|12/11/2027
+cliente^182^Sophia^Meira^sophia.meira@yahoo.com^ATIVO
+cartao|4c5bde74-a8f1-3065-a874-902f07378009|182|1234212112211211|laser|12/10/2026
+cliente^183^Aurora^Barreto^aurora.barreto@gmail.com^ATIVO
+cartao|cedebb6e-872f-339b-af8c-3f919874e9d7|183|1234212112211211|forbrugsforeningen|11/11/2030
+cliente^184^Nataniel^Guterres^nataniel.guterres@live.com^ATIVO
+cartao|6cdd60ea-0045-3b7a-aec4-4c54d29ed402|184|1212122111211234|diners_club|12/09/2028
+cliente^185^João Luca^Bentes^joao.luca.bentes@bol.com.br^ATIVO
+cartao|eecca5b6-365d-3607-ae5a-9d336962c534|185|1228122112211431|jcb|12/11/2027
+cliente^186^Ana Clara^Datena^ana.clara.datena@gmail.com^ATIVO
+cartao|9872ed9f-c22f-3182-9371-c3e9ed316094|186|1212122111211234|maestro|11/11/2030
+cliente^187^Maitê^Munhoz^maite.munhoz@bol.com.br^ATIVO
+cartao|31fefc0e-570c-3386-8f2a-6d4b38c6490d|187|1211122112342201|diners_club|12/09/2028
+cliente^188^Nicole^Cachoeira^nicole.cachoeira@gmail.com^ATIVO
+cartao|9dcb88e0-1376-3959-8b75-5372b040afad|188|1228122112211431|laser|12/10/2026
+cliente^189^Levi^Solimões^levi.solimoes@gmail.com^ATIVO
+cartao|a2557a7b-2e94-397f-b767-970b67041697|189|1228122112211431|forbrugsforeningen|12/10/2026
+cliente^190^Ana Clara^Espinhosa^ana.clara.espinhosa@hotmail.com^ATIVO
+cartao|cfecdb27-6f63-3854-b3ef-915e2e980c31|190|1211122112342201|discover|12/10/2026
+cliente^191^Patricia^Gomes^patricia.gomes@yahoo.com^ATIVO
+cartao|0aa1883c-6411-3787-bcb8-3dacb17b0afc|191|1234212112211211|laser|12/11/2027
+cliente^192^Bryan^Almada^bryan.almada@gmail.com^ATIVO
+cartao|58a2fc6e-d39f-3083-b55d-4182bf88826d|192|1228122112211431|jcb|12/10/2026
+cliente^193^Gúbio^Nunes^gubio.nunes@bol.com.br^ATIVO
+cartao|bd686fd6-40be-38ef-aae0-091fa301e613|193|1234212112211211|jcb|11/11/2030
+cliente^194^Clarice^Gabeira^clarice.gabeira@hotmail.com^ATIVO
+cartao|a597e505-02f5-3f68-a3e2-5b9114205d4a|194|1212122111211234|american_express|11/11/2030
+cliente^195^Enzo^Gomide^enzo.gomide@gmail.com^ATIVO
+cartao|0336dcba-b05b-3d5a-924f-4333c7658a0e|195|1212122111211234|american_express|12/11/2027
+cliente^196^Lavínia^Fernandes^lavinia.fernandes@live.com^ATIVO
+cartao|084b6fbb-1072-3ed4-9a8c-3d3f5a3ae7c9|196|1234212112211211|american_express|12/11/2027
+cliente^197^Feliciano^Dias^feliciano.dias@hotmail.com^ATIVO
+cartao|85d8ce59-0ad8-381c-a2c8-286f79f59954|197|1211122112342201|maestro|11/11/2030
+cliente^198^Otávio^Mangueira^otavio.mangueira@yahoo.com^ATIVO
+cartao|0e65972d-ce68-3ad4-952d-063967f0a705|198|1234212112211211|laser|11/11/2030
+cliente^199^Ricardo^de Borba^ricardo.de.borba@yahoo.com^ATIVO
+cartao|84d9ee44-e457-3def-bf2c-4f25dc8fa865|199|1228122112211431|forbrugsforeningen|12/10/2026
+cliente^200^Alícia^Bomdia^alicia.bomdia@gmail.com^ATIVO
+cartao|3644a684-f98e-38fe-a23c-713b77189a77|200|1212122111211234|maestro|11/11/2030
+cliente^201^Ana Laura^Vieira^ana.laura.vieira@hotmail.com^ATIVO
+cartao|757b505c-fd34-364c-85ca-5b5690ee5293|201|1211122112342201|mastercard|12/11/2027
+cliente^202^Suélen^Marcondes^suelen.marcondes@live.com^ATIVO
+cartao|854d6fae-5ee4-3911-a77c-739ee1734486|202|1211122112342201|diners_club|12/09/2028
+cliente^203^Karla^da Penha^karla.da.penha@hotmail.com^ATIVO
+cartao|e2c0be24-560d-38c5-a599-c2a9c9d0bbd2|203|1228122112211431|dankort|12/10/2026
+cliente^204^Maria Isis^da Veiga^maria.isis.da.veiga@gmail.com^ATIVO
+cartao|274ad478-6c3a-3ca6-9fa0-97b85867d9a4|204|1228122112211431|visa|12/11/2027
+cliente^205^Francisco^Grotas^francisco.grotas@live.com^ATIVO
+cartao|eae27d77-ca20-3b30-9e05-6e3d2dcd7d69|205|1212122111211234|laser|12/11/2027
+cliente^206^Matheus^Jesus^matheus.jesus@gmail.com^ATIVO
+cartao|7eabe3a1-649f-3a2b-bff8-c02ebfd5659f|206|1234212112211211|jcb|12/09/2028
+cliente^207^Melissa^Cabreira^melissa.cabreira@yahoo.com^ATIVO
+cartao|69adc1e1-07f7-37d0-b5d7-baf04342e1ca|207|1211122112342201|american_express|12/11/2027
+cliente^208^Maria^Reis^maria.reis@bol.com.br^ATIVO
+cartao|091d584f-ced3-31b4-8265-4dd8c23b3fc9|208|1211122112342201|jcb|12/09/2028
+cliente^209^Pietro^da Fronteira^pietro.da.fronteira@yahoo.com^ATIVO
+cartao|b1d10e7b-afa4-3212-98a5-1b1e1f1b0ba2|209|1228122112211431|forbrugsforeningen|12/11/2027
+cliente^210^Gustavo^Guterres^gustavo.guterres@gmail.com^ATIVO
+cartao|6f3ef77a-c0e3-319e-9815-9e9b6febf557|210|1212122111211234|laser|11/11/2030
+cliente^211^Malu^Lima^malu.lima@live.com^ATIVO
+cartao|eb163727-917c-3ba1-aea2-08541a643e74|211|1234212112211211|laser|11/11/2030
+cliente^212^Raul^Guedes^raul.guedes@yahoo.com^ATIVO
+cartao|1534b76d-325a-3f59-9b52-d302e7181331|212|1234212112211211|jcb|12/10/2026
+cliente^213^Cecília^da Terra^cecilia.da.terra@bol.com.br^ATIVO
+cartao|979d472a-8480-3b9f-a47b-c185a877a8b5|213|1234212112211211|diners_club|12/09/2028
+cliente^214^Rodrigo^Esteves^rodrigo.esteves@yahoo.com^ATIVO
+cartao|ca46c1b9-512a-3a83-95fa-3c5a946e8265|214|1234212112211211|american_express|12/10/2026
+cliente^215^João Miguel^da Rocha^joao.miguel.da.rocha@hotmail.com^ATIVO
+cartao|3b8a6142-26a9-33a8-8d95-26fca6fe9ba5|215|1212122111211234|discover|12/09/2028
+cliente^216^Antonella^Barreira^antonella.barreira@live.com^ATIVO
+cartao|45fbc6d3-e05e-3d93-b69c-e542e8f2322d|216|1228122112211431|forbrugsforeningen|11/11/2030
+cliente^217^Mariana^da Mota^mariana.da.mota@live.com^ATIVO
+cartao|63dc7ed1-010d-3c3b-8269-faf0ba7491d4|217|1211122112342201|forbrugsforeningen|11/11/2030
+cliente^218^Agatha^Barreto^agatha.barreto@yahoo.com^ATIVO
+cartao|e96ed478-dab8-395a-bdbd-a4cbcbee168f|218|1234212112211211|dankort|11/11/2030
+cliente^219^Beatriz^Fontinhas^beatriz.fontinhas@hotmail.com^ATIVO
+cartao|c0e190d8-267e-3670-8f95-5d7ab048990d|219|1211122112342201|solo|12/09/2028
+cliente^220^Washington^da Penha^washington.da.penha@bol.com.br^ATIVO
+cartao|ec8ce6ab-b3e9-32a8-9b85-51ba726a1227|220|1228122112211431|diners_club|11/11/2030
+cliente^221^Antonella^Negrão^antonella.negrao@gmail.com^ATIVO
+cartao|060ad924-8994-3d41-8d89-7474079c1477|221|1211122112342201|laser|12/10/2026
+cliente^222^Leonardo^Banheira^leonardo.banheira@live.com^ATIVO
+cartao|bcbe3365-e6ac-35ea-ac03-43a2395834dd|222|1234212112211211|maestro|12/09/2028
+cliente^223^Eduardo^Nunes^eduardo.nunes@yahoo.com^ATIVO
+cartao|115f8950-3138-316a-a42f-40fb7d7f338e|223|1234212112211211|jcb|11/11/2030
+cliente^224^Miguel^Martins^miguel.martins@live.com^ATIVO
+cartao|13fe9d84-310e-37f1-ba6d-184dbf1232f3|224|1212122111211234|jcb|12/09/2028
+cliente^225^Davi^Leiria^davi.leiria@bol.com.br^ATIVO
+cartao|d1c38a09-acc3-3845-86be-3a127a5aacaf|225|1228122112211431|dankort|12/11/2027
+cliente^226^Karla^Campos^karla.campos@yahoo.com^ATIVO
+cartao|9cfdf10e-8fc0-37a4-8b08-ed031e1f0ed1|226|1211122112342201|discover|12/10/2026
+cliente^227^Cecília^da Terra^cecilia.da.terra@live.com^ATIVO
+cartao|705f2172-8346-3678-8607-efbfca35afb3|227|1212122111211234|jcb|12/11/2027
+cliente^228^Isabel^Nunes^isabel.nunes@gmail.com^ATIVO
+cartao|74db120f-0a8e-3646-af5a-30154e9f6deb|228|1228122112211431|american_express|11/11/2030
+cliente^229^Mércia^Cruz^mercia.cruz@hotmail.com^ATIVO
+cartao|57aeee35-c982-3509-9e18-d1140e9f38cf|229|1211122112342201|discover|12/09/2028
+cliente^230^Lavínia^Bernardes^lavinia.bernardes@yahoo.com^ATIVO
+cartao|6da9003b-743b-35f4-80cc-d295cc484e57|230|1211122112342201|diners_club|11/11/2030
+cliente^231^Gael^da Costa^gael.da.costa@hotmail.com^ATIVO
+cartao|9b04d152-845e-30a3-b839-4003c96da594|231|1228122112211431|maestro|12/09/2028
+cliente^232^Ana Clara^Rolim^ana.clara.rolim@hotmail.com^ATIVO
+cartao|be83ab3e-cd0d-3773-ab2d-c1b0a17836a1|232|1211122112342201|jcb|12/10/2026
+cliente^233^Gúbio^Bittencourt^gubio.bittencourt@gmail.com^ATIVO
+cartao|e1654211-10ba-3309-9a1c-0393373c5b43|233|1212122111211234|american_express|11/11/2030
+cliente^234^Kaique^Assumpção^kaique.assumpcao@gmail.com^ATIVO
+cartao|289dff07-669d-3a23-9e0e-f88d2f7129e7|234|1234212112211211|forbrugsforeningen|11/11/2030
+cliente^235^Paula^Rêgo^paula.rego@yahoo.com^ATIVO
+cartao|577ef115-4f32-30ad-9b9b-413aa7346a1e|235|1234212112211211|discover|12/09/2028
+cliente^236^Camila^Garcês^camila.garces@live.com^ATIVO
+cartao|01161aaa-0b6d-3345-9d8f-e4e481144d84|236|1211122112342201|solo|12/10/2026
+cliente^237^Manuela^Bonfim^manuela.bonfim@bol.com.br^ATIVO
+cartao|539fd53b-59e3-3b12-9203-f45a912eeaf2|237|1211122112342201|solo|12/09/2028
+cliente^238^Vitor^Carvalho^vitor.carvalho@live.com^ATIVO
+cartao|ac1dd209-cbcc-3e5d-9c6e-28598e8cbbe8|238|1228122112211431|jcb|12/09/2028
+cliente^239^Thiago^Carreira^thiago.carreira@gmail.com^ATIVO
+cartao|555d6702-c950-3cb7-a9a9-66504af0a635|239|1211122112342201|visa|12/11/2027
+cliente^240^Alessandro^Aparício^alessandro.aparicio@live.com^ATIVO
+cartao|335f5352-088d-3d9b-b741-91e006d8e24c|240|1228122112211431|visa|11/11/2030
+cliente^241^Laura^Longuinho^laura.longuinho@hotmail.com^ATIVO
+cartao|f340f1b1-f65b-3df5-b5e3-f94d95b11daf|241|1228122112211431|switch|12/11/2027
+cliente^242^Antônio^Esteves^antonio.esteves@bol.com.br^ATIVO
+cartao|e4a6222c-db5b-3437-9400-904f03d8e6a5|242|1212122111211234|american_express|12/11/2027
+cliente^243^Lucas Gabriel^Vieira^lucas.gabriel.vieira@live.com^ATIVO
+cartao|cb70ab37-5662-376b-91ac-5aaf16b3fca4|243|1212122111211234|solo|12/09/2028
+cliente^244^João Vitor^Ribas^joao.vitor.ribas@hotmail.com^ATIVO
+cartao|9188905e-74c2-3e48-9b44-e954ec0b9bca|244|1234212112211211|solo|12/09/2028
+cliente^245^Arthur Henrique^Siqueiro^arthur.henrique.siqueiro@hotmail.com^ATIVO
+cartao|0266e33d-3f54-3cb5-836a-10798e657d97|245|1211122112342201|discover|12/11/2027
+cliente^246^Gabriel^Gentil^gabriel.gentil@hotmail.com^ATIVO
+cartao|38db3aed-920c-382a-b059-bfccbd02be6a|246|1211122112342201|diners_club|12/09/2028
+cliente^247^Kauê^Louzada^kaue.louzada@live.com^ATIVO
+cartao|3cec07e9-ba5f-3bb2-92d1-3f5f431e4bbb|247|1212122111211234|solo|12/11/2027
+cliente^248^Daniel^Rameira^daniel.rameira@bol.com.br^ATIVO
+cartao|621bf66d-db7c-362a-a0d2-2ac97d69b793|248|1228122112211431|dankort|12/11/2027
+cliente^249^Fábio^Ramalho^fabio.ramalho@yahoo.com^ATIVO
+cartao|077e29b1-1be8-3ab5-be1a-2ecabb7da330|249|1211122112342201|switch|12/11/2027
+cliente^250^Carlos^da Costa^carlos.da.costa@yahoo.com^ATIVO
+cartao|6c9882bb-ac1c-3093-bd25-041881277658|250|1212122111211234|visa|11/11/2030
+cliente^251^Lorenzo^Brites^lorenzo.brites@live.com^ATIVO
+cartao|19f3cd30-8f14-35b3-ba09-a282e0d496f4|251|1212122111211234|solo|11/11/2030
+cliente^252^Sirineu^Raia^sirineu.raia@gmail.com^ATIVO
+cartao|03c6b069-52c7-3089-9bb0-3d998e631860|252|1228122112211431|mastercard|12/10/2026
+cliente^253^Liz^Amoreira^liz.amoreira@yahoo.com^ATIVO
+cartao|c24cd76e-1ce4-3366-a4bb-e8a49b02a028|253|1228122112211431|maestro|12/10/2026
+cliente^254^Maria Valentina^Ordonhes^maria.valentina.ordonhes@hotmail.com^ATIVO
+cartao|c52f1bd6-6cc1-3d05-a28b-d8bf27af3ad6|254|1234212112211211|forbrugsforeningen|11/11/2030
+cliente^255^Theo^Palmeira^theo.palmeira@hotmail.com^ATIVO
+cartao|fe131d7f-5a6b-38b2-bcc9-67316c13dae2|255|1211122112342201|switch|12/09/2028
+cliente^256^Gustavo^Arantes^gustavo.arantes@yahoo.com^ATIVO
+cartao|f718499c-1c8c-3f67-b0f9-fd03c8125cab|256|1228122112211431|dankort|12/10/2026
+cliente^257^Danilo^Sá^danilo.sa@hotmail.com^ATIVO
+cartao|d96409bf-8942-3768-aba1-24d7356686c9|257|1234212112211211|jcb|12/11/2027
+cliente^258^Salvador^da Silveira^salvador.da.silveira@gmail.com^ATIVO
+cartao|502e4a16-930e-3141-87ee-22b6198c578f|258|1211122112342201|maestro|12/10/2026
+cliente^259^Frederico^Silveira^frederico.silveira@hotmail.com^ATIVO
+cartao|cfa0860e-83a4-33a7-a3a7-e62d825349f7|259|1211122112342201|mastercard|11/11/2030
+cliente^260^Hélio^Sais^helio.sais@live.com^ATIVO
+cartao|a4f23670-e183-3f3f-9b07-7ca70bbd5d66|260|1234212112211211|visa|12/09/2028
+cliente^261^Maria Helena^Rebouças^maria.helena.reboucas@gmail.com^ATIVO
+cartao|b1a59b31-5fc9-3300-ace3-8bbe070ec3f5|261|1211122112342201|switch|12/10/2026
+cliente^262^Cauã^da Penha^caua.da.penha@bol.com.br^ATIVO
+cartao|36660e59-856b-3de5-8a21-9bcf4e27eba3|262|1234212112211211|forbrugsforeningen|12/11/2027
+cliente^263^Marcela^Longuinho^marcela.longuinho@bol.com.br^ATIVO
+cartao|8c19f571-e251-361c-b8dd-3612f26d5ecf|263|1212122111211234|jcb|12/11/2027
+cliente^264^João Lucas^Araújo^joao.lucas.araujo@hotmail.com^ATIVO
+cartao|d6baf65e-0b24-3ce1-b7cf-70da146c8dc8|264|1212122111211234|solo|12/11/2027
+cliente^265^Henry^Ouriques^henry.ouriques@gmail.com^ATIVO
+cartao|e56954b4-f634-3e89-bf95-4495eab16a88|265|1211122112342201|visa|12/09/2028
+cliente^266^Pablo^de Assunção^pablo.de.assuncao@bol.com.br^ATIVO
+cartao|f7664060-cc52-3c6f-bd62-0bcedc94a4b6|266|1211122112342201|mastercard|12/09/2028
+cliente^267^Mariana^da Cunha^mariana.da.cunha@yahoo.com^ATIVO
+cartao|eda80a3d-5b34-3bc4-8f3b-c04f65b7a357|267|1212122111211234|discover|11/11/2030
+cliente^268^Eduardo^Castelo^eduardo.castelo@gmail.com^ATIVO
+cartao|8f121ce0-7d74-317e-8b1f-21d122e04521|268|1228122112211431|diners_club|12/11/2027
+cliente^269^André^Sais^andre.sais@live.com^ATIVO
+cartao|06138bc5-af60-3364-aede-0e1f7c1eac75|269|1228122112211431|forbrugsforeningen|12/10/2026
+cliente^270^Warley^Filgueira^warley.filgueira@yahoo.com^ATIVO
+cartao|39059724-f73a-3969-845d-fe4146c5660e|270|1228122112211431|mastercard|12/09/2028
+cliente^271^Luana^da Madureira^luana.da.madureira@hotmail.com^ATIVO
+cartao|7f100b7b-3609-3fb9-b06d-fb4fac360931|271|1234212112211211|american_express|11/11/2030
+cliente^272^João Vitor^Datena^joao.vitor.datena@hotmail.com^ATIVO
+cartao|7a614fd0-6c32-3499-b168-0b9896beedeb|272|1234212112211211|switch|12/10/2026
+cliente^273^Aline^Datena^aline.datena@bol.com.br^ATIVO
+cartao|4734ba6f-3de8-3d86-9c31-76a6273cac6d|273|1211122112342201|solo|12/09/2028
+cliente^274^Hélio^Braga^helio.braga@gmail.com^ATIVO
+cartao|d947bf06-a885-3b0d-877d-707121934ff8|274|1234212112211211|switch|12/10/2026
+cliente^275^Ian^Braga^ian.braga@hotmail.com^ATIVO
+cartao|63923f49-e524-3343-aa7a-cb6a06a751e7|275|1212122111211234|visa|12/10/2026
+cliente^276^Washington^Meireles^washington.meireles@bol.com.br^ATIVO
+cartao|db8e1af0-cb3a-3a1a-a2d0-018624204529|276|1234212112211211|diners_club|12/09/2028
+cliente^277^Janaína^Espinhosa^janaina.espinhosa@hotmail.com^ATIVO
+cartao|20f07591-c6fc-3220-bfe6-37cda29bb3f6|277|1234212112211211|visa|12/11/2027
+cliente^278^Fabiano^Dias^fabiano.dias@gmail.com^ATIVO
+cartao|07cdfd23-373b-37c6-b337-251c22b7ea57|278|1211122112342201|forbrugsforeningen|12/11/2027
+cliente^279^Sophia^Madeira^sophia.madeira@bol.com.br^ATIVO
+cartao|d3957710-85aa-3052-84a4-fb8fd91bf4ee|279|1212122111211234|switch|12/11/2027
+cliente^280^Maria Valentina^Cabreira^maria.valentina.cabreira@gmail.com^ATIVO
+cartao|92c8c96e-4c37-3007-b7c7-190b76d28233|280|1211122112342201|switch|11/11/2030
+cliente^281^Luiz Gustavo^Martim^luiz.gustavo.martim@live.com^ATIVO
+cartao|e3796ae8-3883-3da0-b6f6-ea37bcf8bcb7|281|1212122111211234|american_express|11/11/2030
+cliente^282^Maitê^Souza^maite.souza@hotmail.com^ATIVO
+cartao|6a9aeddf-c689-31d0-a3b9-ccc3ab651bc5|282|1234212112211211|visa|12/11/2027
+cliente^283^Ian^Duarte^ian.duarte@gmail.com^ATIVO
+cartao|0f49c89d-1e72-38bb-9930-789c8ed59d48|283|1234212112211211|dankort|12/09/2028
+cliente^284^Danilo^Camacho^danilo.camacho@gmail.com^ATIVO
+cartao|46ba9f2a-6976-370b-8353-203ec4474217|284|1211122112342201|maestro|11/11/2030
+cliente^285^Maria Eduarda^Galego^maria.eduarda.galego@live.com^ATIVO
+cartao|0e01938f-c48a-3cfb-9f22-17fbfb00722d|285|1228122112211431|visa|11/11/2030
+cliente^286^Ana Sophia^Gomes^ana.sophia.gomes@gmail.com^ATIVO
+cartao|16a5cdae-362b-3d27-a1d8-f8c7b78b4330|286|1228122112211431|diners_club|12/10/2026
+cliente^287^Rebeca^da Fronteira^rebeca.da.fronteira@bol.com.br^ATIVO
+cartao|918317b5-7931-36b7-a7d2-9490fe5ec9f9|287|1228122112211431|jcb|12/11/2027
+cliente^288^Silas^da Maia^silas.da.maia@live.com^ATIVO
+cartao|48aedb88-80ca-38c4-9637-abc7493ecddd|288|1234212112211211|switch|12/09/2028
+cliente^289^Alessandro^Lessa^alessandro.lessa@gmail.com^ATIVO
+cartao|839ab468-20b5-34af-9a05-122893c2fe8e|289|1228122112211431|diners_club|12/09/2028
+cliente^290^João^Dantas^joao.dantas@gmail.com^ATIVO
+cartao|f90f2aca-5c64-3289-90a2-9417bcb63a37|290|1234212112211211|dankort|12/10/2026
+cliente^291^Talita^Mendes^talita.mendes@yahoo.com^ATIVO
+cartao|9c838d2e-45b2-3d10-94d4-2f4ef36764f6|291|1228122112211431|laser|12/11/2027
+cliente^292^Vitória^Quarteira^vitoria.quarteira@bol.com.br^ATIVO
+cartao|17000029-63a4-3da1-b542-e0726b7bb758|292|1234212112211211|diners_club|12/11/2027
+cliente^293^João Guilherme^Morais^joao.guilherme.morais@bol.com.br^ATIVO
+cartao|53c3bce6-6e43-3e4f-a095-56518c2fcb54|293|1228122112211431|solo|12/11/2027
+cliente^294^Mirella^Leiria^mirella.leiria@hotmail.com^ATIVO
+cartao|6883966f-d8f9-38a4-aa29-be29d2c386fb|294|1234212112211211|switch|12/10/2026
+cliente^295^Aline^Marcondes^aline.marcondes@yahoo.com^ATIVO
+cartao|49182f81-e6a1-3cf5-aaa4-96d51fea6406|295|1211122112342201|forbrugsforeningen|12/09/2028
+cliente^296^Mathias^Ordonhes^mathias.ordonhes@live.com^ATIVO
+cartao|d296c101-daa8-3a51-b6ca-8cfc1ac79b50|296|1211122112342201|solo|11/11/2030
+cliente^297^Fernanda^da Rosa^fernanda.da.rosa@hotmail.com^ATIVO
+cartao|9fd81843-ad7f-302f-a6c1-a174c7357585|297|1211122112342201|dankort|12/09/2028
+cliente^298^Feliciano^Soeira^feliciano.soeira@gmail.com^ATIVO
+cartao|26e359e8-3860-3b1d-91b6-acca57d8ea88|298|1212122111211234|dankort|12/09/2028
+cliente^299^Luiza^Peres^luiza.peres@bol.com.br^ATIVO
+cartao|ef0d3930-a7b6-395b-92b3-2ed45989c61f|299|1212122111211234|laser|12/09/2028
+cliente^300^Paula^da Rosa^paula.da.rosa@bol.com.br^ATIVO
+cartao|94f6d7e0-4a4d-3520-b530-0f18b984988c|300|1228122112211431|switch|12/09/2028
+cliente^301^Sophie^da Penha^sophie.da.penha@yahoo.com^ATIVO
+cartao|34ed066d-f378-3fac-89b9-24ec161e7639|301|1234212112211211|laser|12/10/2026
+cliente^302^Luiz Gustavo^Siqueiro^luiz.gustavo.siqueiro@bol.com.br^ATIVO
+cartao|577bcc91-4f9e-35d5-a4e4-f82f9f00e7d4|302|1211122112342201|maestro|12/11/2027
+cliente^303^Maria Eduarda^Quarteira^maria.eduarda.quarteira@gmail.com^ATIVO
+cartao|11b9842e-0a27-3ff2-92c1-903e7132cd68|303|1228122112211431|visa|12/11/2027
+cliente^304^Ladislau^Antena^ladislau.antena@yahoo.com^ATIVO
+cartao|37bc2f75-bf1b-3fe8-850a-1a41c200364c|304|1228122112211431|forbrugsforeningen|12/09/2028
+cliente^305^Maya^Ornelas^maya.ornelas@live.com^ATIVO
+cartao|496e05e1-aea0-39c4-a558-00e8a7b9ea28|305|1228122112211431|solo|11/11/2030
+cliente^306^Malu^Siqueiro^malu.siqueiro@gmail.com^ATIVO
+cartao|b2eb7349-0357-3495-bb57-a32e2841bda5|306|1228122112211431|dankort|11/11/2030
+cliente^307^Paula^Castelo^paula.castelo@hotmail.com^ATIVO
+cartao|8e98d81f-8217-3049-b5cc-b23337bb5761|307|1212122111211234|laser|11/11/2030
+cliente^308^João^Dias^joao.dias@yahoo.com^ATIVO
+cartao|a8c88a00-55f6-36e4-a163-a5e3d16adab7|308|1228122112211431|american_express|12/09/2028
+cliente^309^Silas^Paiva^silas.paiva@yahoo.com^ATIVO
+cartao|eddea82a-d275-3b24-84e1-68c5fc2ebd40|309|1228122112211431|maestro|12/09/2028
+cliente^310^Sophia^Domingues^sophia.domingues@yahoo.com^ATIVO
+cartao|06eb61b8-39a0-3efe-a496-7c67ccb099dc|310|1211122112342201|switch|11/11/2030
+cliente^311^Isadora^Mendanha^isadora.mendanha@gmail.com^ATIVO
+cartao|9dfcd5e5-58df-304a-af37-f137a1d9d3e5|311|1212122111211234|jcb|12/11/2027
+cliente^312^Márcio^da Silva^marcio.da.silva@yahoo.com^ATIVO
+cartao|950a4152-c2b4-3a3a-978b-dd6b366cc179|312|1228122112211431|solo|12/10/2026
+cliente^313^Rodrigo^Filgueira^rodrigo.filgueira@gmail.com^ATIVO
+cartao|158f3069-a435-3314-a80b-dcb024f8e422|313|1212122111211234|dankort|12/10/2026
+cliente^314^Alícia^do Prado^alicia.do.prado@bol.com.br^ATIVO
+cartao|75887499-8f5b-30c3-93da-094e1967a72b|314|1212122111211234|forbrugsforeningen|12/10/2026
+cliente^315^Antônio^Rezende^antonio.rezende@hotmail.com^ATIVO
+cartao|ad13a2a0-7ca4-3764-a959-dc0c4c740ab6|315|1228122112211431|forbrugsforeningen|12/10/2026
+cliente^316^Davi Lucas^Martins^davi.lucas.martins@yahoo.com^ATIVO
+cartao|3fe94a00-2317-35f9-a59f-82690aeea4cd|316|1234212112211211|diners_club|11/11/2030
+cliente^317^Heloísa^Raia^heloisa.raia@live.com^ATIVO
+cartao|5b8add2a-5d98-31a6-92ea-7fd72d942dac|317|1212122111211234|solo|12/11/2027
+cliente^318^Víctor^Paiva^victor.paiva@bol.com.br^ATIVO
+cartao|432aca3a-1e34-3e33-9f35-a30c8f65edce|318|1228122112211431|maestro|12/09/2028
+cliente^319^Morgana^de Lara^morgana.de.lara@yahoo.com^ATIVO
+cartao|8d3bba74-25e7-398c-90f5-2ca1b52d3735|319|1234212112211211|american_express|11/11/2030
+cliente^320^Eloah^Guterres^eloah.guterres@hotmail.com^ATIVO
+cartao|32072254-9d17-31cf-bf24-7855f937b982|320|1234212112211211|solo|12/09/2028
+cliente^321^Daniel^Aroeira^daniel.aroeira@hotmail.com^ATIVO
+cartao|caf1a3df-b505-3fed-8d02-4130f58c5cfa|321|1234212112211211|mastercard|11/11/2030
+cliente^322^Agatha^Saraiva^agatha.saraiva@gmail.com^ATIVO
+cartao|5737c6ec-2e07-36f3-98a7-a5c4e0de0d9a|322|1228122112211431|jcb|12/09/2028
+cliente^323^Larissa^Longuinho^larissa.longuinho@live.com^ATIVO
+cartao|bc6dc48b-743d-35d0-93b1-abaebd2faed2|323|1228122112211431|forbrugsforeningen|12/10/2026
+cliente^324^Marina^Fernandes^marina.fernandes@yahoo.com^ATIVO
+cartao|f2fc9902-65c7-32c4-9d51-a18a32b39f0c|324|1228122112211431|forbrugsforeningen|12/11/2027
+cliente^325^Sílvia^Gentil^silvia.gentil@gmail.com^ATIVO
+cartao|89f0fd5c-927d-366d-aec9-a21b9ac34ffa|325|1234212112211211|diners_club|12/10/2026
+cliente^326^Lívia^Godinho^livia.godinho@gmail.com^ATIVO
+cartao|a666587a-fda6-389a-ac27-4a3657558a27|326|1234212112211211|forbrugsforeningen|11/11/2030
+cliente^327^Lara^Vimaranes^lara.vimaranes@yahoo.com^ATIVO
+cartao|b83aac23-b952-3732-823c-c7352950e880|327|1212122111211234|diners_club|12/10/2026
+cliente^328^Rebeca^Domingues^rebeca.domingues@hotmail.com^ATIVO
+cartao|cd00692c-3bfe-3926-bd5e-cfac5310286c|328|1211122112342201|maestro|12/11/2027
+cliente^329^Bianca^Rêgo^bianca.rego@hotmail.com^ATIVO
+cartao|6faa8040-da20-3f39-9b63-a72d0e4ab575|329|1234212112211211|visa|12/11/2027
+cliente^330^Luna^Dorneles^luna.dorneles@live.com^ATIVO
+cartao|fe73f687-e5bc-3280-a14e-0486b273a5f9|330|1211122112342201|dankort|12/11/2027
+cliente^331^Laura^Assumpção^laura.assumpcao@live.com^ATIVO
+cartao|6da37dd3-139a-34d9-aa55-b8d237ec5d4a|331|1228122112211431|jcb|12/09/2028
+cliente^332^Otávio^Passarinho^otavio.passarinho@bol.com.br^ATIVO
+cartao|c042f4db-68f2-3406-86ce-cf84a7ebb0fe|332|1228122112211431|jcb|12/10/2026
+cliente^333^Gabriel^Lessa^gabriel.lessa@hotmail.com^ATIVO
+cartao|310dcbbf-4cce-32f7-a2a2-aaa148d556bd|333|1234212112211211|discover|12/09/2028
+cliente^334^Ana Beatriz^Lima^ana.beatriz.lima@bol.com.br^ATIVO
+cartao|2f2b2656-25d7-3a67-84b0-8093c652fd79|334|1212122111211234|maestro|11/11/2030
+cliente^335^Mirella^Mendanha^mirella.mendanha@live.com^ATIVO
+cartao|f9b902fc-3289-3f4d-908d-e5d1de54f68f|335|1212122111211234|discover|12/09/2028
+cliente^336^Larissa^Mendes^larissa.mendes@gmail.com^ATIVO
+cartao|6855456e-2fe4-3a9d-89d3-d3af4f57443d|336|1228122112211431|discover|12/11/2027
+cliente^337^Clarice^Barroso^clarice.barroso@live.com^ATIVO
+cartao|357a6fdf-7642-3f81-9a88-822c447d9dc4|337|1212122111211234|solo|12/11/2027
+cliente^338^Célia^Corrêa^celia.correa@gmail.com^ATIVO
+cartao|819f46e5-2c25-363a-95cc-642422644317|338|1212122111211234|discover|12/10/2026
+cliente^339^Cauã^Vieira^caua.vieira@bol.com.br^ATIVO
+cartao|04025959-b191-38f9-9e3f-924f0940515f|339|1211122112342201|visa|11/11/2030
+cliente^340^Louise^Conceição^louise.conceicao@live.com^ATIVO
+cartao|40008b9a-5380-3cac-8e39-76bf7c08af5b|340|1212122111211234|visa|12/09/2028
+cliente^341^Ana Luiza^Assumpção^ana.luiza.assumpcao@yahoo.com^ATIVO
+cartao|3dd48ab3-1d01-3ffc-bf33-14df2b3cb9ce|341|1228122112211431|diners_club|12/11/2027
+cliente^342^Célia^Guterres^celia.guterres@hotmail.com^ATIVO
+cartao|58238e9a-e2dd-305d-b9c2-ebc8c1883422|342|1228122112211431|maestro|12/11/2027
+cliente^343^Mirella^Barreto^mirella.barreto@bol.com.br^ATIVO
+cartao|3ad7c2eb-b96f-3ba7-8da0-cf54a2e802f5|343|1211122112342201|switch|11/11/2030
+cliente^344^Sílvia^Lima^silvia.lima@live.com^ATIVO
+cartao|b3967a0e-938d-32a6-b40e-258630febd5a|344|1228122112211431|visa|12/11/2027
+cliente^345^Enzo^Lopes^enzo.lopes@hotmail.com^ATIVO
+cartao|d81f9c1b-e2e0-3964-bf9f-24b15f0e4900|345|1211122112342201|mastercard|12/10/2026
+cliente^346^Júlia^Santos^julia.santos@gmail.com^ATIVO
+cartao|13f9896d-f612-39c9-a8f1-9721878fac41|346|1234212112211211|american_express|12/10/2026
+cliente^347^João Gabriel^Farias^joao.gabriel.farias@gmail.com^ATIVO
+cartao|c5ff2543-b53f-3cc0-ad38-19a36752467b|347|1211122112342201|discover|12/10/2026
+cliente^348^Ana Beatriz^Bonfim^ana.beatriz.bonfim@live.com^ATIVO
+cartao|01386bd6-d8e0-31c2-ab4c-7c7de644d37b|348|1228122112211431|american_express|11/11/2030
+cliente^349^Beatriz^Castanheira^beatriz.castanheira@yahoo.com^ATIVO
+cartao|0bb4aec1-7105-31c1-aee7-6289d9440817|349|1212122111211234|american_express|12/09/2028
+cliente^350^Malu^Xavier^malu.xavier@gmail.com^ATIVO
+cartao|9de6d14f-ff98-36d4-bcd1-ef555be766cd|350|1212122111211234|laser|12/11/2027
+cliente^351^Meire^Farias^meire.farias@live.com^ATIVO
+cartao|efe93778-0e95-3742-90da-be07151bdc23|351|1234212112211211|mastercard|11/11/2030
+cliente^352^Alícia^Antunes^alicia.antunes@hotmail.com^ATIVO
+cartao|371bce7d-c838-37b7-893b-cdeed13799b5|352|1234212112211211|switch|11/11/2030
+cliente^353^Roberta^Viana^roberta.viana@gmail.com^ATIVO
+cartao|138bb069-6595-3338-afba-b333c555292a|353|1234212112211211|dankort|12/09/2028
+cliente^354^Feliciano^Carreira^feliciano.carreira@bol.com.br^ATIVO
+cartao|8dd48d6a-2e2c-3d21-b179-a3992c0be53c|354|1212122111211234|diners_club|11/11/2030
+cliente^355^Yuri^Marins^yuri.marins@gmail.com^ATIVO
+cartao|82cec960-96d4-381b-bc95-cd7e74623496|355|1211122112342201|visa|12/11/2027
+cliente^356^Lívia^Dias^livia.dias@live.com^ATIVO
+cartao|6c524f9d-5d70-3745-8a78-3c841250ba71|356|1234212112211211|discover|12/11/2027
+cliente^357^Ana Lívia^da Penha^ana.livia.da.penha@gmail.com^ATIVO
+cartao|fb7b9ffa-5462-384c-9f4e-7e85a093e6d7|357|1228122112211431|visa|12/11/2027
+cliente^358^Luiz^Carreira^luiz.carreira@live.com^ATIVO
+cartao|aa942ab2-bfa6-3bda-8840-e7360ce6e7ef|358|1212122111211234|dankort|12/10/2026
+cliente^359^Lorena^da Veiga^lorena.da.veiga@hotmail.com^ATIVO
+cartao|c058f544-c737-382d-aace-fa532d9add4c|359|1212122111211234|diners_club|12/11/2027
+cliente^360^Maria Eduarda^Esteves^maria.eduarda.esteves@bol.com.br^ATIVO
+cartao|e7b24b11-2a44-3dd9-ae93-bdf998c6ca0e|360|1211122112342201|visa|12/09/2028
+cliente^361^Nicole^Nascimento^nicole.nascimento@yahoo.com^ATIVO
+cartao|52720e00-3547-3705-a1bf-5e03b95aa99f|361|1228122112211431|mastercard|11/11/2030
+cliente^362^Isabella^Goulart^isabella.goulart@hotmail.com^ATIVO
+cartao|c3e878e2-7f52-32a5-bace-4d9a76fd9acf|362|1228122112211431|diners_club|12/11/2027
+cliente^363^Sirineu^Vimaranes^sirineu.vimaranes@gmail.com^ATIVO
+cartao|00411460-f7c9-3d21-a4a6-7ea0f4cb5f85|363|1234212112211211|forbrugsforeningen|11/11/2030
+cliente^364^Margarida^Rameira^margarida.rameira@yahoo.com^ATIVO
+cartao|bac9162b-47c5-3fc8-a4d2-a519803d51b3|364|1228122112211431|forbrugsforeningen|12/11/2027
+cliente^365^Alexandre^da Rosa^alexandre.da.rosa@yahoo.com^ATIVO
+cartao|9be40cee-5b0e-3e14-a2c8-2c6964087ff9|365|1211122112342201|mastercard|12/09/2028
+cliente^366^Sara^Barroso^sara.barroso@live.com^ATIVO
+cartao|5ef698cd-9fe6-3092-bea3-31c15af3b160|366|1212122111211234|maestro|12/09/2028
+cliente^367^Alice^Dias^alice.dias@live.com^ATIVO
+cartao|05049e90-fa4f-3039-a8ca-dc6acbb4b2cc|367|1234212112211211|switch|11/11/2030
+cliente^368^Danilo^Resende^danilo.resende@gmail.com^ATIVO
+cartao|cf004fdc-76fa-3a4f-a5f6-2e0eb5261ca3|368|1212122111211234|diners_club|12/09/2028
+cliente^369^Félix^Moreno^felix.moreno@yahoo.com^ATIVO
+cartao|0c74b7f7-8409-3402-aa2c-4c5a5ca3ee19|369|1228122112211431|visa|12/09/2028
+cliente^370^Eduardo^Siqueiro^eduardo.siqueiro@bol.com.br^ATIVO
+cartao|d709f38e-f758-3506-aef3-1b18039b8ce5|370|1228122112211431|visa|12/10/2026
+cliente^371^Marli^Lessa^marli.lessa@hotmail.com^ATIVO
+cartao|41f1f191-76d3-3348-8afa-65d325c06ed0|371|1234212112211211|switch|12/10/2026
+cliente^372^Manuela^Roriz^manuela.roriz@hotmail.com^ATIVO
+cartao|24b16fed-e9a6-3c92-91d3-e7c7161c83ac|372|1228122112211431|american_express|12/11/2027
+cliente^373^Maria Clara^Leiria^maria.clara.leiria@live.com^ATIVO
+cartao|ffd52f3c-7e12-335a-b24a-8f30fddadd9c|373|1211122112342201|mastercard|11/11/2030
+cliente^374^Cauã^Ouriques^caua.ouriques@bol.com.br^ATIVO
+cartao|ad972f10-e080-3b49-976f-ed33a21f6698|374|1211122112342201|dankort|11/11/2030
+cliente^375^Ayla^Peixoto^ayla.peixoto@bol.com.br^ATIVO
+cartao|f61d6947-467c-3d3a-a5af-24db320235dd|375|1234212112211211|solo|12/10/2026
+cliente^376^Thomas^Mangueira^thomas.mangueira@hotmail.com^ATIVO
+cartao|142949df-56ea-3ae0-be8b-5306971900a4|376|1211122112342201|jcb|12/11/2027
+cliente^377^Meire^Tavares^meire.tavares@live.com^ATIVO
+cartao|d34ab169-b70c-3dcd-b5e6-2896010cd9ff|377|1234212112211211|jcb|12/09/2028
+cliente^378^Lucca^Espinhosa^lucca.espinhosa@hotmail.com^ATIVO
+cartao|8bf1211f-d4b7-3945-a889-9de0a43b9fb3|378|1212122111211234|switch|12/11/2027
+cliente^379^Valentina^Dias^valentina.dias@gmail.com^ATIVO
+cartao|a02ffd91-ece5-37ef-ab46-db8f10a74059|379|1234212112211211|forbrugsforeningen|12/11/2027
+cliente^380^Norberto^Moniz^norberto.moniz@bol.com.br^ATIVO
+cartao|bca82e41-ee7b-3833-9883-99b1fcd177c7|380|1234212112211211|diners_club|12/09/2028
+cliente^381^Ayla^Quaresma^ayla.quaresma@gmail.com^ATIVO
+cartao|00ec53c4-682d-36f5-8435-9f4ae7bd7ba1|381|1211122112342201|american_express|12/09/2028
+cliente^382^Maria Luiza^Castelo^maria.luiza.castelo@gmail.com^ATIVO
+cartao|4f6ffe13-a5d7-3b2d-aa39-23922b3922e5|382|1211122112342201|visa|12/11/2027
+cliente^383^Laís^Castanho^lais.castanho@live.com^ATIVO
+cartao|beed1360-2b9b-3e6e-8b5b-568ff5058f07|383|1228122112211431|american_express|11/11/2030
+cliente^384^Frederico^Lobos^frederico.lobos@gmail.com^ATIVO
+cartao|0584ce56-5c82-3b7b-bf50-282d9a19945b|384|1211122112342201|dankort|11/11/2030
+cliente^385^Carlos^Coutinho^carlos.coutinho@gmail.com^ATIVO
+cartao|dc912a25-3d1e-3ba4-8e2c-597ed2376640|385|1234212112211211|dankort|11/11/2030
+cliente^386^Maria Alice^Rêgo^maria.alice.rego@yahoo.com^ATIVO
+cartao|39461a19-e9ed-3fb3-85ea-76b26521ea48|386|1212122111211234|dankort|12/10/2026
+cliente^387^Félix^Longuinho^felix.longuinho@gmail.com^ATIVO
+cartao|8efb100a-295c-3c69-8931-222ff4467bb8|387|1228122112211431|mastercard|11/11/2030
+cliente^388^Bianca^Galvão^bianca.galvao@gmail.com^ATIVO
+cartao|d9fc5b73-a8d7-3fad-bd6d-ffe419384e70|388|1212122111211234|switch|12/09/2028
+cliente^389^Rodrigo^Espinhosa^rodrigo.espinhosa@hotmail.com^ATIVO
+cartao|c86a7ee3-d8ef-3b55-9ed5-8e354a836f2b|389|1211122112342201|diners_club|12/11/2027
+cliente^390^Vitória^Barreira^vitoria.barreira@bol.com.br^ATIVO
+cartao|a01a0380-ca3c-3142-8c26-a231f0e49a09|390|1211122112342201|switch|12/10/2026
+cliente^391^Hugo^Hermingues^hugo.hermingues@yahoo.com^ATIVO
+cartao|5a4b25aa-ed25-32ee-9b74-de72dc03c14e|391|1211122112342201|jcb|11/11/2030
+cliente^392^João Victor^Fogaça^joao.victor.fogaca@gmail.com^ATIVO
+cartao|f73b76ce-8949-3e29-bf2a-537cfa420e8f|392|1234212112211211|jcb|12/09/2028
+cliente^393^Ana^Marcondes^ana.marcondes@yahoo.com^ATIVO
+cartao|70c639df-5e30-3dee-840e-4cdf599fec2b|393|1234212112211211|laser|12/10/2026
+cliente^394^Dalila^Corrêa^dalila.correa@live.com^ATIVO
+cartao|28f0b864-598a-3291-957b-ed248a998d4e|394|1228122112211431|jcb|12/11/2027
+cliente^395^Ricardo^de Assunção^ricardo.de.assuncao@gmail.com^ATIVO
+cartao|1543843a-4723-3d2a-b08e-18053ae6dc5b|395|1211122112342201|jcb|12/09/2028
+cliente^396^Ana Luiza^Ramalho^ana.luiza.ramalho@bol.com.br^ATIVO
+cartao|f8c1f23d-6a8d-3d79-84fc-0ea8e066b3bb|396|1211122112342201|dankort|11/11/2030
+cliente^397^Vitor^Pinto^vitor.pinto@bol.com.br^ATIVO
+cartao|e46de7e1-bcaa-3ed9-a54f-1e9d0d2f800d|397|1234212112211211|mastercard|12/11/2027
+cliente^398^Maria Luiza^Godins^maria.luiza.godins@bol.com.br^ATIVO
+cartao|b7b16ecf-8ca5-3723-9938-94116071700c|398|1211122112342201|mastercard|11/11/2030
+cliente^399^Carlos Eduardo^Geraldes^carlos.eduardo.geraldes@bol.com.br^ATIVO
+cartao|352fe25d-af68-3bdb-8edc-a223c921acea|399|1212122111211234|jcb|12/11/2027
+cliente^400^Dalila^Ferreira^dalila.ferreira@yahoo.com^ATIVO
+cartao|18d80423-86b7-3e2c-a79f-d162df0205c8|400|1234212112211211|switch|12/10/2026
+cliente^401^Alessandro^Taveira^alessandro.taveira@gmail.com^ATIVO
+cartao|816b112c-6105-33eb-9537-828a39af4818|401|1211122112342201|visa|12/09/2028
+cliente^402^Sílvia^Moniz^silvia.moniz@hotmail.com^ATIVO
+cartao|69cb3ea3-17a3-3c4e-a143-e665fdb20b14|402|1228122112211431|switch|11/11/2030
+cliente^403^Francisca^Banheira^francisca.banheira@bol.com.br^ATIVO
+cartao|bbf94b34-eb32-368a-9a57-a3be5062fe7d|403|1228122112211431|american_express|12/10/2026
+cliente^404^Clarice^Almada^clarice.almada@live.com^ATIVO
+cartao|4f4adcbf-8c6f-36dc-bc8a-3282ac2bf10a|404|1228122112211431|mastercard|12/10/2026
+cliente^405^Maitê^Lopes^maite.lopes@yahoo.com^ATIVO
+cartao|bbcbff5c-1f1d-3d46-825d-28119a85c6c2|405|1212122111211234|solo|12/09/2028
+cliente^406^Ana Luiza^Cerqueira^ana.luiza.cerqueira@bol.com.br^ATIVO
+cartao|8cb22bdd-0b7b-31ab-93d7-42e22eed8da2|406|1228122112211431|mastercard|12/09/2028
+cliente^407^Breno^Datena^breno.datena@yahoo.com^ATIVO
+cartao|f4f6dce2-f3a0-39da-9a0c-2b5b66452017|407|1211122112342201|solo|11/11/2030
+cliente^408^Larissa^Velasques^larissa.velasques@gmail.com^ATIVO
+cartao|0d0fd7c6-e093-37b8-84fa-0150b875b868|408|1212122111211234|jcb|12/10/2026
+cliente^409^Dalila^Galego^dalila.galego@gmail.com^ATIVO
+cartao|a96b65a7-21e5-31e1-a3de-768ac819ffbb|409|1211122112342201|dankort|12/11/2027
+cliente^410^Nataniel^Rameira^nataniel.rameira@bol.com.br^ATIVO
+cartao|1068c6e4-c805-3cfd-8e9e-a8072e3189e2|410|1212122111211234|discover|12/11/2027
+cliente^411^João Miguel^de Sá^joao.miguel.de.sa@live.com^ATIVO
+cartao|17d63b16-25c8-36c2-a647-a73e1482372b|411|1212122111211234|jcb|12/10/2026
+cliente^412^Maria Luiza^Jesus^maria.luiza.jesus@bol.com.br^ATIVO
+cartao|b9228e09-62a7-3b84-b3d5-d92f4faa000b|412|1234212112211211|jcb|12/09/2028
+cliente^413^Ofélia^Monteiro^ofelia.monteiro@hotmail.com^ATIVO
+cartao|0deb1c54-8143-35ca-9ad2-66f53bc82511|413|1228122112211431|switch|11/11/2030
+cliente^414^Ana Sophia^Ramos^ana.sophia.ramos@hotmail.com^ATIVO
+cartao|66808e32-7dc7-3d13-9ba1-8e051673d906|414|1212122111211234|solo|11/11/2030
+cliente^415^Ana Vitória^Costa^ana.vitoria.costa@yahoo.com^ATIVO
+cartao|42e7aaa8-8b48-337a-96a1-acd04ed91125|415|1212122111211234|american_express|11/11/2030
+cliente^416^Giulia^Palhares^giulia.palhares@gmail.com^ATIVO
+cartao|8fe0093b-b30d-3f8c-b147-4bd0764e6ac0|416|1211122112342201|maestro|12/11/2027
+cliente^417^Bento^Raia^bento.raia@bol.com.br^ATIVO
+cartao|41ae36ec-b9b3-3ee6-89d0-5b90c14222fb|417|1228122112211431|solo|12/11/2027
+cliente^418^Aline^Arantes^aline.arantes@gmail.com^ATIVO
+cartao|d1f255a3-73a3-3ef7-ae03-aa9d980c7eca|418|1211122112342201|mastercard|11/11/2030
+cliente^419^Felícia^Mangueira^felicia.mangueira@gmail.com^ATIVO
+cartao|7eacb532-570f-3685-8afd-2723755ff790|419|1212122111211234|laser|12/09/2028
+cliente^420^Ana Júlia^Aragão^ana.julia.aragao@yahoo.com^ATIVO
+cartao|b6f0479a-e87d-3449-b543-9c6124592772|420|1212122111211234|discover|12/11/2027
+cliente^421^João Vitor^Roriz^joao.vitor.roriz@hotmail.com^ATIVO
+cartao|e0c64119-5b27-325b-b056-ac56f8953d24|421|1212122111211234|discover|12/11/2027
+cliente^422^Miguel^Cardoso^miguel.cardoso@yahoo.com^ATIVO
+cartao|f85454e8-279b-3180-985c-ac7d243c5eb3|422|1234212112211211|american_express|12/11/2027
+cliente^423^Janaína^Rodrigues^janaina.rodrigues@hotmail.com^ATIVO
+cartao|faa9afea-49ef-3ff0-a9a8-33cccc778fd0|423|1211122112342201|solo|12/09/2028
+cliente^424^Pablo^Silva^pablo.silva@bol.com.br^ATIVO
+cartao|3c7781a3-6bcd-3cf0-8c11-a970fbe0e2a6|424|1211122112342201|diners_club|12/09/2028
+cliente^425^Elísio^Arriaga^elisio.arriaga@yahoo.com^ATIVO
+cartao|25b2822c-2f5a-3230-abfa-dd476e8b04c9|425|1234212112211211|switch|11/11/2030
+cliente^426^Meire^Caldeira^meire.caldeira@yahoo.com^ATIVO
+cartao|6ecbdd6e-c859-3284-9c13-885a37ce8d81|426|1211122112342201|solo|12/10/2026
+cliente^427^Heloísa^Oliveira^heloisa.oliveira@hotmail.com^ATIVO
+cartao|18997733-ec25-3a9f-8af2-39cc55d53363|427|1211122112342201|dankort|12/11/2027
+cliente^428^Nathan^Carneiro^nathan.carneiro@bol.com.br^ATIVO
+cartao|8d7d8ee0-69cb-3cbb-b816-bbb65d56947e|428|1211122112342201|discover|12/11/2027
+cliente^429^Davi Miguel^Soares^davi.miguel.soares@live.com^ATIVO
+cartao|75fc093c-0ee7-32f6-9dda-a13fff98f104|429|1212122111211234|dankort|11/11/2030
+cliente^430^Luiz Henrique^Reis^luiz.henrique.reis@hotmail.com^ATIVO
+cartao|f74909ac-e68e-3189-9440-e4da0b65a70c|430|1211122112342201|mastercard|12/09/2028
+cliente^431^Ayla^Coutinho^ayla.coutinho@gmail.com^ATIVO
+cartao|66368270-ffd5-3418-ac58-bd793f2d9b1b|431|1212122111211234|diners_club|12/10/2026
+cliente^432^Davi Ludmer^Barata^davi.ludmer.barata@gmail.com^ATIVO
+cartao|248e8443-3679-3ec9-8478-f85e7626de4a|432|1211122112342201|maestro|12/09/2028
+cliente^433^Antonia^Gabeira^antonia.gabeira@yahoo.com^ATIVO
+cartao|019d385e-b676-32a7-a958-e23f24bd07d7|433|1228122112211431|diners_club|11/11/2030
+cliente^434^Larissa^Almeida^larissa.almeida@bol.com.br^ATIVO
+cartao|a49e9411-d64f-353e-8cfd-d09ad10a15b3|434|1228122112211431|laser|12/10/2026
+cliente^435^Lara^Araújo^lara.araujo@yahoo.com^ATIVO
+cartao|ddb30680-a691-3157-987e-e1cf9e896d03|435|1212122111211234|diners_club|12/09/2028
+cliente^436^Luan^Domingues^luan.domingues@bol.com.br^ATIVO
+cartao|2421fcb1-263b-3530-9f88-f7f002e78ea5|436|1211122112342201|dankort|12/11/2027
+cliente^437^João Victor^Palmeira^joao.victor.palmeira@gmail.com^ATIVO
+cartao|fccb60fb-512d-33df-9083-790d64c4d5dd|437|1212122111211234|forbrugsforeningen|12/09/2028
+cliente^438^Eloah^Leiria^eloah.leiria@gmail.com^ATIVO
+cartao|1651cf0d-2f73-3d7a-9eab-84d339dbabd3|438|1234212112211211|american_express|12/10/2026
+cliente^439^Larissa^da Bandeira^larissa.da.bandeira@bol.com.br^ATIVO
+cartao|eed5af6a-dd95-39a6-b125-2739b1ad8c24|439|1212122111211234|switch|12/11/2027
+cliente^440^Levi^Porteira^levi.porteira@gmail.com^ATIVO
+cartao|a8abb4bb-284b-3b27-aa7c-b790dc20f80b|440|1228122112211431|american_express|11/11/2030
+cliente^441^Yasmin^da Terra^yasmin.da.terra@live.com^ATIVO
+cartao|15d4e891-d784-377c-acbf-cbb00c48f133|441|1228122112211431|american_express|12/09/2028
+cliente^442^Kaique^Jesus^kaique.jesus@live.com^ATIVO
+cartao|c203d8a1-5161-3acf-9245-7e4d67635a95|442|1211122112342201|solo|12/11/2027
+cliente^443^Márcia^Marques^marcia.marques@live.com^ATIVO
+cartao|13f3cf8c-5319-32d7-ae58-47c4183e6910|443|1211122112342201|mastercard|12/09/2028
+cliente^444^Ayla^Moreno^ayla.moreno@hotmail.com^ATIVO
+cartao|550a141f-12de-3341-bba6-5b0ad0433500|444|1211122112342201|mastercard|12/10/2026
+cliente^445^Sophia^Lessa^sophia.lessa@gmail.com^ATIVO
+cartao|67f7fb87-3eaf-3952-aa11-a9b7ac33bfac|445|1228122112211431|american_express|12/10/2026
+cliente^446^Leonardo^Siqueira^leonardo.siqueira@gmail.com^ATIVO
+cartao|1a5b1e4d-aae2-35b7-9096-5a275b53ae50|446|1234212112211211|laser|12/11/2027
+cliente^447^Sarah^Dantas^sarah.dantas@bol.com.br^ATIVO
+cartao|9a96876e-2f8f-3dc4-b3cf-45f02c61c0c1|447|1234212112211211|visa|12/09/2028
+cliente^448^Ana Beatriz^do Prado^ana.beatriz.do.prado@gmail.com^ATIVO
+cartao|9b70e8fe-62e4-3c57-8a32-2f1b0b659098|448|1211122112342201|mastercard|12/11/2027
+cliente^449^Mirella^Tavares^mirella.tavares@yahoo.com^ATIVO
+cartao|d61e4bbd-6393-3911-9e65-26ea173a7c8b|449|1228122112211431|laser|12/10/2026
+cliente^450^Letícia^Lessa^leticia.lessa@hotmail.com^ATIVO
+cartao|f5f8590c-d58a-34e9-8377-e6ae2eded4d9|450|1212122111211234|mastercard|12/10/2026
+cliente^451^Davi Ludmer^Costa^davi.ludmer.costa@gmail.com^ATIVO
+cartao|941e1aaa-ba58-3b95-ab62-c14a3a175a61|451|1211122112342201|visa|12/09/2028
+cliente^452^Kauê^da Silva^kaue.da.silva@yahoo.com^ATIVO
+cartao|9431c87f-273e-307e-a040-fcb07dcb4509|452|1211122112342201|solo|12/10/2026
+cliente^453^Laís^Batista^lais.batista@live.com^ATIVO
+cartao|49ae49a2-3f67-3759-bf4f-c791ba842aa2|453|1211122112342201|maestro|12/09/2028
+cliente^454^Davi Luca^Carvalheira^davi.luca.carvalheira@live.com^ATIVO
+cartao|e44fea3b-ec53-3cea-bb75-13ccef5857ac|454|1212122111211234|american_express|11/11/2030
+cliente^455^Isabel^Gomide^isabel.gomide@hotmail.com^ATIVO
+cartao|821fa74b-50ba-3f7c-ba1e-6c53e8fa6845|455|1228122112211431|switch|11/11/2030
+cliente^456^Rebeca^Álvares^rebeca.alvares@live.com^ATIVO
+cartao|250cf8b5-1c77-3f3f-8dc8-b4be867a9a02|456|1228122112211431|maestro|12/10/2026
+cliente^457^Isabelly^Filgueira^isabelly.filgueira@hotmail.com^ATIVO
+cartao|42998cf3-2d55-3343-bc8e-460416382dca|457|1228122112211431|jcb|11/11/2030
+cliente^458^Luiz^Melo^luiz.melo@live.com^ATIVO
+cartao|d07e70ef-cfab-3873-9a97-e7b91be644de|458|1212122111211234|jcb|12/09/2028
+cliente^459^Giulia^Araújo^giulia.araujo@live.com^ATIVO
+cartao|7fe1f8ab-aad0-34e0-b5cb-1b01d712f708|459|1212122111211234|diners_club|12/10/2026
+cliente^460^Enzo^Guterres^enzo.guterres@gmail.com^ATIVO
+cartao|98b29795-0041-3424-b026-9d56260243a1|460|1234212112211211|visa|12/11/2027
+cliente^461^Isabel^Espinheira^isabel.espinheira@bol.com.br^ATIVO
+cartao|0353ab4c-bed5-3eae-847a-7ff6e220b5cf|461|1212122111211234|american_express|12/10/2026
+cliente^462^Emilly^Grotas^emilly.grotas@bol.com.br^ATIVO
+cartao|51d92be1-c60d-3db1-92e5-e7a07da55b26|462|1234212112211211|jcb|11/11/2030
+cliente^463^Isabel^Mangueira^isabel.mangueira@gmail.com^ATIVO
+cartao|428fca9b-c192-3c25-8512-1f9da7815cde|463|1211122112342201|solo|12/10/2026
+cliente^464^Milena^Carneiro^milena.carneiro@live.com^ATIVO
+cartao|f1b6f285-7fb6-344d-973c-7041e0aa0f19|464|1211122112342201|dankort|12/09/2028
+cliente^465^Mirella^Domingues^mirella.domingues@bol.com.br^ATIVO
+cartao|68ce199e-c2c5-3175-97ce-0a4d89620f55|465|1228122112211431|solo|12/09/2028
+cliente^466^Víctor^Simão^victor.simao@hotmail.com^ATIVO
+cartao|e836d813-fd18-3325-932f-ca8edcdfb40e|466|1211122112342201|discover|11/11/2030
+cliente^467^Malu^Taveira^malu.taveira@live.com^ATIVO
+cartao|ab817c93-49cf-3c4f-a877-e1894a1faa00|467|1212122111211234|solo|12/09/2028
+cliente^468^Kléber^da Fontoura^kleber.da.fontoura@yahoo.com^ATIVO
+cartao|877a9ba7-a98f-35b9-8a9d-49f53f15a858|468|1234212112211211|laser|12/10/2026
+cliente^469^José^da Barra^jose.da.barra@live.com^ATIVO
+cartao|dc6a6489-640c-302b-8d42-dabeb8e46bb7|469|1211122112342201|laser|12/09/2028
+cliente^470^Morgana^dos Reis^morgana.dos.reis@bol.com.br^ATIVO
+cartao|26337353-b796-3f53-bd78-c762373b3318|470|1212122111211234|jcb|11/11/2030
+cliente^471^Talita^Ordonhes^talita.ordonhes@live.com^ATIVO
+cartao|8e6b42f1-644e-3b13-a7dc-03ab345e618b|471|1211122112342201|dankort|12/11/2027
+cliente^472^Noah^Solimões^noah.solimoes@live.com^ATIVO
+cartao|ef575e88-37d0-35a1-a83c-022d2077d342|472|1211122112342201|switch|12/11/2027
+cliente^473^João Miguel^Modesto^joao.miguel.modesto@bol.com.br^ATIVO
+cartao|2050e03c-a119-380f-b4cc-a14cc6e97462|473|1228122112211431|forbrugsforeningen|12/11/2027
+cliente^474^Milena^Novaes^milena.novaes@yahoo.com^ATIVO
+cartao|25ddc0f8-c9d3-322e-83d3-076f98d83cb2|474|1211122112342201|american_express|11/11/2030
+cliente^475^João Miguel^Sanches^joao.miguel.sanches@yahoo.com^ATIVO
+cartao|5ef0b4eb-a35a-32d6-980b-0bca7e46b6f9|475|1211122112342201|switch|12/10/2026
+cliente^476^Maria Luiza^Bouças^maria.luiza.boucas@gmail.com^ATIVO
+cartao|598b3e71-ec37-3bd8-be0a-727608b5db01|476|1228122112211431|mastercard|12/09/2028
+cliente^477^Ana Sophia^Barata^ana.sophia.barata@hotmail.com^ATIVO
+cartao|74071a67-3307-3a74-99bc-f75fbd024e09|477|1228122112211431|laser|12/10/2026
+cliente^478^Heloísa^Coqueiro^heloisa.coqueiro@hotmail.com^ATIVO
+cartao|cfee3986-43cb-33dc-9eef-c89334cacdc1|478|1228122112211431|forbrugsforeningen|11/11/2030
+cliente^479^Francisca^Paes^francisca.paes@bol.com.br^ATIVO
+cartao|d18f655c-3fce-36ca-801d-5f38b48c89af|479|1211122112342201|solo|12/10/2026
+cliente^480^João Luca^Modesto^joao.luca.modesto@bol.com.br^ATIVO
+cartao|6ea2ef73-11b4-3272-8a9b-7b0bc0dd85c6|480|1211122112342201|discover|12/10/2026
+cliente^481^Fábio^da Silva^fabio.da.silva@live.com^ATIVO
+cartao|9461cce2-8ebe-3e76-bb4b-931c35a169b0|481|1234212112211211|forbrugsforeningen|12/10/2026
+cliente^482^Allana^Albuquerque^allana.albuquerque@yahoo.com^ATIVO
+cartao|f770b62b-c8f4-3a0b-a675-1fe636fc6eb0|482|1234212112211211|mastercard|11/11/2030
+cliente^483^Louise^Hernandes^louise.hernandes@bol.com.br^ATIVO
+cartao|e1e32e23-5eee-3f97-8470-a3a6658dfdd5|483|1228122112211431|visa|12/10/2026
+cliente^484^Lorenzo^da Veiga^lorenzo.da.veiga@yahoo.com^ATIVO
+cartao|eba0dc30-2bcd-3a27-bf8b-bb72be3a687b|484|1228122112211431|visa|11/11/2030
+cliente^485^Margarida^Guedes^margarida.guedes@yahoo.com^ATIVO
+cartao|218a0aef-d1d1-34be-a560-1cc6ddc1520e|485|1212122111211234|laser|12/10/2026
+cliente^486^Washington^da Mata^washington.da.mata@live.com^ATIVO
+cartao|7d04bbbe-5494-3e9d-af5a-76aa1c00fa2f|486|1211122112342201|visa|12/11/2027
+cliente^487^Arthur Gabriel^Pinto^arthur.gabriel.pinto@gmail.com^ATIVO
+cartao|a516a87c-fcae-3229-b342-c437fe2b95f7|487|1228122112211431|forbrugsforeningen|12/10/2026
+cliente^488^Lucas Gabriel^Godins^lucas.gabriel.godins@yahoo.com^ATIVO
+cartao|c3c59e5f-8b3e-3753-913f-4d435b53c308|488|1212122111211234|visa|12/11/2027
+cliente^489^Warley^Brum^warley.brum@gmail.com^ATIVO
+cartao|854d9fca-60b4-3d07-b9bb-215d59ef5561|489|1211122112342201|american_express|12/11/2027
+cliente^490^Enzo Gabriel^Modesto^enzo.gabriel.modesto@yahoo.com^ATIVO
+cartao|c410003e-f13d-3517-a7ae-ff9082c29a5c|490|1211122112342201|laser|12/11/2027
+cliente^491^Nicole^Corte^nicole.corte@gmail.com^ATIVO
+cartao|559cb990-c9df-3d86-b5f6-bc2186971dc2|491|1212122111211234|visa|12/10/2026
+cliente^492^João Guilherme^da Veiga^joao.guilherme.da.veiga@live.com^ATIVO
+cartao|55a7cf9c-71f1-39c4-9541-3f934dd1a158|492|1228122112211431|mastercard|12/11/2027
+cliente^493^Fabrícia^Hernandes^fabricia.hernandes@hotmail.com^ATIVO
+cartao|2f55707d-4193-3c27-918a-0f19a1985716|493|1228122112211431|jcb|12/11/2027
+cliente^494^Daniel^Marques^daniel.marques@yahoo.com^ATIVO
+cartao|1be3bc32-e656-3055-95ca-3e5a354acbef|494|1234212112211211|mastercard|12/09/2028
+cliente^495^Lara^Sá^lara.sa@yahoo.com^ATIVO
+cartao|35051070-e572-347d-ac26-c241ab88307f|495|1228122112211431|forbrugsforeningen|12/11/2027
+cliente^496^Ana^Taveira^ana.taveira@yahoo.com^ATIVO
+cartao|b534ba68-236b-3543-ae44-b22bd110a1d6|496|1212122111211234|jcb|12/10/2026
+cliente^497^Arthur Gabriel^Aragão^arthur.gabriel.aragao@yahoo.com^ATIVO
+cartao|7380ad8a-6732-36ae-87fc-e7bff88e9c33|497|1234212112211211|discover|12/10/2026
+cliente^498^Davi Lucca^Rocha^davi.lucca.rocha@gmail.com^ATIVO
+cartao|05f971b5-ec19-3b8c-a5b7-5d2ef8267331|498|1234212112211211|discover|11/11/2030
+cliente^499^Pietro^Monteiro^pietro.monteiro@live.com^ATIVO
+cartao|3cf166c6-b73f-330b-8f67-eeaeba301103|499|1211122112342201|visa|12/10/2026
+cliente^500^César^Peres^cesar.peres@bol.com.br^ATIVO
+cartao|cee63112-1c2e-3923-af3a-2f028ad5c89b|500|1228122112211431|american_express|12/11/2027
+cliente^501^Paulo^Bulhões^paulo.bulhoes@yahoo.com^ATIVO
+cartao|5b69b9cb-8306-3d40-b869-739ae7f0995e|501|1211122112342201|maestro|11/11/2030
+cliente^502^Víctor^Moreira^victor.moreira@gmail.com^ATIVO
+cartao|b5b41fac-0361-3157-9967-3ecb926af5ae|502|1234212112211211|dankort|12/11/2027
+cliente^503^Vinicius^Vasques^vinicius.vasques@gmail.com^ATIVO
+cartao|285e19f2-0bed-3d7d-a151-02b49d5c09a0|503|1228122112211431|mastercard|11/11/2030
+cliente^504^Ana Cecília^Reis^ana.cecilia.reis@gmail.com^ATIVO
+cartao|b337e84d-e875-3b27-ada3-a12363109e80|504|1212122111211234|forbrugsforeningen|12/09/2028
+cliente^505^Anthony^Moreira^anthony.moreira@live.com^ATIVO
+cartao|e8c0653f-ea13-391b-b3c4-8159f7c24f78|505|1212122111211234|forbrugsforeningen|11/11/2030
+cliente^506^Isis^Coutinho^isis.coutinho@live.com^ATIVO
+cartao|ff4d5fbb-afdf-376c-bdc0-32e3bde78de5|506|1211122112342201|laser|11/11/2030
+cliente^507^Mariah^Gentil^mariah.gentil@live.com^ATIVO
+cartao|2d6cc4b2-d139-3535-92fb-8cbb3086ae2e|507|1212122111211234|laser|11/11/2030
+cliente^508^Frederico^Viana^frederico.viana@gmail.com^ATIVO
+cartao|389bc7bb-1e1c-3a5e-be14-7703232a88f6|508|1211122112342201|diners_club|12/11/2027
+cliente^509^Fabiano^Silveira^fabiano.silveira@yahoo.com^ATIVO
+cartao|e2230b85-3516-37b0-9d79-744fbd4c9c13|509|1212122111211234|maestro|12/09/2028
+cliente^510^Nicolas^Arriaga^nicolas.arriaga@gmail.com^ATIVO
+cartao|08740852-2c31-3eb1-b982-bc0eaf81d35f|510|1212122111211234|laser|12/10/2026
+cliente^511^João Victor^Rolim^joao.victor.rolim@yahoo.com^ATIVO
+cartao|a7608800-03e7-3ded-bef5-6acb3b09697f|511|1211122112342201|maestro|12/09/2028
+cliente^512^Heloísa^da Nóbrega^heloisa.da.nobrega@bol.com.br^ATIVO
+cartao|10a7cdd9-70fe-335c-b4f7-bb55c0e3b59f|512|1228122112211431|maestro|12/10/2026
+cliente^513^Ofélia^Taveira^ofelia.taveira@gmail.com^ATIVO
+cartao|3dc4876f-3f08-301c-bc76-cb71fa1da439|513|1212122111211234|forbrugsforeningen|12/10/2026
+cliente^514^Maria Flor^Lima^maria.flor.lima@yahoo.com^ATIVO
+cartao|59b90e10-05a2-30e2-abc5-42eb9d950b1e|514|1234212112211211|laser|12/11/2027
+cliente^515^Otávio^Moreira^otavio.moreira@live.com^ATIVO
+cartao|2b8a6159-4b1f-3c4d-b090-2a8a395ced93|515|1234212112211211|maestro|12/09/2028
+cliente^516^João Felipe^Castanheira^joao.felipe.castanheira@bol.com.br^ATIVO
+cartao|f3f27a32-4736-317f-a0ab-bf2ffd806f6d|516|1211122112342201|mastercard|12/11/2027
+cliente^517^Louise^Garcês^louise.garces@hotmail.com^ATIVO
+cartao|38913e1d-6a7b-34cb-8f55-994f679f5956|517|1212122111211234|maestro|11/11/2030
+cliente^518^João Gabriel^Vieira^joao.gabriel.vieira@live.com^ATIVO
+cartao|ebd9629f-c3ae-3e9f-a611-e2ee05a31cef|518|1212122111211234|switch|12/09/2028
+cliente^519^Leonardo^Arriaga^leonardo.arriaga@hotmail.com^ATIVO
+cartao|63538fe6-ef33-3c13-a05a-3ed7e599d5f7|519|1212122111211234|laser|12/10/2026
+cliente^520^Lucas Gabriel^de Borba^lucas.gabriel.de.borba@hotmail.com^ATIVO
+cartao|cf67355a-3333-36e1-8343-9161adc2d82e|520|1228122112211431|dankort|11/11/2030
+cliente^521^João Lucas^de Oliveira^joao.lucas.de.oliveira@live.com^ATIVO
+cartao|07563a3f-e3bb-37e3-ba84-431ad9d055af|521|1212122111211234|diners_club|12/09/2028
+cliente^522^Fabiano^Batista^fabiano.batista@yahoo.com^ATIVO
+cartao|53fde96f-cc4b-3ce7-ad77-39202324cd49|522|1234212112211211|forbrugsforeningen|12/11/2027
+cliente^523^Márcio^Leiria^marcio.leiria@hotmail.com^ATIVO
+cartao|2bb232c0-b13c-3749-a5ef-8558f0fbd615|523|1212122111211234|forbrugsforeningen|12/10/2026
+cliente^524^Vinícius^da Terra^vinicius.da.terra@hotmail.com^ATIVO
+cartao|ba2fd310-dcaa-3781-a9a6-52a31baf3c68|524|1211122112342201|dankort|12/10/2026
+cliente^525^Antônio^da Mota^antonio.da.mota@yahoo.com^ATIVO
+cartao|69421f03-2498-3970-a018-0038fddb8e24|525|1234212112211211|solo|12/09/2028
+cliente^526^Ana Luiza^da Nóbrega^ana.luiza.da.nobrega@yahoo.com^ATIVO
+cartao|85422afb-467e-3456-813a-2a51d4dff702|526|1228122112211431|forbrugsforeningen|12/11/2027
+cliente^527^Enzo Thiago^Jesus^enzo.thiago.jesus@live.com^ATIVO
+cartao|13f320e7-b5ea-3102-8ac9-5c3b208610db|527|1234212112211211|forbrugsforeningen|12/11/2027
+cliente^528^Lucas Gabriel^Castanho^lucas.gabriel.castanho@gmail.com^ATIVO
+cartao|f4be0027-9ee2-30a5-beaf-daa94a151e2c|528|1212122111211234|forbrugsforeningen|12/09/2028
+cliente^529^Víctor^Moniz^victor.moniz@yahoo.com^ATIVO
+cartao|37f0e884-fbad-3667-a389-40169d0a3c95|529|1211122112342201|laser|12/11/2027
+cliente^530^Heloísa^Sá^heloisa.sa@yahoo.com^ATIVO
+cartao|d64a340b-cb63-3f53-ad56-e51874281454|530|1212122111211234|american_express|12/09/2028
+cliente^531^Ladislau^Hernandes^ladislau.hernandes@yahoo.com^ATIVO
+cartao|0fcbc61a-cd04-39dc-b7e3-cccc0f5ffca7|531|1228122112211431|solo|11/11/2030
+cliente^532^Theo^Solimões^theo.solimoes@bol.com.br^ATIVO
+cartao|298f95e1-bf91-3612-8592-c8d4825a06fc|532|1234212112211211|forbrugsforeningen|12/11/2027
+cliente^533^Lorenzo^Ramos^lorenzo.ramos@live.com^ATIVO
+cartao|df877f38-6575-3637-9aa5-40ea9cbc474f|533|1212122111211234|visa|12/10/2026
+cliente^534^Lorena^Vieira^lorena.vieira@gmail.com^ATIVO
+cartao|c399862d-3b9d-3b76-8843-6e924a68c45b|534|1228122112211431|forbrugsforeningen|12/11/2027
+cliente^535^Rafael^da Fronteira^rafael.da.fronteira@hotmail.com^ATIVO
+cartao|33e8075e-9970-3e0c-bea9-55afd4644bb2|535|1211122112342201|switch|12/11/2027
+cliente^536^Enzo Miguel^Ferreira^enzo.miguel.ferreira@live.com^ATIVO
+cartao|65658fde-58ab-3c2b-ae51-32a39fae7cb9|536|1211122112342201|forbrugsforeningen|12/11/2027
+cliente^537^João Lucas^Nunes^joao.lucas.nunes@bol.com.br^ATIVO
+cartao|5ea1649a-3133-3092-8054-38df996a3e59|537|1234212112211211|mastercard|12/11/2027
+cliente^538^Enzo Gabriel^Carvalho^enzo.gabriel.carvalho@gmail.com^ATIVO
+cartao|7bcdf75a-d237-38e0-ae30-1f4091fb6bc8|538|1234212112211211|solo|11/11/2030
+cliente^539^Márcio^Sá^marcio.sa@gmail.com^ATIVO
+cartao|57370345-57ef-3b8c-82c0-e46513b98f90|539|1228122112211431|mastercard|12/10/2026
+cliente^540^Beatriz^Ribas^beatriz.ribas@live.com^ATIVO
+cartao|9b72e31d-ac81-3154-a6cd-580a448cf823|540|1212122111211234|american_express|11/11/2030
+cliente^541^Emanuel^Cabreira^emanuel.cabreira@gmail.com^ATIVO
+cartao|16c222aa-1989-3e50-9893-8167c8ab6c57|541|1212122111211234|switch|12/11/2027
+cliente^542^Gabriela^Almada^gabriela.almada@bol.com.br^ATIVO
+cartao|7dcd340d-84f7-32eb-a80a-a538b0c527f7|542|1228122112211431|jcb|12/11/2027
+cliente^543^Janaína^Veloso^janaina.veloso@gmail.com^ATIVO
+cartao|81448138-f5f1-33cc-9ba4-acc69819f280|543|1212122111211234|mastercard|12/09/2028
+cliente^544^Luan^Gentil^luan.gentil@gmail.com^ATIVO
+cartao|97e8527f-eaf7-3a97-bc38-f34216141515|544|1234212112211211|maestro|11/11/2030
+cliente^545^Lorenzo^Álvares^lorenzo.alvares@live.com^ATIVO
+cartao|647bba34-4396-37c8-9709-02bcf2e15551|545|1212122111211234|visa|11/11/2030
+cliente^546^Mariana^Lobos^mariana.lobos@yahoo.com^ATIVO
+cartao|ed265bc9-03a5-3097-b61d-3ec064d96d2e|546|1211122112342201|discover|12/09/2028
+cliente^547^Márcio^Freitas^marcio.freitas@bol.com.br^ATIVO
+cartao|c75b6f11-4c23-34d7-aa11-331e7c00e73c|547|1228122112211431|jcb|12/09/2028
+cliente^548^Francisco^Araújo^francisco.araujo@hotmail.com^ATIVO
+cartao|8d34201a-5b85-3009-88db-6cae92723617|548|1211122112342201|solo|12/09/2028
+cliente^549^Murilo^dos Reis^murilo.dos.reis@hotmail.com^ATIVO
+cartao|ccb1d45f-b76f-3c5a-8bf6-19f979c6cf36|549|1211122112342201|mastercard|11/11/2030
+cliente^550^Enzo Gabriel^da Paz^enzo.gabriel.da.paz@live.com^ATIVO
+cartao|01f78be6-f7ca-3026-9850-8fe4616098a9|550|1212122111211234|american_express|12/10/2026
+cliente^551^Núbia^de Sá^nubia.de.sa@yahoo.com^ATIVO
+cartao|7f24d240-521d-3907-9c93-af3917215ef7|551|1228122112211431|switch|12/09/2028
+cliente^552^Davi Luca^Parreira^davi.luca.parreira@hotmail.com^ATIVO
+cartao|94c7bb58-efc3-3337-8008-75b5d382a072|552|1211122112342201|american_express|12/10/2026
+cliente^553^Alexandre^Oliveira^alexandre.oliveira@gmail.com^ATIVO
+cartao|f387624d-f552-3ea2-b369-918c5e1e12bc|553|1212122111211234|forbrugsforeningen|12/09/2028
+cliente^554^Maria Laura^Monteira^maria.laura.monteira@bol.com.br^ATIVO
+cartao|5e388103-a391-3aab-a3de-1d76a6739ccd|554|1212122111211234|maestro|12/09/2028
+cliente^555^Roberto^Henriques^roberto.henriques@bol.com.br^ATIVO
+cartao|15de21c6-70ae-3c3f-af3f-1f37029303c9|555|1228122112211431|solo|12/10/2026
+cliente^556^Luiz Henrique^Espinheira^luiz.henrique.espinheira@hotmail.com^ATIVO
+cartao|11b921ef-080f-3736-889c-757404650e40|556|1211122112342201|jcb|11/11/2030
+cliente^557^Maria Luiza^Cardoso^maria.luiza.cardoso@live.com^ATIVO
+cartao|6e2713a6-efee-37ba-8b63-e52c54f0ada0|557|1211122112342201|diners_club|12/09/2028
+cliente^558^Márcio^Araújo^marcio.araujo@hotmail.com^ATIVO
+cartao|1bb91f73-e9d3-3ea2-830a-5e73ce3ed328|558|1228122112211431|switch|12/10/2026
+cliente^559^Aline^Ferreira^aline.ferreira@hotmail.com^ATIVO
+cartao|3a077244-3a07-3914-9292-a5429b952fe6|559|1228122112211431|maestro|11/11/2030
+cliente^560^Pedro Tobias^da Veiga^pedro.tobias.da.veiga@live.com^ATIVO
+cartao|a9a6653e-4897-3138-966d-e32772b1bf40|560|1211122112342201|diners_club|12/10/2026
+cliente^561^Washington^Oliveira^washington.oliveira@live.com^ATIVO
+cartao|58ae749f-25ed-3d36-b486-bc85feb3f0ab|561|1228122112211431|forbrugsforeningen|11/11/2030
+cliente^562^Yago^Munhoz^yago.munhoz@hotmail.com^ATIVO
+cartao|4e4b5fbb-bb60-3b6d-b5be-a8460aa8f8e5|562|1211122112342201|mastercard|12/11/2027
+cliente^563^Arthur^Henriques^arthur.henriques@bol.com.br^ATIVO
+cartao|8eefcfdf-5990-3441-b0fb-6f3fad709e21|563|1211122112342201|discover|11/11/2030
+cliente^564^Paulo^da Fontoura^paulo.da.fontoura@yahoo.com^ATIVO
+cartao|1728efbd-a816-3228-aba6-42aafd57be3a|564|1234212112211211|switch|12/11/2027
+cliente^565^Washington^Guterres^washington.guterres@live.com^ATIVO
+cartao|cbcb58ac-2e49-3207-986d-f2854b17995f|565|1234212112211211|jcb|12/10/2026
+cliente^566^João Samuel^Oliveira^joao.samuel.oliveira@yahoo.com^ATIVO
+cartao|db85e259-0b61-3981-bdaf-a101ceb2faeb|566|1228122112211431|switch|11/11/2030
+cliente^567^Valentina^Marques^valentina.marques@yahoo.com^ATIVO
+cartao|99c5e07b-4d5d-39d1-8c35-0cdf64c5aa3d|567|1211122112342201|maestro|12/09/2028
+cliente^568^Isabelly^Fogaça^isabelly.fogaca@bol.com.br^ATIVO
+cartao|dd458505-749b-3941-a17d-dd59394240e8|568|1212122111211234|maestro|12/09/2028
+cliente^569^Pérola^Pires^perola.pires@gmail.com^ATIVO
+cartao|8b16ebc0-56e6-3302-8c05-7be590b542eb|569|1211122112342201|american_express|12/09/2028
+cliente^570^Giovanna^Galvão^giovanna.galvao@live.com^ATIVO
+cartao|a86c450b-76fb-3c37-9afe-ad6410d55534|570|1234212112211211|mastercard|12/10/2026
+cliente^571^Aurora^Ramos^aurora.ramos@bol.com.br^ATIVO
+cartao|c9892a98-9183-3e32-a976-c6f04e700201|571|1212122111211234|diners_club|12/10/2026
+cliente^572^Erick^Macieira^erick.macieira@hotmail.com^ATIVO
+cartao|e6b4b2a7-46ed-30e1-af82-9d1fa82daa10|572|1234212112211211|dankort|12/11/2027
+cliente^573^Maria Sophia^Vimaranes^maria.sophia.vimaranes@bol.com.br^ATIVO
+cartao|e5f6ad6c-e374-377e-af02-3bf5d0c018b6|573|1212122111211234|visa|12/10/2026
+cliente^574^Beatriz^Castro^beatriz.castro@hotmail.com^ATIVO
+cartao|f0e52b27-a7a5-36a1-a873-73dffa53dbe5|574|1212122111211234|forbrugsforeningen|12/11/2027
+cliente^575^João Lucas^Carvalheira^joao.lucas.carvalheira@gmail.com^ATIVO
+cartao|ffeabd22-3de0-34ea-8b9a-3e6e53e5448d|575|1212122111211234|diners_club|12/11/2027
+cliente^576^Célia^Brum^celia.brum@live.com^ATIVO
+cartao|a7aeed74-7141-36f3-b292-a982238f83d2|576|1211122112342201|discover|11/11/2030
+cliente^577^João Pedro^de Borba^joao.pedro.de.borba@yahoo.com^ATIVO
+cartao|fde9264c-f376-3ffe-aee4-ddf4a988880d|577|1212122111211234|visa|12/11/2027
+cliente^578^Deneval^Freitas^deneval.freitas@live.com^ATIVO
+cartao|a8849b05-2492-3510-a526-b2331e526138|578|1212122111211234|visa|11/11/2030
+cliente^579^Arthur Henrique^Jesus^arthur.henrique.jesus@yahoo.com^ATIVO
+cartao|258be18e-31c8-3885-95c2-ff05b4d542c3|579|1228122112211431|visa|12/10/2026
+cliente^580^Maria Isis^Monteira^maria.isis.monteira@bol.com.br^ATIVO
+cartao|069d3bb0-02ac-38d7-9d09-5917f9efe4cb|580|1212122111211234|visa|11/11/2030
+cliente^581^Sarah^Macedo^sarah.macedo@hotmail.com^ATIVO
+cartao|c6e19e83-0859-32cb-9f7c-8f8cacb8d2a6|581|1228122112211431|maestro|11/11/2030
+cliente^582^Juliana^Datena^juliana.datena@bol.com.br^ATIVO
+cartao|46922a08-80a8-311f-8f69-cbb52b1396be|582|1228122112211431|discover|12/09/2028
+cliente^583^Ana Luiza^Fontinhas^ana.luiza.fontinhas@hotmail.com^ATIVO
+cartao|9ad6aaed-513b-3314-8b7d-49f70afcfb32|583|1234212112211211|mastercard|12/10/2026
+cliente^584^Malu^Souza^malu.souza@live.com^ATIVO
+cartao|f5deaeea-e153-3fb6-8459-01d524ee2f98|584|1211122112342201|american_express|11/11/2030
+cliente^585^Tertuliano^Lobos^tertuliano.lobos@yahoo.com^ATIVO
+cartao|a9a1d531-7a33-3e8c-af33-961c34144f84|585|1211122112342201|forbrugsforeningen|12/10/2026
+cliente^586^Ana Laura^Lima^ana.laura.lima@gmail.com^ATIVO
+cartao|605ff764-c617-33cd-a8db-bdd72be8f9a2|586|1234212112211211|mastercard|12/10/2026
+cliente^587^Bernardo^Quaresma^bernardo.quaresma@yahoo.com^ATIVO
+cartao|766ebcd5-9621-3305-9706-16ba3d3dac32|587|1211122112342201|switch|12/10/2026
+cliente^588^Ana^Albuquerque^ana.albuquerque@gmail.com^ATIVO
+cartao|daca4121-4b39-35dc-a667-4d09081940f0|588|1234212112211211|american_express|12/11/2027
+cliente^589^Yasmin^Limeira^yasmin.limeira@hotmail.com^ATIVO
+cartao|30bb3825-e8f6-31cc-a075-c0f87bb4978c|589|1228122112211431|switch|12/09/2028
+cliente^590^Patricia^Viana^patricia.viana@bol.com.br^ATIVO
+cartao|08b255a5-d42b-39b0-9852-60b6f2360bdd|590|1228122112211431|switch|12/09/2028
+cliente^591^Matheus^da Conceição^matheus.da.conceicao@bol.com.br^ATIVO
+cartao|3493894f-a4ea-336c-bc64-33c3e2ee63b0|591|1212122111211234|mastercard|11/11/2030
+cliente^592^Ana Luiza^Coutinho^ana.luiza.coutinho@yahoo.com^ATIVO
+cartao|dbe272ba-b69f-3e13-b14b-405e038deb64|592|1228122112211431|discover|12/10/2026
+cliente^593^Gabrielly^Parreira^gabrielly.parreira@hotmail.com^ATIVO
+cartao|acc3e040-4646-3575-82b4-80dc052c4fe1|593|1228122112211431|switch|11/11/2030
+cliente^594^Agatha^da Conceição^agatha.da.conceicao@yahoo.com^ATIVO
+cartao|076a0c97-d09c-31a0-ac3e-19c7f2529f2b|594|1228122112211431|diners_club|12/09/2028
+cliente^595^Milena^Negrão^milena.negrao@hotmail.com^ATIVO
+cartao|04ecb1fa-2850-3ccb-af72-b12c0245ddbc|595|1234212112211211|jcb|12/10/2026
+cliente^596^Meire^Fogaça^meire.fogaca@gmail.com^ATIVO
+cartao|b2eeb736-2ef8-3def-b5c7-813a67e14f0a|596|1234212112211211|discover|12/10/2026
+cliente^597^Enrico^Mendes^enrico.mendes@yahoo.com^ATIVO
+cartao|08c5433a-6013-3c32-a34f-46a71175850c|597|1234212112211211|diners_club|12/09/2028
+cliente^598^Maria Vitória^Goulart^maria.vitoria.goulart@hotmail.com^ATIVO
+cartao|6aca9700-5c68-3120-a823-815f66102863|598|1212122111211234|american_express|11/11/2030
+cliente^599^Maria Alice^da Mota^maria.alice.da.mota@bol.com.br^ATIVO
+cartao|3435c378-bb76-3435-b324-dd7e69f3cd18|599|1228122112211431|visa|12/10/2026
+cliente^600^Víctor^Banheira^victor.banheira@gmail.com^ATIVO
+cartao|d490d7b4-5762-30fa-a0eb-31b5fc917ad1|600|1212122111211234|mastercard|12/11/2027
+cliente^601^Gúbio^Castelo^gubio.castelo@live.com^ATIVO
+cartao|b2f627ff-f19f-3a46-bcb3-86442eac2b3d|601|1234212112211211|american_express|12/09/2028
+cliente^602^Igor^Sanches^igor.sanches@gmail.com^ATIVO
+cartao|c3992e9a-68c5-3e12-bd18-488bc579b30d|602|1211122112342201|switch|12/09/2028
+cliente^603^Marina^Limeira^marina.limeira@hotmail.com^ATIVO
+cartao|d86ea612-dec9-3096-85e0-fcc8dd42ab6d|603|1234212112211211|discover|11/11/2030
+cliente^604^João Lucas^Viveiros^joao.lucas.viveiros@yahoo.com^ATIVO
+cartao|9cf81d80-26a9-3180-92c4-29cc4e56739b|604|1212122111211234|dankort|12/09/2028
+cliente^605^João Lucas^Pinto^joao.lucas.pinto@bol.com.br^ATIVO
+cartao|c361bc7b-2c03-3a83-9663-b8d9fb4be56e|605|1228122112211431|solo|12/10/2026
+cliente^606^Félix^Fogaça^felix.fogaca@live.com^ATIVO
+cartao|44c4c173-32ca-3e21-a4a1-a836d9fc4b6f|606|1234212112211211|mastercard|12/10/2026
+cliente^607^Yasmin^Caseira^yasmin.caseira@bol.com.br^ATIVO
+cartao|dc82d632-c9fc-3cb0-b78a-fbc7924494a6|607|1212122111211234|dankort|12/10/2026
+cliente^608^Antonella^Geraldes^antonella.geraldes@live.com^ATIVO
+cartao|996a7fa0-78cc-36c4-ad02-f9af3bef918b|608|1228122112211431|jcb|11/11/2030
+cliente^609^João Lucas^Guterres^joao.lucas.guterres@live.com^ATIVO
+cartao|d7a728a6-7d90-3e71-8c07-74e22cb806f2|609|1234212112211211|forbrugsforeningen|12/10/2026
+cliente^610^Alexandre^Brum^alexandre.brum@live.com^ATIVO
+cartao|00ac8ed3-b432-3bdd-8ebb-ebcb2ba10a00|610|1234212112211211|discover|12/11/2027
+cliente^611^Isadora^Álvares^isadora.alvares@live.com^ATIVO
+cartao|8ebda540-cbcc-3d73-b649-6819a46a1b68|611|1228122112211431|solo|12/09/2028
+cliente^612^Vicente^Cabreira^vicente.cabreira@yahoo.com^ATIVO
+cartao|f76a89f0-cb91-3c41-9542-ce9fa43902dc|612|1234212112211211|laser|12/11/2027
+cliente^613^Isabelly^Assumpção^isabelly.assumpcao@bol.com.br^ATIVO
+cartao|f29c21d4-897f-3894-8b91-f03172341b7b|613|1211122112342201|maestro|12/10/2026
+cliente^614^Eduardo^da Cruz^eduardo.da.cruz@hotmail.com^ATIVO
+cartao|851ddf50-58cf-32df-a3d3-344ad89919cf|614|1228122112211431|dankort|11/11/2030
+cliente^615^Luiza^Barroso^luiza.barroso@bol.com.br^ATIVO
+cartao|58d4d1e7-b1e9-3b25-8c9e-d0b37e02d087|615|1234212112211211|american_express|11/11/2030
+cliente^616^Emanuelly^Marques^emanuelly.marques@live.com^ATIVO
+cartao|7750ca35-59e5-38e1-b442-10283368fc16|616|1211122112342201|visa|12/10/2026
+cliente^617^Rafaela^Antunes^rafaela.antunes@bol.com.br^ATIVO
+cartao|5d44ee6f-2c3f-31b7-b125-876103c8f6c4|617|1228122112211431|switch|12/11/2027
+cliente^618^Louise^Moura^louise.moura@yahoo.com^ATIVO
+cartao|eb6fdc36-b281-37d5-aabf-33396c2683a2|618|1234212112211211|switch|12/09/2028
+cliente^619^Henrique^Moraes^henrique.moraes@live.com^ATIVO
+cartao|cdc0d6e6-3aa8-341c-8968-9f54970bb35f|619|1211122112342201|visa|12/09/2028
+cliente^620^João^Velasques^joao.velasques@yahoo.com^ATIVO
+cartao|b73dfe25-b4b8-314c-829b-37a6ad3006fa|620|1212122111211234|mastercard|12/10/2026
+cliente^621^João Pedro^Castanho^joao.pedro.castanho@live.com^ATIVO
+cartao|85fc37b1-8c57-3974-a5b5-2fc7afbb6969|621|1211122112342201|dankort|12/09/2028
+cliente^622^Stella^Galego^stella.galego@bol.com.br^ATIVO
+cartao|3871bd64-0121-32bf-b53f-df04b401193f|622|1228122112211431|laser|12/10/2026
+cliente^623^João Vitor^Bonfim^joao.vitor.bonfim@hotmail.com^ATIVO
+cartao|a733fa9b-25f3-3689-a2ad-be72199f0e62|623|1228122112211431|mastercard|12/09/2028
+cliente^624^Yuri^Simão^yuri.simao@yahoo.com^ATIVO
+cartao|48ab2f9b-4595-3ab5-b4cf-005eb8a76760|624|1212122111211234|switch|12/10/2026
+cliente^625^Natália^Marins^natalia.marins@live.com^ATIVO
+cartao|23350907-3ed3-3320-a7d4-8b1a83f5fbd2|625|1212122111211234|mastercard|12/11/2027
+cliente^626^Francisco^da Terra^francisco.da.terra@hotmail.com^ATIVO
+cartao|45645a27-c4f1-3dc8-a7a8-35976064a86d|626|1228122112211431|american_express|12/09/2028
+cliente^627^Luiz Gustavo^Carreira^luiz.gustavo.carreira@bol.com.br^ATIVO
+cartao|185c29dc-2432-3934-ae37-7cfda20e414c|627|1234212112211211|maestro|12/10/2026
+cliente^628^Morgana^Duarte^morgana.duarte@gmail.com^ATIVO
+cartao|42e77b63-637a-3381-a8be-5f8318cc28a2|628|1212122111211234|solo|12/09/2028
+cliente^629^Bryan^Porteira^bryan.porteira@bol.com.br^ATIVO
+cartao|051e4e12-7b92-35d9-8d3c-79b195f2b291|629|1211122112342201|laser|12/10/2026
+cliente^630^Silas^Gomes^silas.gomes@yahoo.com^ATIVO
+cartao|9cc138f8-dc04-3bf1-a240-daa92d8d50e2|630|1228122112211431|jcb|12/10/2026
+cliente^631^Emanuel^Ribeiro^emanuel.ribeiro@live.com^ATIVO
+cartao|b7bb35b9-c6ca-3aee-adf0-8cf09d7016c2|631|1234212112211211|american_express|11/11/2030
+cliente^632^Célia^Meira^celia.meira@live.com^ATIVO
+cartao|abd81528-6ba1-307a-bfbb-8415b83ae2cf|632|1228122112211431|dankort|12/09/2028
+cliente^633^Valentina^Godinho^valentina.godinho@yahoo.com^ATIVO
+cartao|26dd0dbc-6e3f-3c80-8374-9885523d6a25|633|1228122112211431|forbrugsforeningen|11/11/2030
+cliente^634^Isis^de Quadros^isis.de.quadros@bol.com.br^ATIVO
+cartao|6766aa27-50c1-3aad-afa1-b32f36ed4aee|634|1211122112342201|maestro|11/11/2030
+cliente^635^Maitê^Lessa^maite.lessa@live.com^ATIVO
+cartao|6a10bbd4-80e4-3557-bd8f-3af73ae0454b|635|1211122112342201|discover|12/10/2026
+cliente^636^Luana^Rêgo^luana.rego@yahoo.com^ATIVO
+cartao|c5ab0bc6-0ac7-3291-82aa-dd08703f1ec6|636|1228122112211431|dankort|12/11/2027
+cliente^637^Yuri^Marques^yuri.marques@hotmail.com^ATIVO
+cartao|a532400e-d62e-372b-9dc0-b86f46e583ff|637|1234212112211211|forbrugsforeningen|12/11/2027
+cliente^638^Igor^Morais^igor.morais@hotmail.com^ATIVO
+cartao|4c27cea8-526a-38cf-ae3b-e5e183ac9605|638|1228122112211431|forbrugsforeningen|12/10/2026
+cliente^639^Alice^Coutinho^alice.coutinho@bol.com.br^ATIVO
+cartao|0f966132-3506-3963-8cde-717b18f97592|639|1228122112211431|discover|12/10/2026
+cliente^640^Giovanna^Regueira^giovanna.regueira@bol.com.br^ATIVO
+cartao|4ffce04d-92a4-36cb-a1c1-494cdfcd6dc1|640|1211122112342201|jcb|12/11/2027
+cliente^641^Ayla^Duarte^ayla.duarte@hotmail.com^ATIVO
+cartao|67e103b0-761e-3068-be83-c559be18d40c|641|1212122111211234|american_express|11/11/2030
+cliente^642^Luiz Felipe^Fontes^luiz.felipe.fontes@bol.com.br^ATIVO
+cartao|291597a1-00aa-3d81-8d19-7af4f4bab3a7|642|1212122111211234|visa|12/10/2026
+cliente^643^Davi Luiz^Oliveira^davi.luiz.oliveira@bol.com.br^ATIVO
+cartao|9b698eb3-105b-3825-a8f2-3d0c92dedfc0|643|1212122111211234|switch|12/10/2026
+cliente^644^Gabriela^do Prado^gabriela.do.prado@hotmail.com^ATIVO
+cartao|8c7bbbba-95c1-3259-b5e5-48cee86dfadc|644|1211122112342201|visa|12/10/2026
+cliente^645^Danilo^Conceição^danilo.conceicao@hotmail.com^ATIVO
+cartao|5e9f92a0-1c98-3baf-8abb-afd145520b13|645|1234212112211211|diners_club|12/10/2026
+cliente^646^Olívia^Ouriques^olivia.ouriques@live.com^ATIVO
+cartao|0ff39bbb-f981-3c01-91d3-40c9aa40e63e|646|1212122111211234|laser|12/09/2028
+cliente^647^Theo^Jaques^theo.jaques@hotmail.com^ATIVO
+cartao|303ed4c6-9846-3b36-8290-4d3ba8573050|647|1212122111211234|diners_club|12/11/2027
+cliente^648^Melissa^Aguiar^melissa.aguiar@hotmail.com^ATIVO
+cartao|443cb001-c138-3256-9a0d-90720d6ce111|648|1228122112211431|discover|11/11/2030
+cliente^649^Meire^Bulhões^meire.bulhoes@yahoo.com^ATIVO
+cartao|55b37c5c-270e-3d84-8793-e486d798c01d|649|1211122112342201|solo|12/11/2027
+cliente^650^Gabrielly^Marins^gabrielly.marins@bol.com.br^ATIVO
+cartao|884d247c-6f65-396a-bda4-d1105d584ddd|650|1211122112342201|laser|11/11/2030
+cliente^651^Fabrícia^Mangueira^fabricia.mangueira@yahoo.com^ATIVO
+cartao|55743cc0-393b-3cb4-b8b3-7d09ae48d097|651|1234212112211211|maestro|12/09/2028
+cliente^652^Hugo^Brites^hugo.brites@gmail.com^ATIVO
+cartao|30ef30b6-4204-3308-8a26-bc2e6ecf7602|652|1211122112342201|maestro|11/11/2030
+cliente^653^Bryan^Carvalho^bryan.carvalho@gmail.com^ATIVO
+cartao|eaae339c-4d89-3c10-aedd-9dbdb6a28915|653|1211122112342201|discover|12/10/2026
+cliente^654^Marcelo^Barbosa^marcelo.barbosa@hotmail.com^ATIVO
+cartao|ab233b68-2ec3-3564-8e78-91e66c54191b|654|1211122112342201|discover|12/11/2027
+cliente^655^Tiago^Silveira^tiago.silveira@live.com^ATIVO
+cartao|3d2d8ccb-37df-377c-b6d9-da15b76c3f3a|655|1234212112211211|mastercard|12/11/2027
+cliente^656^Ana Lívia^Espinheira^ana.livia.espinheira@bol.com.br^ATIVO
+cartao|26408ffa-703a-32e8-ac01-17e74ad46f33|656|1234212112211211|forbrugsforeningen|12/11/2027
+cliente^657^Meire^Almada^meire.almada@gmail.com^ATIVO
+cartao|b4288d9c-0ec0-3184-9b3b-3728321e7088|657|1211122112342201|maestro|12/09/2028
+cliente^658^Mércia^Oliveira^mercia.oliveira@gmail.com^ATIVO
+cartao|2f37d101-31f2-3483-a8dd-005b3d14b0d9|658|1211122112342201|diners_club|11/11/2030
+cliente^659^José^Ferreira^jose.ferreira@live.com^ATIVO
+cartao|0ff8033c-f943-3c21-bee1-3937b1c4c455|659|1212122111211234|american_express|12/11/2027
+cliente^660^João Felipe^Almeida^joao.felipe.almeida@hotmail.com^ATIVO
+cartao|68264bdb-65b9-3eea-a678-8aa3348e553c|660|1211122112342201|diners_club|11/11/2030
+cliente^661^Louise^Brites^louise.brites@bol.com.br^ATIVO
+cartao|3a066bda-8c96-3947-8bb0-512f0a43028c|661|1211122112342201|visa|12/11/2027
+cliente^662^César^Bonfim^cesar.bonfim@bol.com.br^ATIVO
+cartao|be3159ad-0456-3bfb-90db-9e32851ebf9c|662|1211122112342201|forbrugsforeningen|11/11/2030
+cliente^663^Nataniel^Oliveira^nataniel.oliveira@hotmail.com^ATIVO
+cartao|8757150d-ecbd-39b0-b544-2ca3db4d0e0e|663|1228122112211431|solo|12/10/2026
+cliente^664^Enzo^Teixeira^enzo.teixeira@gmail.com^ATIVO
+cartao|2291d2ec-3b30-38d1-a6f8-6c2c4591b7e0|664|1228122112211431|american_express|12/09/2028
+cliente^665^Antônio^Carvalho^antonio.carvalho@gmail.com^ATIVO
+cartao|84117275-be99-3ff5-9a98-7b9381e01f96|665|1212122111211234|visa|12/11/2027
+cliente^666^Kaique^Gabeira^kaique.gabeira@bol.com.br^ATIVO
+cartao|fae0b27c-451c-3288-a7a5-67e8c1bb4e53|666|1234212112211211|discover|12/10/2026
+cliente^667^Luiz Otávio^Ferraço^luiz.otavio.ferraco@live.com^ATIVO
+cartao|b5dc4e5d-9b49-3d01-96f6-1d45b26ef33e|667|1228122112211431|laser|11/11/2030
+cliente^668^Yango^Ribeiro^yango.ribeiro@live.com^ATIVO
+cartao|192fc044-e74d-3fea-944f-9ac5dc9f3395|668|1234212112211211|dankort|12/09/2028
+cliente^669^Ana Beatriz^Fernandes^ana.beatriz.fernandes@bol.com.br^ATIVO
+cartao|5c049256-7492-3eb5-8467-fb52ce4ef728|669|1212122111211234|maestro|12/09/2028
+cliente^670^Carlos^Almeida^carlos.almeida@bol.com.br^ATIVO
+cartao|17c276c8-e723-3b46-aef5-76537e9d56d0|670|1212122111211234|mastercard|12/10/2026
+cliente^671^Vitória^Meireles^vitoria.meireles@live.com^ATIVO
+cartao|5dd9db5e-033d-39c6-bb5b-a83c7a7ebea9|671|1211122112342201|laser|12/09/2028
+cliente^672^Márcio^Xavier^marcio.xavier@gmail.com^ATIVO
+cartao|2dea61ee-d4bc-3ec5-a4a0-0115c4d21334|672|1211122112342201|jcb|12/09/2028
+cliente^673^Salvador^Rameira^salvador.rameira@gmail.com^ATIVO
+cartao|9f396fe4-4e7c-35c1-a873-b05ec425cbad|673|1211122112342201|dankort|11/11/2030
+cliente^674^Eduarda^Aguiar^eduarda.aguiar@gmail.com^ATIVO
+cartao|0d7de1ac-a929-3fe6-bf3e-0041f02638a3|674|1234212112211211|mastercard|12/11/2027
+cliente^675^Davi Luiz^Espinheira^davi.luiz.espinheira@bol.com.br^ATIVO
+cartao|8fecb208-17b3-3474-99bb-3de39a609afe|675|1212122111211234|maestro|12/09/2028
+cliente^676^Milena^Santos^milena.santos@live.com^ATIVO
+cartao|dc6a7071-2a25-3123-840d-2adba6a11d84|676|1234212112211211|discover|12/09/2028
+cliente^677^Malu^Gonçalves^malu.goncalves@hotmail.com^ATIVO
+cartao|71a3cb15-5f8d-389b-b3d0-365288219936|677|1212122111211234|american_express|12/11/2027
+cliente^678^Henry^Ramos^henry.ramos@yahoo.com^ATIVO
+cartao|9fe8593a-8a33-3607-9767-96b35c64c600|678|1228122112211431|solo|12/10/2026
+cliente^679^Pedro Henrique^Soares^pedro.henrique.soares@yahoo.com^ATIVO
+cartao|ca9c267d-ad03-35d1-a630-8d2a0cf1c39c|679|1234212112211211|solo|12/10/2026
+cliente^680^Joana^Grotas^joana.grotas@hotmail.com^ATIVO
+cartao|fccb3cdc-9acc-34a6-a70a-12f74560c026|680|1212122111211234|maestro|12/10/2026
+cliente^681^Catarina^Ribas^catarina.ribas@live.com^ATIVO
+cartao|1595af64-3501-3c77-a714-9e92a551338e|681|1228122112211431|maestro|11/11/2030
+cliente^682^Benício^Aroeira^benicio.aroeira@hotmail.com^ATIVO
+cartao|08d98638-c6fc-3194-a4b1-e6992063e944|682|1211122112342201|jcb|12/09/2028
+cliente^683^Enzo Gabriel^Custódio^enzo.gabriel.custodio@live.com^ATIVO
+cartao|24681928-425f-3a91-b350-4de568f5f6df|683|1234212112211211|visa|11/11/2030
+cliente^684^Deneval^Ribeiro^deneval.ribeiro@yahoo.com^ATIVO
+cartao|556f3919-37df-3439-8cba-c35e050a2177|684|1211122112342201|laser|11/11/2030
+cliente^685^Bárbara^dos Reis^barbara.dos.reis@live.com^ATIVO
+cartao|3328bdf9-a4b9-304b-9398-284244fe97c2|685|1212122111211234|jcb|11/11/2030
+cliente^686^Catarina^Neves^catarina.neves@bol.com.br^ATIVO
+cartao|109a0ca3-bc27-33e9-a597-370d5c8cf03d|686|1228122112211431|solo|12/11/2027
+cliente^687^Tiago^Lima^tiago.lima@yahoo.com^ATIVO
+cartao|7f5d04d1-89df-3634-a6a8-5bb9d9adf21e|687|1211122112342201|switch|11/11/2030
+cliente^688^Mariah^da Cunha^mariah.da.cunha@gmail.com^ATIVO
+cartao|f79921bb-ae40-3577-928b-76d2fc3edc2a|688|1234212112211211|diners_club|12/10/2026
+cliente^689^Maria Valentina^Arriaga^maria.valentina.arriaga@bol.com.br^ATIVO
+cartao|07a96b1f-6109-3ccb-94be-14d6a47439b0|689|1211122112342201|visa|11/11/2030
+cliente^690^Maria^da Fronteira^maria.da.fronteira@yahoo.com^ATIVO
+cartao|c06d06da-9666-3219-9b15-cf575aff2824|690|1234212112211211|jcb|12/11/2027
+cliente^691^Vitor^Monteiro^vitor.monteiro@gmail.com^ATIVO
+cartao|10a5ab2d-b37f-3edf-9eaa-b192ead4ac0e|691|1212122111211234|jcb|12/10/2026
+cliente^692^Benício^Fogaça^benicio.fogaca@live.com^ATIVO
+cartao|e555ebe0-ce42-3f7f-9b2b-ef0706315e0c|692|1234212112211211|maestro|12/10/2026
+cliente^693^Rafaela^da Aldeia^rafaela.da.aldeia@hotmail.com^ATIVO
+cartao|53e3a716-1e42-3b65-a88f-14b84d61c610|693|1234212112211211|solo|11/11/2030
+cliente^694^Marina^Aroeira^marina.aroeira@bol.com.br^ATIVO
+cartao|5487315b-1286-3907-9659-07aa8fc96619|694|1228122112211431|discover|12/10/2026
+cliente^695^Ruan^Pedroso^ruan.pedroso@gmail.com^ATIVO
+cartao|e4bb4c51-73c2-3e17-bd8f-cd40041c068f|695|1212122111211234|solo|11/11/2030
+cliente^696^Ana Vitória^Assumpção^ana.vitoria.assumpcao@hotmail.com^ATIVO
+cartao|0cb929ea-e7a4-39e5-8248-a3a78f7acfc7|696|1228122112211431|jcb|12/11/2027
+cliente^697^Joana^das Neves^joana.das.neves@bol.com.br^ATIVO
+cartao|8a0e1141-fd37-3a5b-98d5-bb769ba1a7cc|697|1211122112342201|mastercard|12/10/2026
+cliente^698^Arthur Gabriel^da Fonseca^arthur.gabriel.da.fonseca@hotmail.com^ATIVO
+cartao|99bcfcd7-54a9-3ce8-9cb8-6f73acc04645|698|1228122112211431|laser|12/10/2026
+cliente^699^Warley^Simões^warley.simoes@hotmail.com^ATIVO
+cartao|afd48367-12c5-3775-9089-7e25711e1d96|699|1234212112211211|maestro|12/11/2027
+cliente^700^Fabiano^Vieira^fabiano.vieira@yahoo.com^ATIVO
+cartao|e5841df2-166d-3424-a571-27423d276bbe|700|1228122112211431|switch|12/10/2026
+cliente^701^Maria Sophia^Godins^maria.sophia.godins@hotmail.com^ATIVO
+cartao|b4a52895-5b84-3584-974e-92d025a75d1f|701|1228122112211431|maestro|12/10/2026
+cliente^702^Fabrício^Gonçalves^fabricio.goncalves@yahoo.com^ATIVO
+cartao|b1eec33c-726a-3055-8bc7-8518d5f9b32c|702|1211122112342201|switch|11/11/2030
+cliente^703^Célia^Meireles^celia.meireles@bol.com.br^ATIVO
+cartao|d6c651dd-cd97-383b-ae40-bc464231c962|703|1228122112211431|american_express|12/10/2026
+cliente^704^Júlio^Veles^julio.veles@yahoo.com^ATIVO
+cartao|f64eac11-f2cd-3f0e-ba19-6f8ad173178e|704|1212122111211234|laser|11/11/2030
+cliente^705^Caio^Oliveira^caio.oliveira@yahoo.com^ATIVO
+cartao|4a47d298-3c8b-3392-b120-b627e0e1cab4|705|1228122112211431|solo|12/11/2027
+cliente^706^Pietro^Negrão^pietro.negrao@bol.com.br^ATIVO
+cartao|9c82c714-3c10-3b71-8593-d98d96093fde|706|1212122111211234|jcb|12/11/2027
+cliente^707^Sara^Ximenes^sara.ximenes@hotmail.com^ATIVO
+cartao|500e75a0-36dc-3d7d-afec-5da1b71d36cc|707|1211122112342201|discover|12/11/2027
+cliente^708^Núbia^Xavier^nubia.xavier@live.com^ATIVO
+cartao|ae0eb3ee-d39d-3bce-b462-2b2499a05fe6|708|1211122112342201|maestro|12/09/2028
+cliente^709^Tiago^do Prado^tiago.do.prado@yahoo.com^ATIVO
+cartao|1ecfb463-472e-3911-9b10-c292ef8bc986|709|1212122111211234|diners_club|12/11/2027
+cliente^710^Vitor Hugo^Garcês^vitor.hugo.garces@yahoo.com^ATIVO
+cartao|e7061188-3d27-30c8-bbaf-b4acb29e3446|710|1212122111211234|diners_club|11/11/2030
+cliente^711^Aline^Corrêa^aline.correa@yahoo.com^ATIVO
+cartao|60815949-75a7-34c8-a3a6-91fa2b3a321d|711|1211122112342201|diners_club|12/11/2027
+cliente^712^Hélio^Galego^helio.galego@yahoo.com^ATIVO
+cartao|19bc9161-08fc-3938-b52c-b96f7e087941|712|1234212112211211|visa|12/09/2028
+cliente^713^Fabrício^Marques^fabricio.marques@yahoo.com^ATIVO
+cartao|07c5807d-0d92-3dcd-8980-f86024e5208b|713|1234212112211211|visa|12/10/2026
+cliente^714^Mariah^de Lins^mariah.de.lins@bol.com.br^ATIVO
+cartao|d14220ee-66ae-3c73-8490-38385428ec4c|714|1228122112211431|laser|12/10/2026
+cliente^715^Júlia^Ribeira^julia.ribeira@hotmail.com^ATIVO
+cartao|8df707a9-48fa-31b4-a0f9-7aa554886ec8|715|1211122112342201|forbrugsforeningen|11/11/2030
+cliente^716^Elísio^Pires^elisio.pires@yahoo.com^ATIVO
+cartao|e7f8a7fb-0b77-3cb3-b283-af5be021448f|716|1234212112211211|switch|12/10/2026
+cliente^717^Núbia^Santana^nubia.santana@bol.com.br^ATIVO
+cartao|788d9869-0553-3aba-8512-61497ecffcbb|717|1234212112211211|american_express|12/10/2026
+cliente^718^Gúbio^da Mata^gubio.da.mata@hotmail.com^ATIVO
+cartao|50c3d761-4917-3243-83ee-6a220679dab3|718|1228122112211431|visa|11/11/2030
+cliente^719^Fabrícia^Beltrão^fabricia.beltrao@hotmail.com^ATIVO
+cartao|2afe4567-e1bf-34d3-aa55-27244d104cea|719|1211122112342201|switch|12/11/2027
+cliente^720^Alice^Marcondes^alice.marcondes@bol.com.br^ATIVO
+cartao|5f2c22cb-4a53-30af-bca7-5622a6426917|720|1212122111211234|maestro|12/10/2026
+cliente^721^Maria Isis^Dantas^maria.isis.dantas@bol.com.br^ATIVO
+cartao|aba3b6fd-5d18-3d28-a06f-f97135cade7f|721|1211122112342201|discover|12/09/2028
+cliente^722^Kléber^Bernardes^kleber.bernardes@yahoo.com^ATIVO
+cartao|c8ed21db-4f67-3f3b-93b9-d5ee16489088|722|1211122112342201|mastercard|12/11/2027
+cliente^723^Kléber^Espinhosa^kleber.espinhosa@gmail.com^ATIVO
+cartao|08419be8-9740-3321-9428-38d77f855226|723|1212122111211234|mastercard|12/11/2027
+cliente^724^Ana Clara^Castro^ana.clara.castro@gmail.com^ATIVO
+cartao|7f1171a7-8ce0-380a-a142-a6eb7bc4f3c8|724|1211122112342201|solo|12/10/2026
+cliente^725^Nicole^Freitas^nicole.freitas@live.com^ATIVO
+cartao|82f2b308-c3b0-3637-8607-ce05f52a2fed|725|1228122112211431|solo|11/11/2030
+cliente^726^Isis^Bulhões^isis.bulhoes@yahoo.com^ATIVO
+cartao|0d3180d6-72e0-3b4c-9312-dcdafdf6ef36|726|1211122112342201|laser|12/10/2026
+cliente^727^Vicente^Ribeira^vicente.ribeira@bol.com.br^ATIVO
+cartao|fb89705a-e6d7-33bf-9e84-8c206e16a1d7|727|1234212112211211|laser|12/10/2026
+cliente^728^Silas^do Prado^silas.do.prado@bol.com.br^ATIVO
+cartao|d4c2e4a3-297f-325a-b1d0-30b67eb83bfc|728|1228122112211431|diners_club|11/11/2030
+cliente^729^Dalila^Corte^dalila.corte@bol.com.br^ATIVO
+cartao|5751ec3e-9a4f-3ab5-b596-2e78e006250d|729|1211122112342201|jcb|12/11/2027
+cliente^730^Gabrielly^da Mota^gabrielly.da.mota@yahoo.com^ATIVO
+cartao|d5cfead9-4f53-30c1-ac32-2b5b664544c1|730|1234212112211211|american_express|12/11/2027
+cliente^731^Matheus^de Borba^matheus.de.borba@hotmail.com^ATIVO
+cartao|59c33016-884a-3211-abe9-75a9bb8257e3|731|1211122112342201|laser|12/09/2028
+cliente^732^Henry^Ordonhes^henry.ordonhes@live.com^ATIVO
+cartao|ba386660-0c35-30f6-bc1e-9575e213be0a|732|1211122112342201|dankort|12/11/2027
+cliente^733^Ana^Rodrigues^ana.rodrigues@yahoo.com^ATIVO
+cartao|6c29793a-140a-311d-8c45-ce03c1c93a28|733|1228122112211431|maestro|11/11/2030
+cliente^734^Enzo^da Silva^enzo.da.silva@yahoo.com^ATIVO
+cartao|e995f98d-5696-3d94-a471-af29d7bf99f1|734|1234212112211211|jcb|12/10/2026
+cliente^735^Ana Laura^Aparício^ana.laura.aparicio@bol.com.br^ATIVO
+cartao|6cd67d9b-6f01-30c7-bbda-2eda01ae484c|735|1211122112342201|discover|12/11/2027
+cliente^736^Janaína^Siqueiro^janaina.siqueiro@yahoo.com^ATIVO
+cartao|6bc24fc1-ab65-3b25-b411-4e93a98f1eba|736|1212122111211234|discover|12/11/2027
+cliente^737^Larissa^Rebouças^larissa.reboucas@live.com^ATIVO
+cartao|a5cdd4aa-0048-3187-b718-2f1b9ce7a6a7|737|1234212112211211|maestro|12/10/2026
+cliente^738^Yuri^Bulhões^yuri.bulhoes@yahoo.com^ATIVO
+cartao|217eedd1-ba8c-392d-b97d-0dbe54c7adfc|738|1211122112342201|switch|12/11/2027
+cliente^739^Henrique^Barroso^henrique.barroso@yahoo.com^ATIVO
+cartao|df263d99-6281-3984-952c-07998dc54358|739|1212122111211234|jcb|12/09/2028
+cliente^740^Cauã^Dias^caua.dias@yahoo.com^ATIVO
+cartao|edfbe1af-cf92-36bb-8d40-eb4d8027d90f|740|1234212112211211|mastercard|12/10/2026
+cliente^741^Ana Luiza^Assumpção^ana.luiza.assumpcao@live.com^ATIVO
+cartao|2e65f2f2-fdaf-3c69-9b22-3c61b1b5ab89|741|1211122112342201|mastercard|12/11/2027
+cliente^742^João Felipe^Franco^joao.felipe.franco@bol.com.br^ATIVO
+cartao|e94550c9-3cd7-3fe7-88e6-982b3439ad3b|742|1228122112211431|mastercard|11/11/2030
+cliente^743^Melissa^Lopes^melissa.lopes@gmail.com^ATIVO
+cartao|5c572eca-0505-34c7-bc3c-36e7e8ab9550|743|1234212112211211|maestro|12/11/2027
+cliente^744^Carlos Eduardo^Longuinho^carlos.eduardo.longuinho@bol.com.br^ATIVO
+cartao|0537fb40-a68c-38da-99a3-5c2bfe1ca554|744|1211122112342201|dankort|12/09/2028
+cliente^745^João Pedro^Louzada^joao.pedro.louzada@yahoo.com^ATIVO
+cartao|5f0f5e5f-3394-3135-b874-349cfbed4fb9|745|1228122112211431|diners_club|12/10/2026
+cliente^746^Fabrício^Rocha^fabricio.rocha@hotmail.com^ATIVO
+cartao|185e65bc-4058-3880-84f2-c82958de8cfe|746|1234212112211211|switch|12/09/2028
+cliente^747^Ana Laura^Ambrósio^ana.laura.ambrosio@yahoo.com^ATIVO
+cartao|8d317bdc-f4aa-3cfc-a214-9d77babee96d|747|1212122111211234|discover|12/09/2028
+cliente^748^Vitor Hugo^Bittencourt^vitor.hugo.bittencourt@bol.com.br^ATIVO
+cartao|e49b8b40-53df-3505-a1f4-8c3a701c0682|748|1228122112211431|american_express|12/11/2027
+cliente^749^Gael^Veles^gael.veles@gmail.com^ATIVO
+cartao|b056eb15-8758-3b71-a2da-9acfe4fbd19e|749|1211122112342201|maestro|11/11/2030
+cliente^750^Ana Clara^Aragão^ana.clara.aragao@gmail.com^ATIVO
+cartao|b137fdd1-f79d-36c7-adf3-365fea7520f2|750|1234212112211211|diners_club|11/11/2030
+cliente^751^Luan^Moura^luan.moura@bol.com.br^ATIVO
+cartao|912d2b1c-7b28-36ca-b996-87388d2e8f7c|751|1211122112342201|discover|11/11/2030
+cliente^752^João Guilherme^da Mota^joao.guilherme.da.mota@yahoo.com^ATIVO
+cartao|a1d33d0d-fec8-30b4-9b54-430b50e96b5c|752|1212122111211234|diners_club|12/11/2027
+cliente^753^Márcio^da Silveira^marcio.da.silveira@bol.com.br^ATIVO
+cartao|6f2268bd-1d3d-3eba-abb0-4d6b5d099425|753|1212122111211234|forbrugsforeningen|12/11/2027
+cliente^754^João Pedro^Fogaça^joao.pedro.fogaca@live.com^ATIVO
+cartao|872488f8-8d1b-3db5-8d55-bc8bba2fad1b|754|1211122112342201|forbrugsforeningen|12/11/2027
+cliente^755^Guilherme^Bonfim^guilherme.bonfim@yahoo.com^ATIVO
+cartao|ccb09896-6221-3f61-adae-2e26d58ea92f|755|1211122112342201|diners_club|12/11/2027
+cliente^756^Nicole^Santos^nicole.santos@gmail.com^ATIVO
+cartao|2823f479-7102-3e1a-9aec-05359cc16dd9|756|1211122112342201|diners_club|12/11/2027
+cliente^757^Davi Luca^Menendes^davi.luca.menendes@gmail.com^ATIVO
+cartao|470e7a4f-017a-3476-afb7-eeb3f8b96f9b|757|1234212112211211|dankort|12/11/2027
+cliente^758^Yuri^Ferreira^yuri.ferreira@bol.com.br^ATIVO
+cartao|bf62768c-a46b-3c3b-9bea-9515d1a1fc45|758|1228122112211431|forbrugsforeningen|11/11/2030
+cliente^759^Maria Luiza^Aroeira^maria.luiza.aroeira@gmail.com^ATIVO
+cartao|fa14d4fe-2f19-314d-a3eb-d9f63d5c0169|759|1234212112211211|maestro|12/09/2028
+cliente^760^Luiz Miguel^Datena^luiz.miguel.datena@gmail.com^ATIVO
+cartao|2ca65f58-e35d-3ad4-9bf7-f3ae5cfd08f1|760|1228122112211431|forbrugsforeningen|11/11/2030
+cliente^761^Fabiano^de Sá^fabiano.de.sa@bol.com.br^ATIVO
+cartao|88ae6372-cfdc-3df6-9a97-6e893f4d554b|761|1211122112342201|diners_club|11/11/2030
+cliente^762^Yango^Santos^yango.santos@hotmail.com^ATIVO
+cartao|06997f04-a7db-3246-aa2b-aa6ebc8b872d|762|1234212112211211|diners_club|12/10/2026
+cliente^763^Janaína^Franco^janaina.franco@yahoo.com^ATIVO
+cartao|eefc9e10-ebdc-3a23-b3b4-2b2dbb8f27b6|763|1228122112211431|maestro|11/11/2030
+cliente^764^Davi Ludmer^da Penha^davi.ludmer.da.penha@bol.com.br^ATIVO
+cartao|5807a685-d1a9-3b3b-9990-35bc566ce2b9|764|1212122111211234|jcb|11/11/2030
+cliente^765^Eloah^Meira^eloah.meira@gmail.com^ATIVO
+cartao|d840cc5d-906c-3e9c-8437-4c8919d2074e|765|1228122112211431|american_express|11/11/2030
+cliente^766^Calebe^Nunes^calebe.nunes@gmail.com^ATIVO
+cartao|959a557f-5f6b-3b41-9fd9-54f3f34b21c3|766|1228122112211431|american_express|12/11/2027
+cliente^767^Júlia^do Prado^julia.do.prado@gmail.com^ATIVO
+cartao|f2201f51-91c4-392c-85af-043eebfd0946|767|1211122112342201|forbrugsforeningen|12/09/2028
+cliente^768^Enzo Miguel^Passarinho^enzo.miguel.passarinho@gmail.com^ATIVO
+cartao|3a835d32-1575-3c43-9ef4-fe9965a3f2a0|768|1212122111211234|laser|11/11/2030
+cliente^769^Laura^da Aldeia^laura.da.aldeia@yahoo.com^ATIVO
+cartao|288cc0ff-0228-37bd-bdf9-4bc9360b9c5d|769|1228122112211431|dankort|11/11/2030
+cliente^770^Dalila^Moraes^dalila.moraes@gmail.com^ATIVO
+cartao|4ea06fbc-83cd-30a0-a020-c35d50e1e89a|770|1228122112211431|dankort|12/09/2028
+cliente^771^Calebe^Bulhões^calebe.bulhoes@live.com^ATIVO
+cartao|b7ee6f5f-9aa5-3d17-8a1a-ea43ce848496|771|1212122111211234|solo|12/09/2028
+cliente^772^Igor^Meira^igor.meira@bol.com.br^ATIVO
+cartao|e57c6b95-6a65-31b2-8495-f2886ca0977a|772|1211122112342201|laser|11/11/2030
+cliente^773^Luiz Henrique^Pires^luiz.henrique.pires@bol.com.br^ATIVO
+cartao|86b122d4-3583-37d8-b4a8-7ce618a55de0|773|1234212112211211|forbrugsforeningen|11/11/2030
+cliente^774^Salvador^Carneiro^salvador.carneiro@gmail.com^ATIVO
+cartao|4e0928de-0755-38c5-93fb-dabb0c5ef2c3|774|1234212112211211|visa|12/09/2028
+cliente^775^Anthony^da Mata^anthony.da.mata@bol.com.br^ATIVO
+cartao|c0f168ce-8900-3a56-a577-89e2a2f2c9d0|775|1212122111211234|dankort|12/09/2028
+cliente^776^Kléber^Neves^kleber.neves@hotmail.com^ATIVO
+cartao|8c6744c9-d42e-32cb-9e88-85b54ff744d0|776|1228122112211431|solo|12/10/2026
+cliente^777^Pedro Tobias^Regueira^pedro.tobias.regueira@gmail.com^ATIVO
+cartao|f1c15925-8841-3002-af34-0cbaedd6fc33|777|1228122112211431|mastercard|12/10/2026
+cliente^778^Melissa^Rodrigues^melissa.rodrigues@gmail.com^ATIVO
+cartao|e0741335-4875-3e01-a996-dc560274708e|778|1228122112211431|maestro|12/09/2028
+cliente^779^Isadora^de Lins^isadora.de.lins@live.com^ATIVO
+cartao|67d96d45-8abd-3f21-b92e-6d8e590244e7|779|1211122112342201|switch|12/09/2028
+cliente^780^Cauã^Grotas^caua.grotas@yahoo.com^ATIVO
+cartao|a8e864d0-4c95-372d-9aec-e099af852d0a|780|1228122112211431|solo|11/11/2030
+cliente^781^Marina^Ximenes^marina.ximenes@bol.com.br^ATIVO
+cartao|7143d7fb-adfa-3693-b9ee-c507d9d37443|781|1234212112211211|switch|11/11/2030
+cliente^782^Isabelly^Soares^isabelly.soares@bol.com.br^ATIVO
+cartao|72da7fd6-d130-3c0a-959f-6436d01e9eb0|782|1211122112342201|maestro|12/11/2027
+cliente^783^Mércia^Pedroso^mercia.pedroso@yahoo.com^ATIVO
+cartao|6e0721b2-c697-3135-b916-ef286bcb49ec|783|1228122112211431|dankort|12/10/2026
+cliente^784^Maria Cecília^Silva^maria.cecilia.silva@bol.com.br^ATIVO
+cartao|fc8001f8-34f6-35f0-9610-80d134d53d29|784|1212122111211234|laser|12/11/2027
+cliente^785^Calebe^Camacho^calebe.camacho@yahoo.com^ATIVO
+cartao|4b04a686-b0ad-33dc-a35f-a99fa4161c65|785|1211122112342201|maestro|11/11/2030
+cliente^786^Paula^Dantas^paula.dantas@yahoo.com^ATIVO
+cartao|61b4a64b-e663-382e-8cb0-37d9719ad8cd|786|1212122111211234|maestro|11/11/2030
+cliente^787^Valentina^do Prado^valentina.do.prado@yahoo.com^ATIVO
+cartao|3621f145-4cac-3995-930e-a53652ddf8fb|787|1211122112342201|diners_club|12/10/2026
+cliente^788^Mariah^Xavier^mariah.xavier@bol.com.br^ATIVO
+cartao|c15da1f2-b5e5-3d6e-a837-a3802f0d1593|788|1234212112211211|american_express|11/11/2030
+cliente^789^Ana Cecília^Sá^ana.cecilia.sa@gmail.com^ATIVO
+cartao|68053af2-923e-3020-8c3c-a7c6a3150cf7|789|1234212112211211|laser|12/11/2027
+cliente^790^Alessandro^da Nóbrega^alessandro.da.nobrega@bol.com.br^ATIVO
+cartao|2dace78f-80bc-32e6-9749-3423d729448e|790|1211122112342201|dankort|12/09/2028
+cliente^791^Isis^Moreira^isis.moreira@yahoo.com^ATIVO
+cartao|df7f28ac-89ca-37bf-9abd-2f6c184fe1cf|791|1211122112342201|solo|11/11/2030
+cliente^792^Arthur Gabriel^Melo^arthur.gabriel.melo@bol.com.br^ATIVO
+cartao|96ea64f3-a1aa-3fd0-8c72-faacf0cb8ac9|792|1211122112342201|visa|12/10/2026
+cliente^793^Gustavo^Soeira^gustavo.soeira@gmail.com^ATIVO
+cartao|da8ce53c-f024-3070-8e6c-69c48cd588ee|793|1212122111211234|mastercard|12/10/2026
+cliente^794^Rodrigo^da Penha^rodrigo.da.penha@bol.com.br^ATIVO
+cartao|82489c97-37cc-3455-b0c7-a6ebef3753ec|794|1212122111211234|visa|12/10/2026
+cliente^795^Núbia^Ambrósio^nubia.ambrosio@bol.com.br^ATIVO
+cartao|7c590f01-4901-30db-8ed0-2a5070e20f01|795|1211122112342201|diners_club|12/09/2028
+cliente^796^Marcelo^Castro^marcelo.castro@yahoo.com^ATIVO
+cartao|35cf8659-cfcb-3322-8cbd-47863a34fc58|796|1211122112342201|forbrugsforeningen|12/10/2026
+cliente^797^Meire^Palhares^meire.palhares@live.com^ATIVO
+cartao|beb22fb6-94d5-33ed-8f55-33cf006dfeae|797|1212122111211234|solo|12/10/2026
+cliente^798^Luiz Gustavo^Álvares^luiz.gustavo.alvares@hotmail.com^ATIVO
+cartao|9e3cfc48-eccf-31a0-9576-63e129aef3cb|798|1211122112342201|mastercard|12/09/2028
+cliente^799^Ana^Pinto^ana.pinto@hotmail.com^ATIVO
+cartao|28267ab8-48bc-3807-b2ed-53c3a8f8fc8a|799|1212122111211234|visa|12/10/2026
+cliente^800^Helena^da Veiga^helena.da.veiga@yahoo.com^ATIVO
+cartao|7a53928f-a4dd-31e8-ac6e-f826f341daec|800|1234212112211211|jcb|11/11/2030
+cliente^801^Alícia^Moura^alicia.moura@gmail.com^ATIVO
+cartao|1905aeda-b9bf-3477-adc0-68a355bba31a|801|1211122112342201|switch|12/10/2026
+cliente^802^Washington^Solimões^washington.solimoes@live.com^ATIVO
+cartao|1141938b-a2c2-313f-9505-d7c424ebae5f|802|1211122112342201|visa|12/10/2026
+cliente^803^Luna^Aroeira^luna.aroeira@bol.com.br^ATIVO
+cartao|1aa48fc4-880b-30c9-b8a3-bf979d3b917e|803|1212122111211234|diners_club|12/11/2027
+cliente^804^Ana Júlia^Rezende^ana.julia.rezende@yahoo.com^ATIVO
+cartao|dc568979-2e08-3b2e-a19d-ce49e64c885b|804|1234212112211211|visa|11/11/2030
+cliente^805^Henrique^Gomes^henrique.gomes@live.com^ATIVO
+cartao|846c260d-715e-3b85-8ffa-d5f70a516c88|805|1228122112211431|american_express|12/09/2028
+cliente^806^Isabela^Junqueira^isabela.junqueira@live.com^ATIVO
+cartao|d58072be-2820-3868-ac0a-27c0518e805e|806|1234212112211211|visa|11/11/2030
+cliente^807^Sílvia^Rodrigues^silvia.rodrigues@bol.com.br^ATIVO
+cartao|6e7b33fd-ea3a-3c80-abd6-48fffb665bb8|807|1228122112211431|dankort|12/10/2026
+cliente^808^Júlia^Martim^julia.martim@hotmail.com^ATIVO
+cartao|a8ecbaba-e151-3bac-ba7d-bde04f761c37|808|1234212112211211|laser|12/11/2027
+cliente^809^Alice^Santana^alice.santana@gmail.com^ATIVO
+cartao|32b30a25-0abd-3331-a03a-2a1f16466346|809|1211122112342201|discover|12/10/2026
+cliente^810^João Samuel^da Penha^joao.samuel.da.penha@hotmail.com^ATIVO
+cartao|b6edc1cd-1f36-345d-af6d-7824d7bb2283|810|1234212112211211|dankort|12/11/2027
+cliente^811^Pietra^Veloso^pietra.veloso@gmail.com^ATIVO
+cartao|670e8a43-b246-301c-a1ea-ca97b3e19189|811|1212122111211234|dankort|11/11/2030
+cliente^812^Lavínia^Ouriques^lavinia.ouriques@hotmail.com^ATIVO
+cartao|81e74d67-8581-33bb-ba72-0b019f4f1a93|812|1228122112211431|jcb|12/10/2026
+cliente^813^Davi Ludmer^Castro^davi.ludmer.castro@bol.com.br^ATIVO
+cartao|e0cf1f47-118d-3ebc-9b16-269099ad7347|813|1211122112342201|forbrugsforeningen|12/11/2027
+cliente^814^Sarah^Monteira^sarah.monteira@bol.com.br^ATIVO
+cartao|96b9bff0-13ac-3dfb-9d14-0579e2fbeb63|814|1212122111211234|maestro|11/11/2030
+cliente^815^Samuel^Muniz^samuel.muniz@bol.com.br^ATIVO
+cartao|71ad16ad-2c4d-31f3-8808-2ff6c4b20768|815|1228122112211431|maestro|11/11/2030
+cliente^816^Samuel^Neves^samuel.neves@yahoo.com^ATIVO
+cartao|43fa7f58-b7ea-37ac-8722-09342e62e8f1|816|1234212112211211|dankort|11/11/2030
+cliente^817^Isabelly^de Quadros^isabelly.de.quadros@yahoo.com^ATIVO
+cartao|31839b03-6f63-306c-ba3f-47b93af8ccb5|817|1234212112211211|visa|12/10/2026
+cliente^818^Lavínia^Leiria^lavinia.leiria@yahoo.com^ATIVO
+cartao|f0adc883-8f4b-3edd-a4ec-2cfad0515589|818|1212122111211234|visa|12/10/2026
+cliente^819^César^Matoso^cesar.matoso@yahoo.com^ATIVO
+cartao|3b5dca50-1ee1-36d8-8d7b-905f4e1bf723|819|1234212112211211|maestro|12/11/2027
+cliente^820^Washington^da Penha^washington.da.penha@yahoo.com^ATIVO
+cartao|e2a2dcc3-6a08-3345-b32c-751b2f2e476c|820|1228122112211431|dankort|11/11/2030
+cliente^821^Eduarda^dos Reis^eduarda.dos.reis@live.com^ATIVO
+cartao|4558dbb6-f6f8-3b2e-96d0-3b85bde76e2c|821|1234212112211211|discover|12/10/2026
+cliente^822^Manuela^Fogaça^manuela.fogaca@hotmail.com^ATIVO
+cartao|afda3322-45e2-3f43-9fb7-b672a68b659d|822|1211122112342201|maestro|12/10/2026
+cliente^823^Lucas Gabriel^Moreno^lucas.gabriel.moreno@yahoo.com^ATIVO
+cartao|632cee94-6db8-3e7a-92ce-5e8d6f0fed35|823|1211122112342201|diners_club|12/09/2028
+cliente^824^Luiz Henrique^Albuquerque^luiz.henrique.albuquerque@yahoo.com^ATIVO
+cartao|677e0972-4f0e-3df9-b6c0-00b75b5da10d|824|1228122112211431|switch|11/11/2030
+cliente^825^Liz^Godins^liz.godins@bol.com.br^ATIVO
+cartao|d554f7bb-7be4-3a72-a706-8a7df88ddd20|825|1234212112211211|forbrugsforeningen|12/10/2026
+cliente^826^Felipe^da Barra^felipe.da.barra@yahoo.com^ATIVO
+cartao|795c7a7a-5ec6-3460-ac00-c5841019b9e9|826|1234212112211211|switch|12/10/2026
+cliente^827^Olívia^Sanches^olivia.sanches@hotmail.com^ATIVO
+cartao|fa3a3c40-7f82-377f-95c1-9c5d403335c7|827|1228122112211431|dankort|12/09/2028
+cliente^828^Antonia^Macieira^antonia.macieira@live.com^ATIVO
+cartao|c2626d85-0c80-3a07-a751-1bbae4c76f4b|828|1211122112342201|forbrugsforeningen|12/09/2028
+cliente^829^Thiago^Taveira^thiago.taveira@gmail.com^ATIVO
+cartao|ce78d1da-254c-3843-ab23-951ae077ff5f|829|1212122111211234|visa|12/11/2027
+cliente^830^Gael^da Maia^gael.da.maia@live.com^ATIVO
+cartao|8e82ab72-43b7-366d-b68f-1b8ce1c967eb|830|1228122112211431|forbrugsforeningen|11/11/2030
+cliente^831^Talita^Lobos^talita.lobos@gmail.com^ATIVO
+cartao|e0ec453e-28e0-31cc-98ac-43f91dc2f3f0|831|1234212112211211|discover|12/11/2027
+cliente^832^Ian^Pires^ian.pires@hotmail.com^ATIVO
+cartao|7250eb93-b3c1-3cc9-9aa2-9cf58af7a004|832|1234212112211211|american_express|12/10/2026
+cliente^833^Márcia^Cavalcanti^marcia.cavalcanti@hotmail.com^ATIVO
+cartao|013a006f-03db-3539-aeff-eb8f18fda755|833|1211122112342201|maestro|11/11/2030
+cliente^834^Maria Flor^da Mata^maria.flor.da.mata@hotmail.com^ATIVO
+cartao|301ad0e3-bd5c-3162-ba20-44908a42fdc2|834|1212122111211234|forbrugsforeningen|12/11/2027
+cliente^835^Mércia^Barbosa^mercia.barbosa@bol.com.br^ATIVO
+cartao|4d5b9953-58e7-398b-87e9-d9db83c612a5|835|1211122112342201|jcb|11/11/2030
+cliente^836^Ana Júlia^Silva^ana.julia.silva@hotmail.com^ATIVO
+cartao|ab88b157-33f5-3317-9858-600245108dd8|836|1228122112211431|solo|11/11/2030
+cliente^837^Enrico^da Mota^enrico.da.mota@bol.com.br^ATIVO
+cartao|b0b183c2-07f4-3f0c-8a7d-c63b2604f5cc|837|1228122112211431|jcb|11/11/2030
+cliente^838^Mathias^Bouças^mathias.boucas@hotmail.com^ATIVO
+cartao|f9028fae-c74b-36ec-9b85-2b0a542e2f39|838|1211122112342201|jcb|12/10/2026
+cliente^839^Ayla^Rebouças^ayla.reboucas@gmail.com^ATIVO
+cartao|8f7d807e-1f53-3ff5-b9ef-be5cb81090fb|839|1234212112211211|visa|12/10/2026
+cliente^840^Guilherme^Ambrósio^guilherme.ambrosio@hotmail.com^ATIVO
+cartao|fa83a11a-198d-3a7f-8bf7-7a1987bcd006|840|1228122112211431|american_express|11/11/2030
+cliente^841^Ofélia^de Quadros^ofelia.de.quadros@hotmail.com^ATIVO
+cartao|02a32ad2-669e-3fe2-98e6-07fe7cc0e1a0|841|1212122111211234|mastercard|11/11/2030
+cliente^842^Luiz Henrique^Teles^luiz.henrique.teles@gmail.com^ATIVO
+cartao|fc3cf452-d3da-3402-bebb-765225ce8c0e|842|1212122111211234|jcb|12/09/2028
+cliente^843^Liz^Pires^liz.pires@bol.com.br^ATIVO
+cartao|3d8e28ca-f901-313a-954c-ebc7d32e67e5|843|1212122111211234|jcb|11/11/2030
+cliente^844^Yasmin^Barreira^yasmin.barreira@live.com^ATIVO
+cartao|e97ee205-4def-3209-835f-e4dc94599061|844|1234212112211211|mastercard|12/09/2028
+cliente^845^João^Aparício^joao.aparicio@hotmail.com^ATIVO
+cartao|b86e8d03-fe99-3d1b-8e19-656875ee557c|845|1211122112342201|visa|12/11/2027
+cliente^846^Isis^da Fronteira^isis.da.fronteira@yahoo.com^ATIVO
+cartao|84f7e699-69de-392a-9255-08f7c1f9579a|846|1234212112211211|forbrugsforeningen|12/11/2027
+cliente^847^Paulo^Silva^paulo.silva@yahoo.com^ATIVO
+cartao|f4552671-f890-3587-8f48-5ea990207f3b|847|1211122112342201|switch|12/11/2027
+cliente^848^Tertuliano^Lobos^tertuliano.lobos@live.com^ATIVO
+cartao|362e80d4-df43-303a-a6d3-f8540cd63626|848|1228122112211431|mastercard|12/09/2028
+cliente^849^Lívia^Macedo^livia.macedo@live.com^ATIVO
+cartao|fe8c15fe-d5f8-3800-ace9-5eddb7366e35|849|1212122111211234|discover|11/11/2030
+cliente^850^Olívia^Cerqueira^olivia.cerqueira@bol.com.br^ATIVO
+cartao|1efa39bc-aec6-3390-8149-160693694536|850|1228122112211431|laser|12/10/2026
+cliente^851^Elísio^Rios^elisio.rios@live.com^ATIVO
+cartao|92fb0c6d-1758-361f-90d0-52e6e2c1123c|851|1234212112211211|dankort|12/10/2026
+cliente^852^Malu^Porto^malu.porto@bol.com.br^ATIVO
+cartao|22ac3c5a-5bf0-3520-9281-c122d1490650|852|1228122112211431|solo|12/11/2027
+cliente^853^Beatriz^Marques^beatriz.marques@gmail.com^ATIVO
+cartao|aff16212-54f7-31be-92f6-4550478c56e6|853|1228122112211431|jcb|11/11/2030
+cliente^854^Maitê^da Veiga^maite.da.veiga@hotmail.com^ATIVO
+cartao|f7e9050c-92a8-31b0-8164-42ab604b0488|854|1228122112211431|jcb|12/09/2028
+cliente^855^Márcia^Nascimento^marcia.nascimento@live.com^ATIVO
+cartao|addfa9b7-e234-354d-a6e9-c7f2af1005cb|855|1212122111211234|dankort|12/09/2028
+cliente^856^Nicole^da Paz^nicole.da.paz@bol.com.br^ATIVO
+cartao|8c235f89-a814-3a28-a1d6-067e959dd858|856|1228122112211431|solo|11/11/2030
+cliente^857^Ana^Corte^ana.corte@gmail.com^ATIVO
+cartao|847cc55b-7032-308e-ae6d-d897f3bca8a5|857|1211122112342201|forbrugsforeningen|12/09/2028
+cliente^858^Thomas^Rezende^thomas.rezende@gmail.com^ATIVO
+cartao|a67f0968-0941-3ca1-89f1-12d96d27689b|858|1212122111211234|laser|12/09/2028
+cliente^859^Enrico^Filgueira^enrico.filgueira@gmail.com^ATIVO
+cartao|2a084e55-c87b-3ebc-9aad-1f62fdbbac8e|859|1211122112342201|jcb|12/11/2027
+cliente^860^Catarina^Melo^catarina.melo@hotmail.com^ATIVO
+cartao|fc49306d-9760-3c8e-91be-1dfbf0835ead|860|1234212112211211|mastercard|12/09/2028
+cliente^861^Maria Helena^Garcez^maria.helena.garcez@gmail.com^ATIVO
+cartao|f9a40a47-80f5-3130-ac46-f1c8daecee3b|861|1234212112211211|switch|12/11/2027
+cliente^862^Theo^Matoso^theo.matoso@bol.com.br^ATIVO
+cartao|5ec91aac-30ea-362f-8140-325d09b9afd0|862|1234212112211211|maestro|12/09/2028
+cliente^863^Lorena^Costa^lorena.costa@hotmail.com^ATIVO
+cartao|19b65066-0b25-3761-af18-9682e03501dd|863|1234212112211211|jcb|12/09/2028
+cliente^864^Luiz Otávio^Bittencourt^luiz.otavio.bittencourt@yahoo.com^ATIVO
+cartao|1fc21400-4c94-31e4-8807-3e85323bfd4b|864|1212122111211234|forbrugsforeningen|12/11/2027
+cliente^865^Laís^da Mota^lais.da.mota@yahoo.com^ATIVO
+cartao|3b3dbaf6-8507-398a-8d6a-5a5254ab2d76|865|1211122112342201|american_express|11/11/2030
+cliente^866^Alessandra^Grotas^alessandra.grotas@bol.com.br^ATIVO
+cartao|ca8155f4-d27f-3059-93f9-d3d7974bdd70|866|1234212112211211|mastercard|12/09/2028
+cliente^867^Clara^Monteiro^clara.monteiro@gmail.com^ATIVO
+cartao|ede7e2b6-d13a-31dd-b9f4-bdef84fdc737|867|1212122111211234|jcb|11/11/2030
+cliente^868^Vinicius^Brum^vinicius.brum@gmail.com^ATIVO
+cartao|dd45045f-8c68-3b9f-94e7-0c67048d32e8|868|1234212112211211|diners_club|12/10/2026
+cliente^869^João Victor^Cabreira^joao.victor.cabreira@hotmail.com^ATIVO
+cartao|49c9adb1-8e44-3e07-91a9-4e827042f630|869|1234212112211211|visa|11/11/2030
+cliente^870^Mariana^Roseira^mariana.roseira@yahoo.com^ATIVO
+cartao|22fb0cee-7e1f-3bde-9829-3de743871417|870|1228122112211431|laser|12/10/2026
+cliente^871^Maria Vitória^Teles^maria.vitoria.teles@yahoo.com^ATIVO
+cartao|aeb3135b-436a-3553-b382-2c010763dd54|871|1234212112211211|discover|12/09/2028
+cliente^872^Maria Júlia^Fontinhas^maria.julia.fontinhas@yahoo.com^ATIVO
+cartao|43feaeee-cd7b-3fe2-ae2e-26d917b6477d|872|1212122111211234|switch|12/11/2027
+cliente^873^Cecília^Barata^cecilia.barata@yahoo.com^ATIVO
+cartao|98d6f58a-b0da-3bb8-ab08-3a001561bb34|873|1211122112342201|mastercard|12/10/2026
+cliente^874^Laís^Garcez^lais.garcez@live.com^ATIVO
+cartao|51ef186e-18dc-30c2-9319-82567235c559|874|1211122112342201|american_express|12/11/2027
+cliente^875^Vinícius^Banheira^vinicius.banheira@yahoo.com^ATIVO
+cartao|4b0a59dd-f11c-38e7-846c-9df0da541a84|875|1212122111211234|diners_club|12/10/2026
+cliente^876^Liz^Taveira^liz.taveira@bol.com.br^ATIVO
+cartao|67d16d00-2010-33a2-b118-dd5128dd6f59|876|1228122112211431|american_express|12/11/2027
+cliente^877^Nathan^da Nóbrega^nathan.da.nobrega@live.com^ATIVO
+cartao|35240722-1afb-376e-b143-e8a1a0577885|877|1234212112211211|visa|11/11/2030
+cliente^878^Márcia^Vidal^marcia.vidal@yahoo.com^ATIVO
+cartao|dd8eb9f2-3fbd-362d-a0e3-f4e70b878c16|878|1228122112211431|switch|11/11/2030
+cliente^879^Pedro Tobias^Rodrigues^pedro.tobias.rodrigues@live.com^ATIVO
+cartao|d516b136-71a4-379d-9b7b-458a6ebdeb92|879|1234212112211211|solo|12/11/2027
+cliente^880^Camila^Ambrósio^camila.ambrosio@yahoo.com^ATIVO
+cartao|1f50893f-80d6-330d-a276-5ffad7721742|880|1228122112211431|switch|12/10/2026
+cliente^881^Beatriz^da Rosa^beatriz.da.rosa@hotmail.com^ATIVO
+cartao|7504adad-8bb9-3320-ab3a-fdd4df6e1f60|881|1234212112211211|maestro|12/09/2028
+cliente^882^Vicente^Godins^vicente.godins@gmail.com^ATIVO
+cartao|6c3cf77d-5282-3cd0-be64-6d38bc2145ca|882|1211122112342201|american_express|11/11/2030
+cliente^883^Melissa^da Cunha^melissa.da.cunha@gmail.com^ATIVO
+cartao|210f760a-89db-30aa-b2ca-258a3483cc7f|883|1212122111211234|mastercard|12/10/2026
+cliente^884^João Guilherme^Banheira^joao.guilherme.banheira@bol.com.br^ATIVO
+cartao|170c9449-7849-3731-ba71-f34c25826a34|884|1212122111211234|forbrugsforeningen|12/09/2028
+cliente^885^Tiago^Siqueira^tiago.siqueira@hotmail.com^ATIVO
+cartao|0efe3284-9d23-3d7f-9304-9ddc4a4b0c60|885|1228122112211431|diners_club|12/10/2026
+cliente^886^Lorraine^Caldas^lorraine.caldas@yahoo.com^ATIVO
+cartao|704afe07-3992-3be4-813c-ae2f7715336f|886|1211122112342201|dankort|12/11/2027
+cliente^887^Bianca^Fernandes^bianca.fernandes@hotmail.com^ATIVO
+cartao|7ce3284b-743a-3fde-80ff-d9aec500e085|887|1228122112211431|discover|12/11/2027
+cliente^888^Marli^Dias^marli.dias@live.com^ATIVO
+cartao|0a113ef6-b618-30da-a561-1c870ed8d5ee|888|1212122111211234|dankort|12/09/2028
+cliente^889^João Lucas^Regueira^joao.lucas.regueira@gmail.com^ATIVO
+cartao|07871915-a810-3172-b3b5-dc15a6574ad3|889|1228122112211431|visa|12/10/2026
+cliente^890^Clarice^de Borba^clarice.de.borba@yahoo.com^ATIVO
+cartao|024d7f84-fff1-3dd7-a8d9-c510137a2381|890|1228122112211431|discover|12/11/2027
+cliente^891^Leonardo^Bomdia^leonardo.bomdia@yahoo.com^ATIVO
+cartao|cfbce4c1-d7c4-35ba-b21d-6b6f2babe6be|891|1211122112342201|american_express|12/11/2027
+cliente^892^Luiz Felipe^Negrão^luiz.felipe.negrao@live.com^ATIVO
+cartao|c2aee861-57b4-340b-b813-2f1e71a9e6f1|892|1234212112211211|laser|12/09/2028
+cliente^893^Fábio^Rocha^fabio.rocha@hotmail.com^ATIVO
+cartao|d56b9fc4-b0f1-3e88-b1f5-e1c40c0067e7|893|1211122112342201|dankort|12/09/2028
+cliente^894^João Lucas^Meireles^joao.lucas.meireles@live.com^ATIVO
+cartao|4b025079-3549-326d-9c1e-a3906726ebfe|894|1234212112211211|forbrugsforeningen|12/09/2028
+cliente^895^Davi^Simão^davi.simao@gmail.com^ATIVO
+cartao|20aee3a5-f464-3755-a79e-e5f6a73050ac|895|1211122112342201|jcb|12/11/2027
+cliente^896^Agatha^Taveira^agatha.taveira@hotmail.com^ATIVO
+cartao|061412e4-a03c-32f9-9025-76ec55ebbe77|896|1234212112211211|mastercard|11/11/2030
+cliente^897^Vicente^Tavares^vicente.tavares@gmail.com^ATIVO
+cartao|5705e116-4a83-34aa-8e60-18e27d20d237|897|1234212112211211|mastercard|12/09/2028
+cliente^898^Washington^Regueira^washington.regueira@hotmail.com^ATIVO
+cartao|a64c94ba-af36-3e18-80a1-324e839230de|898|1234212112211211|mastercard|12/10/2026
+cliente^899^Warley^Garcez^warley.garcez@live.com^ATIVO
+cartao|01882513-d5fa-3c32-9e94-0dda99b12147|899|1234212112211211|mastercard|12/10/2026
+cliente^900^Ana Laura^Sais^ana.laura.sais@gmail.com^ATIVO
+cartao|acf4b89d-3d50-3d82-92c9-c4ba75ddbf6d|900|1234212112211211|dankort|12/10/2026
+cliente^901^Thomas^Barreira^thomas.barreira@bol.com.br^ATIVO
+cartao|892c91e0-a653-3a19-9f81-a90f89d99bcd|901|1211122112342201|switch|11/11/2030
+cliente^902^Luan^Domingues^luan.domingues@gmail.com^ATIVO
+cartao|b6a1085a-27ab-3bff-b550-f8a3bd017df8|902|1212122111211234|american_express|12/11/2027
+cliente^903^Agatha^Quaresma^agatha.quaresma@hotmail.com^ATIVO
+cartao|aa169b49-b583-32b5-af89-203c2b78c67c|903|1234212112211211|forbrugsforeningen|12/10/2026
+cliente^904^Laura^Espinheira^laura.espinheira@yahoo.com^ATIVO
+cartao|f47d0ad3-1c4c-3906-9b9e-505593e3db98|904|1211122112342201|solo|12/09/2028
+cliente^905^Melissa^Castanheira^melissa.castanheira@hotmail.com^ATIVO
+cartao|f57a2f55-7b09-3c43-b11a-b969efe1504b|905|1212122111211234|jcb|12/11/2027
+cliente^906^Breno^Ambrósio^breno.ambrosio@bol.com.br^ATIVO
+cartao|c8fbbc86-abe8-3d6a-9eb6-a3b4d0411301|906|1211122112342201|solo|12/11/2027
+cliente^907^Oliver^Gonçalves^oliver.goncalves@gmail.com^ATIVO
+cartao|621461af-90ca-3fda-b0e8-d4cc25129f91|907|1228122112211431|switch|12/10/2026
+cliente^908^Núbia^da Madureira^nubia.da.madureira@live.com^ATIVO
+cartao|8b6dd7db-9af4-3e67-b06f-eb59a8bdc52c|908|1212122111211234|mastercard|12/11/2027
+cliente^909^Maria Júlia^Reis^maria.julia.reis@gmail.com^ATIVO
+cartao|a4300b00-2bcf-371f-a91d-ac175d52df94|909|1211122112342201|laser|12/09/2028
+cliente^910^Sarah^Dorneles^sarah.dorneles@hotmail.com^ATIVO
+cartao|e205ee2a-5de4-31a7-8c1f-d1b46033a75f|910|1212122111211234|laser|12/09/2028
+cliente^911^Karla^Aroeira^karla.aroeira@gmail.com^ATIVO
+cartao|b56a18e0-eacd-351a-a2a5-306b0f533204|911|1212122111211234|visa|11/11/2030
+cliente^912^Davi Luiz^Campos^davi.luiz.campos@gmail.com^ATIVO
+cartao|2a9d121c-d9c3-3183-abb6-d2cc6bd7a8a7|912|1234212112211211|mastercard|12/09/2028
+cliente^913^Lucas^Barroso^lucas.barroso@live.com^ATIVO
+cartao|8b5040a8-a5ba-33e0-a673-86c2e3a9b903|913|1228122112211431|visa|11/11/2030
+cliente^914^Bento^Bonfim^bento.bonfim@live.com^ATIVO
+cartao|7634ea65-a4e6-3904-9cfd-3f7de18e334a|914|1234212112211211|discover|12/09/2028
+cliente^915^João^Rameira^joao.rameira@gmail.com^ATIVO
+cartao|24896ee4-c652-3356-8c12-7852413ea3b4|915|1228122112211431|visa|12/09/2028
+cliente^916^Talita^Simão^talita.simao@bol.com.br^ATIVO
+cartao|23ce1851-341e-31fa-9e0c-259de10bf87c|916|1212122111211234|mastercard|12/11/2027
+cliente^917^Henry^Bouças^henry.boucas@hotmail.com^ATIVO
+cartao|da0d1111-d2dc-3d48-9242-e60ebcbaf988|917|1228122112211431|visa|11/11/2030
+cliente^918^Fernando^Arriaga^fernando.arriaga@yahoo.com^ATIVO
+cartao|1e056d2b-0ebd-3c87-8c55-0da6ac5d3724|918|1212122111211234|switch|11/11/2030
+cliente^919^Alessandro^de Assunção^alessandro.de.assuncao@bol.com.br^ATIVO
+cartao|3e89ebdb-49f7-32c7-990d-1b39e348bbbf|919|1234212112211211|jcb|12/10/2026
+cliente^920^Paula^Simões^paula.simoes@yahoo.com^ATIVO
+cartao|6d0f8463-48a8-3632-9729-a2f36734d1a7|920|1212122111211234|switch|12/11/2027
+cliente^921^Laís^Pinto^lais.pinto@bol.com.br^ATIVO
+cartao|430c3626-b879-3400-9d41-b8a46172e0c0|921|1234212112211211|forbrugsforeningen|12/11/2027
+cliente^922^Emilly^da Silveira^emilly.da.silveira@hotmail.com^ATIVO
+cartao|ccc0aa1b-81bf-31e1-ac67-6ddb977c5881|922|1211122112342201|jcb|12/10/2026
+cliente^923^Henrique^da Aldeia^henrique.da.aldeia@bol.com.br^ATIVO
+cartao|c4015b7f-368e-3b48-b180-9f49debe0579|923|1234212112211211|discover|12/10/2026
+cliente^924^Luana^Teixeira^luana.teixeira@yahoo.com^ATIVO
+cartao|bea5955b-3083-31a1-b07b-c55042e25e54|924|1234212112211211|visa|11/11/2030
+cliente^925^Laís^Silva^lais.silva@bol.com.br^ATIVO
+cartao|7fa732b5-17cb-3d14-a488-43d74526c11a|925|1212122111211234|laser|12/10/2026
+cliente^926^Ana Luiza^Soeira^ana.luiza.soeira@yahoo.com^ATIVO
+cartao|cbb6a3b8-84f4-388b-ba8e-3d44c636cbd8|926|1212122111211234|mastercard|12/10/2026
+cliente^927^Nathan^Franco^nathan.franco@hotmail.com^ATIVO
+cartao|1f4477ba-d7af-3616-81f9-33a02bfabe4e|927|1211122112342201|solo|12/11/2027
+cliente^928^Vinicius^Rezende^vinicius.rezende@live.com^ATIVO
+cartao|d045c59a-90d7-387d-8d67-1b5f5aec4e7c|928|1211122112342201|american_express|11/11/2030
+cliente^929^João Felipe^Neves^joao.felipe.neves@gmail.com^ATIVO
+cartao|0d0871f0-806e-3e32-9309-83b62252da50|929|1212122111211234|forbrugsforeningen|11/11/2030
+cliente^930^Rafael^da Fontoura^rafael.da.fontoura@bol.com.br^ATIVO
+cartao|1cc3633c-579a-30cf-9d89-5e64021e2163|930|1212122111211234|discover|12/09/2028
+cliente^931^Gúbio^Castelo^gubio.castelo@bol.com.br^ATIVO
+cartao|9f53d83e-c069-3550-b7d2-507d57f4f5a2|931|1234212112211211|jcb|11/11/2030
+cliente^932^Norberto^Amoreira^norberto.amoreira@yahoo.com^ATIVO
+cartao|d2ed45a5-2bc0-3dfa-91c2-064e9edee8bf|932|1234212112211211|maestro|12/10/2026
+cliente^933^Isis^Louzada^isis.louzada@live.com^ATIVO
+cartao|043c3d7e-489c-39b4-8737-cc0c92d0f3a2|933|1234212112211211|dankort|12/11/2027
+cliente^934^Davi Lucca^Santos^davi.lucca.santos@hotmail.com^ATIVO
+cartao|4daa3db3-55ef-3b0e-a4b4-72968cb70f0d|934|1228122112211431|american_express|11/11/2030
+cliente^935^Calebe^Vasques^calebe.vasques@hotmail.com^ATIVO
+cartao|e820a45f-1dfc-3b95-a82d-10b6087e11c0|935|1211122112342201|switch|12/10/2026
+cliente^936^Antonella^Rodrigues^antonella.rodrigues@live.com^ATIVO
+cartao|90794e3b-050f-3153-94e3-e29e977a88ab|936|1212122111211234|solo|12/09/2028
+cliente^937^Kaique^da Penha^kaique.da.penha@gmail.com^ATIVO
+cartao|b7892fb3-c2f0-39c6-9f68-6f6355c895b5|937|1234212112211211|discover|12/09/2028
+cliente^938^Giulia^Peixoto^giulia.peixoto@bol.com.br^ATIVO
+cartao|74bba227-28b6-385e-ac06-286af6bec36d|938|1228122112211431|mastercard|11/11/2030
+cliente^939^Mariana^da Fonseca^mariana.da.fonseca@hotmail.com^ATIVO
+cartao|3df1d4b9-6d89-36ff-9986-393e8767f5b2|939|1212122111211234|solo|12/11/2027
+cliente^940^Alícia^Carneiro^alicia.carneiro@live.com^ATIVO
+cartao|8d6dc35e-506f-3233-89dd-10ee68dabb64|940|1234212112211211|mastercard|12/09/2028
+cliente^941^Talita^da Mota^talita.da.mota@yahoo.com^ATIVO
+cartao|92262bf9-07af-314b-95a0-fc33c3f33bf6|941|1211122112342201|jcb|12/10/2026
+cliente^942^Davi Lucca^Coqueiro^davi.lucca.coqueiro@bol.com.br^ATIVO
+cartao|b55ec28c-52d5-3620-9684-a473a2193564|942|1234212112211211|diners_club|11/11/2030
+cliente^943^Maria Helena^Menendes^maria.helena.menendes@bol.com.br^ATIVO
+cartao|2f885d0f-be2e-331b-bc9d-98363e55d1d4|943|1228122112211431|forbrugsforeningen|12/10/2026
+cliente^944^Luiz^Gomes^luiz.gomes@gmail.com^ATIVO
+cartao|64223ccf-70bb-365a-ba4a-ceac37e21016|944|1211122112342201|visa|12/10/2026
+cliente^945^Silas^Barbosa^silas.barbosa@hotmail.com^ATIVO
+cartao|4b6538a4-4a1d-3dc2-b834-77cd76dee98e|945|1234212112211211|forbrugsforeningen|12/11/2027
+cliente^946^João Pedro^Roseira^joao.pedro.roseira@yahoo.com^ATIVO
+cartao|c8c41c4a-1867-3a74-a01c-8a20e8a0f662|946|1234212112211211|jcb|12/11/2027
+cliente^947^Giovanna^Lessa^giovanna.lessa@yahoo.com^ATIVO
+cartao|c4b31ce7-d95c-35ca-b0d5-0c19aef08bf1|947|1228122112211431|visa|12/11/2027
+cliente^948^Maria Vitória^Leiria^maria.vitoria.leiria@gmail.com^ATIVO
+cartao|58e4d44e-550d-3f7e-a0a2-3d6b02d9b0db|948|1211122112342201|diners_club|12/09/2028
+cliente^949^Feliciano^Rebouças^feliciano.reboucas@bol.com.br^ATIVO
+cartao|3cef96dc-c9b8-335d-a3f6-9e30bb19218a|949|1228122112211431|forbrugsforeningen|11/11/2030
+cliente^950^Dalila^Hernandes^dalila.hernandes@yahoo.com^ATIVO
+cartao|a3d68b46-1bd9-3353-bee1-dd3ce4628ed4|950|1228122112211431|solo|12/09/2028
+cliente^951^Marli^Viana^marli.viana@hotmail.com^ATIVO
+cartao|1c1d4df5-96d0-3da6-8385-f0bb17a4a9e0|951|1212122111211234|discover|12/10/2026
+cliente^952^Ígor^Fontinhas^igor.fontinhas@hotmail.com^ATIVO
+cartao|e6cb2a3c-1443-3b55-aa50-c06529eaa21b|952|1228122112211431|forbrugsforeningen|11/11/2030
+cliente^953^João^Palmeira^joao.palmeira@hotmail.com^ATIVO
+cartao|9232fe81-225b-3aef-853a-e32870a2b0fe|953|1228122112211431|american_express|12/11/2027
+cliente^954^Alice^Ferraço^alice.ferraco@bol.com.br^ATIVO
+cartao|6395ebd0-f4b4-3814-9ecf-baf939454fa4|954|1234212112211211|switch|12/11/2027
+cliente^955^João Samuel^Reis^joao.samuel.reis@live.com^ATIVO
+cartao|ef4e3b77-5c93-3dad-a217-712d76f3d51f|955|1211122112342201|switch|11/11/2030
+cliente^956^Isabelly^Munhoz^isabelly.munhoz@hotmail.com^ATIVO
+cartao|168908dd-3227-3835-8eab-aba07fcaf091|956|1234212112211211|jcb|12/11/2027
+cliente^957^Eloah^Batista^eloah.batista@yahoo.com^ATIVO
+cartao|2ba59664-3cbb-3c20-b182-24181fa46b28|957|1234212112211211|forbrugsforeningen|12/09/2028
+cliente^958^Nicolas^Conceição^nicolas.conceicao@gmail.com^ATIVO
+cartao|d240e3d3-8a88-32ec-ad86-33c8f9c78c9b|958|1211122112342201|american_express|12/10/2026
+cliente^959^Adriana^Araújo^adriana.araujo@hotmail.com^ATIVO
+cartao|0f840be9-b8db-3d3f-bd5b-a2ce59211f55|959|1234212112211211|laser|12/10/2026
+cliente^960^Alice^Aparício^alice.aparicio@gmail.com^ATIVO
+cartao|437d7d1d-9791-3cd6-a7a3-4a6a0fb41136|960|1211122112342201|laser|12/10/2026
+cliente^961^Luiz Felipe^Simões^luiz.felipe.simoes@yahoo.com^ATIVO
+cartao|d707329b-ece4-35a4-a2b5-8ce00d1194c9|961|1211122112342201|jcb|12/11/2027
+cliente^962^Kléber^Bouças^kleber.boucas@bol.com.br^ATIVO
+cartao|5c936263-f342-3a40-a279-08d5a3847c0b|962|1234212112211211|discover|11/11/2030
+cliente^963^Gustavo^Macieira^gustavo.macieira@gmail.com^ATIVO
+cartao|1ce927f8-7586-3094-a390-6a4a0b5ece68|963|1212122111211234|maestro|12/09/2028
+cliente^964^Beatriz^Roriz^beatriz.roriz@gmail.com^ATIVO
+cartao|8065d07d-a4a7-3621-850a-a84fee5656d9|964|1228122112211431|maestro|12/11/2027
+cliente^965^Ana Clara^Aragão^ana.clara.aragao@live.com^ATIVO
+cartao|eeb69a3c-b923-3045-ab6a-5f4162093851|965|1212122111211234|mastercard|12/10/2026
+cliente^966^Bernardo^Pires^bernardo.pires@gmail.com^ATIVO
+cartao|4e0cb6fb-5fb4-36d1-892e-de2ed8780188|966|1211122112342201|solo|11/11/2030
+cliente^967^Antonella^Mendanha^antonella.mendanha@yahoo.com^ATIVO
+cartao|6cfe0e61-27fa-35df-aa0e-f2ae1067d915|967|1212122111211234|dankort|12/11/2027
+cliente^968^Ana Laura^Bentes^ana.laura.bentes@hotmail.com^ATIVO
+cartao|8f468c87-3a32-3b06-99ea-eb2050ba45d1|968|1211122112342201|dankort|12/09/2028
+cliente^969^Nicolas^Roriz^nicolas.roriz@bol.com.br^ATIVO
+cartao|e744f91c-29ec-39f0-a662-c9177946c627|969|1234212112211211|mastercard|12/11/2027
+cliente^970^Mércia^da Penha^mercia.da.penha@yahoo.com^ATIVO
+cartao|89fcd07f-20b6-385b-9213-4bd6c1d0fa42|970|1234212112211211|discover|12/09/2028
+cliente^971^Gael^Munhoz^gael.munhoz@gmail.com^ATIVO
+cartao|6602294b-e910-31e3-8457-1bd98c4d5484|971|1211122112342201|american_express|12/10/2026
+cliente^972^Ana Sophia^Taveira^ana.sophia.taveira@yahoo.com^ATIVO
+cartao|c22abfa3-79f3-3b5b-8411-bc11fa9bf92f|972|1211122112342201|american_express|12/10/2026
+cliente^973^Enzo Gabriel^Ferreira^enzo.gabriel.ferreira@bol.com.br^ATIVO
+cartao|ca759101-66da-33ff-9d46-55a0338e6b09|973|1212122111211234|visa|11/11/2030
+cliente^974^João Vitor^Cavalcanti^joao.vitor.cavalcanti@bol.com.br^ATIVO
+cartao|4311359e-d496-3e84-8188-0e3c1836fbe1|974|1228122112211431|visa|12/10/2026
+cliente^975^Lavínia^Ribeira^lavinia.ribeira@gmail.com^ATIVO
+cartao|92977ae4-d2ba-3142-9a59-afb269c2a14e|975|1211122112342201|visa|12/11/2027
+cliente^976^Helena^Hernandes^helena.hernandes@live.com^ATIVO
+cartao|9c01802d-db98-3e6b-8fbe-c0f0516b8e35|976|1228122112211431|dankort|11/11/2030
+cliente^977^Maria Clara^Nogueira^maria.clara.nogueira@gmail.com^ATIVO
+cartao|cc1aa436-2771-38f6-9cda-703991069eaf|977|1228122112211431|jcb|12/10/2026
+cliente^978^Miguel^Soares^miguel.soares@bol.com.br^ATIVO
+cartao|2ab56412-b116-3ee1-b1e1-246da0955bd1|978|1211122112342201|switch|12/10/2026
+cliente^979^Luiz Gustavo^da Luz^luiz.gustavo.da.luz@live.com^ATIVO
+cartao|c32d9bf2-7a3d-37ec-8163-957080c8628e|979|1234212112211211|american_express|12/10/2026
+cliente^980^Arthur Gabriel^da Gama^arthur.gabriel.da.gama@yahoo.com^ATIVO
+cartao|d79aac07-5930-383c-af1e-369a511148fe|980|1212122111211234|diners_club|11/11/2030
+cliente^981^Carlos Eduardo^Santana^carlos.eduardo.santana@yahoo.com^ATIVO
+cartao|287e03db-1d99-30ec-aedb-90d079e142f3|981|1211122112342201|jcb|12/09/2028
+cliente^982^Maitê^Assumpção^maite.assumpcao@hotmail.com^ATIVO
+cartao|fec8d47d-412b-3bee-8e3d-9128ae855a7a|982|1234212112211211|solo|12/10/2026
+cliente^983^Catarina^Limeira^catarina.limeira@gmail.com^ATIVO
+cartao|6aab1270-668d-3cac-bcef-2566a1c5f569|983|1228122112211431|discover|12/11/2027
+cliente^984^Yasmin^Crespo^yasmin.crespo@yahoo.com^ATIVO
+cartao|d93ed5b6-db83-3e78-afb0-d05ae420158e|984|1211122112342201|laser|11/11/2030
+cliente^985^Roberto^da Nóbrega^roberto.da.nobrega@bol.com.br^ATIVO
+cartao|54a367d6-2915-3b72-8749-e187b3eaa11b|985|1234212112211211|jcb|12/11/2027
+cliente^986^Rafaela^Amoreira^rafaela.amoreira@gmail.com^ATIVO
+cartao|fe7ee8fc-1959-3c72-94fa-21c4840dff0a|986|1228122112211431|jcb|11/11/2030
+cliente^987^Ryan^Vidal^ryan.vidal@hotmail.com^ATIVO
+cartao|df6d2338-b2b8-3ce1-ac2f-6dda0a630eb0|987|1234212112211211|maestro|12/11/2027
+cliente^988^Fabrícia^Rios^fabricia.rios@yahoo.com^ATIVO
+cartao|9908279e-bbf1-39b2-90ba-689db6a0222b|988|1228122112211431|jcb|11/11/2030
+cliente^989^Luiza^Quarteira^luiza.quarteira@hotmail.com^ATIVO
+cartao|a1140a3d-0df1-381e-a4ae-954d935e8926|989|1212122111211234|jcb|12/11/2027
+cliente^990^Cecília^Bentes^cecilia.bentes@bol.com.br^ATIVO
+cartao|4fac9ba1-1514-3ac4-b1c2-2da82aa0bc7f|990|1212122111211234|mastercard|11/11/2030
+cliente^991^Davi Lucas^Cerqueira^davi.lucas.cerqueira@bol.com.br^ATIVO
+cartao|692f93be-8c7a-3152-9c0b-af2076aecfb4|991|1234212112211211|jcb|12/10/2026
+cliente^992^Gabrielly^Ramalho^gabrielly.ramalho@yahoo.com^ATIVO
+cartao|860320be-12a1-3050-8d77-31794e231bd3|992|1234212112211211|forbrugsforeningen|12/09/2028
+cliente^993^Igor^Viveiros^igor.viveiros@gmail.com^ATIVO
+cartao|7b13b220-3029-3d80-b37f-27127a9f1d28|993|1234212112211211|forbrugsforeningen|12/11/2027
+cliente^994^Bárbara^Coqueiro^barbara.coqueiro@gmail.com^ATIVO
+cartao|934815ad-542a-3a7c-9e8a-2dfa04fea9f5|994|1234212112211211|diners_club|12/10/2026
+cliente^995^Márcia^Martins^marcia.martins@gmail.com^ATIVO
+cartao|2bcab9d9-35d2-3964-9434-683dd9d18a03|995|1234212112211211|dankort|12/11/2027
+cliente^996^Norberto^Meira^norberto.meira@hotmail.com^ATIVO
+cartao|0b8aff04-3861-3c05-9eb5-5f0ba5d226fa|996|1212122111211234|visa|12/10/2026
+cliente^997^Larissa^da Maia^larissa.da.maia@live.com^ATIVO
+cartao|ec5aa0b7-8460-32a2-815f-0902f0da88f2|997|1234212112211211|mastercard|12/11/2027
+cliente^998^Carolina^Ferreira^carolina.ferreira@bol.com.br^ATIVO
+cartao|9ab0d884-3173-3957-a618-d4a469a0d4c3|998|1234212112211211|mastercard|11/11/2030
+cliente^999^Anthony^Porto^anthony.porto@live.com^ATIVO
+cartao|b706835d-e79a-3b4e-8050-6f582af3676a|999|1211122112342201|american_express|12/10/2026
+cliente^1000^Theo^Porto^theo.porto@bol.com.br^ATIVO
+cartao|a9b7ba70-783b-317e-9998-dc4dd82eb3c5|1000|1212122111211234|solo|12/09/2028
